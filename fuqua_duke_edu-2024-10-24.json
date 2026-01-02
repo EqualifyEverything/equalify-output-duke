@@ -1,0 +1,528 @@
+{
+  "audit_name": "Duke - Fuqua",
+  "audit_id": "be1cb0bb-456e-5bb0-9932-88db9a3e49fd",
+  "pagination": {
+    "totalPages": 1,
+    "pageSize": 1000,
+    "page": 1,
+    "totalCount": 35
+  },
+  "availableCategories": [
+    "aria-allowed-attr",
+    "aria-allowed-role",
+    "aria-dialog-name",
+    "aria-hidden-focus",
+    "aria-input-field-name",
+    "aria-progressbar-name",
+    "aria-prohibited-attr",
+    "aria-required-attr",
+    "aria-required-children",
+    "aria-required-parent",
+    "aria-roles",
+    "aria-valid-attr",
+    "aria-valid-attr-value",
+    "button-name",
+    "bypass",
+    "color-contrast",
+    "document-title",
+    "duplicate-id-aria",
+    "empty-alt-tag",
+    "empty-heading",
+    "empty-table-header",
+    "frame-focusable-content",
+    "frame-tested",
+    "frame-title",
+    "frame-title-unique",
+    "heading-order",
+    "html-has-lang",
+    "image-alt",
+    "image-redundant-alt",
+    "ISO 14289-2:2024",
+    "ISO 32005:2023",
+    "label",
+    "landmark-banner-is-top-level",
+    "landmark-contentinfo-is-top-level",
+    "landmark-main-is-top-level",
+    "landmark-no-duplicate-banner",
+    "landmark-no-duplicate-contentinfo",
+    "landmark-no-duplicate-main",
+    "landmark-one-main",
+    "landmark-unique",
+    "link-in-text-block",
+    "link-name",
+    "list",
+    "listitem",
+    "meta-refresh",
+    "meta-viewport",
+    "nested-interactive",
+    "page-has-heading-one",
+    "pdf-link",
+    "presentation-role-conflict",
+    "region",
+    "role-img-alt",
+    "select-name",
+    "tabindex",
+    "th-has-data-cells",
+    "video-caption"
+  ],
+  "statusCounts": {
+    "all": 292,
+    "ignored": 0,
+    "active": 292
+  },
+  "availableTags": [
+    {
+      "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+      "content": "ACT"
+    },
+    {
+      "id": "f8677ee6-497e-baed-572d-b9693271233c",
+      "content": "alt-text"
+    },
+    {
+      "id": "61dcc6a0-afa4-195e-fc1a-4041d23c238c",
+      "content": "annotation"
+    },
+    {
+      "id": "dbbc513f-3f23-3709-cc89-fc987b71ed4a",
+      "content": "artifact"
+    },
+    {
+      "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+      "content": "best-practice"
+    },
+    {
+      "id": "aa4762cb-e32c-c202-a72a-27c1bf9860bd",
+      "content": "cat.aria"
+    },
+    {
+      "id": "f790948d-8257-bb87-244f-966fa83d2792",
+      "content": "cat.color"
+    },
+    {
+      "id": "697e2999-3658-7bc3-707f-9c2b8c422ccd",
+      "content": "cat.forms"
+    },
+    {
+      "id": "56a24d9c-dcc9-c42e-6b2c-912bc2e740c4",
+      "content": "cat.keyboard"
+    },
+    {
+      "id": "c91b9c35-483e-2e3b-99b1-af4ab58cbe10",
+      "content": "cat.language"
+    },
+    {
+      "id": "c6410dfe-af53-9cfc-041a-cfbc01c93240",
+      "content": "cat.name-role-value"
+    },
+    {
+      "id": "ea843653-9acb-9cf4-49f8-f20503bbbf78",
+      "content": "cat.parsing"
+    },
+    {
+      "id": "e991142c-cf65-e45a-a371-e838dea4ca6c",
+      "content": "cat.semantics"
+    },
+    {
+      "id": "604432a5-d909-a250-8fe7-cdc78187757f",
+      "content": "cat.sensory-and-visual-cues"
+    },
+    {
+      "id": "e82b711c-acd0-bb92-be15-1600b24db507",
+      "content": "cat.structure"
+    },
+    {
+      "id": "8fb60fcf-af79-34b2-37da-362fef89ffe2",
+      "content": "cat.tables"
+    },
+    {
+      "id": "799d63ff-def6-4172-d2fb-13082d772e3a",
+      "content": "cat.text-alternatives"
+    },
+    {
+      "id": "12f3d937-1218-8dff-4f92-beb2bf4281b1",
+      "content": "cat.time-and-media"
+    },
+    {
+      "id": "67955410-92e7-6716-302a-4f1e153b8417",
+      "content": "EN-301-549"
+    },
+    {
+      "id": "459df6a1-8bea-4789-b3ca-801dfd5a4ffb",
+      "content": "EN-9.1.1.1"
+    },
+    {
+      "id": "0114b2fb-350e-2b6e-32f9-e4e97eb3c4e2",
+      "content": "EN-9.1.2.2"
+    },
+    {
+      "id": "9c37064a-38f7-bae8-071c-cef1821ac3e2",
+      "content": "EN-9.1.3.1"
+    },
+    {
+      "id": "51fd839f-2f41-2056-25d8-0aec53f8bf4d",
+      "content": "EN-9.1.4.1"
+    },
+    {
+      "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+      "content": "EN-9.1.4.3"
+    },
+    {
+      "id": "e9fe32d8-3454-cefb-43e3-8f75b0c6bb36",
+      "content": "EN-9.1.4.4"
+    },
+    {
+      "id": "3f5e7bea-a258-d362-35cd-3e7fe4f94f64",
+      "content": "EN-9.2.1.1"
+    },
+    {
+      "id": "f87953b0-4ef9-dfd3-8642-cb4bfcbfddf3",
+      "content": "EN-9.2.2.1"
+    },
+    {
+      "id": "30d452ef-a667-4407-cb9e-4dd21415e496",
+      "content": "EN-9.2.4.1"
+    },
+    {
+      "id": "21988587-affa-8c3f-7929-7d201a510cae",
+      "content": "EN-9.2.4.2"
+    },
+    {
+      "id": "d876a57d-2364-fe73-360a-07edd032eced",
+      "content": "EN-9.2.4.4"
+    },
+    {
+      "id": "b68784b2-7440-5c1a-9660-75220f5164c8",
+      "content": "EN-9.3.1.1"
+    },
+    {
+      "id": "ae3fd173-b9ae-ed21-4b9c-097d4a4475fc",
+      "content": "EN-9.4.1.2"
+    },
+    {
+      "id": "6a77f6b2-0cc0-4302-51f6-4d30c8fa16bb",
+      "content": "lang"
+    },
+    {
+      "id": "5816d57d-c2d0-0279-90fa-ff409605a6d0",
+      "content": "list"
+    },
+    {
+      "id": "5169be44-1681-483a-d71c-8ce842320210",
+      "content": "metadata"
+    },
+    {
+      "id": "1fc465f9-9a22-4ce0-2572-fd34402c056f",
+      "content": "paragraph"
+    },
+    {
+      "id": "51aced64-230a-38da-3799-061289002e55",
+      "content": "review-item"
+    },
+    {
+      "id": "4871d787-5670-efdd-b2c7-540b3609c1ec",
+      "content": "section508"
+    },
+    {
+      "id": "1f4a2659-22be-a23f-c45b-8e5d51dff814",
+      "content": "section508.22.a"
+    },
+    {
+      "id": "7bfd69a7-1d84-88ac-0136-3015ffa10878",
+      "content": "section508.22.g"
+    },
+    {
+      "id": "5fc18086-834a-b160-d6b1-fa01062b6df9",
+      "content": "section508.22.i"
+    },
+    {
+      "id": "54f9ab54-f01a-499d-47ec-b81621ee6514",
+      "content": "section508.22.n"
+    },
+    {
+      "id": "2a217729-b50f-d6b0-8333-9406c2ea5521",
+      "content": "section508.22.o"
+    },
+    {
+      "id": "fb544472-e79a-4699-3208-d9c98b1a6f6d",
+      "content": "structure"
+    },
+    {
+      "id": "37c155e8-184c-4227-8957-0e75e3c46419",
+      "content": "syntax"
+    },
+    {
+      "id": "0e4a6aa0-b5a9-d919-e63c-57af610db61a",
+      "content": "toc"
+    },
+    {
+      "id": "e752e80b-eb7b-1202-6980-0771472487df",
+      "content": "TT11.a"
+    },
+    {
+      "id": "40d3eadb-b1a8-fc17-39a5-f0af404bca83",
+      "content": "TT12.a"
+    },
+    {
+      "id": "a0130679-f27f-3f18-8ba0-afe7c1a489e7",
+      "content": "TT12.d"
+    },
+    {
+      "id": "833d9451-861b-341d-77fc-3c7ab0868400",
+      "content": "TT13.a"
+    },
+    {
+      "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+      "content": "TT13.c"
+    },
+    {
+      "id": "f3039aa2-4d67-f08e-79c3-e735d8ee739d",
+      "content": "TT14.b"
+    },
+    {
+      "id": "9718d4c6-a137-f806-dd4c-ac2c3f926314",
+      "content": "TT17.a"
+    },
+    {
+      "id": "b1b05532-8dd2-1a8d-5040-8acad32ba65e",
+      "content": "TT4.a"
+    },
+    {
+      "id": "00941c24-eef3-387e-6d24-f511e34cb41d",
+      "content": "TT5.c"
+    },
+    {
+      "id": "4523475a-5e01-e974-7a7f-27e053caebd7",
+      "content": "TT6.a"
+    },
+    {
+      "id": "39fab313-0192-e69c-0aaa-9eaafdbc2936",
+      "content": "TT7.a"
+    },
+    {
+      "id": "09bf9d4c-9c74-3c12-8016-81bde99219cb",
+      "content": "TT7.b"
+    },
+    {
+      "id": "09c6ded3-59c7-e49c-6e45-a153ed7b66b0",
+      "content": "TT8.a"
+    },
+    {
+      "id": "e674d1d1-2f8f-2939-3db6-8dbf03e38339",
+      "content": "TT9.a"
+    },
+    {
+      "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+      "content": "TTv5"
+    },
+    {
+      "id": "bdbf199c-cb5e-05f4-6f45-0ac6f442a003",
+      "content": "wcag111"
+    },
+    {
+      "id": "4a334439-5833-891f-9b28-d22cddb9bb1a",
+      "content": "wcag122"
+    },
+    {
+      "id": "2920b563-6196-4963-2355-b320aaa78e6c",
+      "content": "wcag131"
+    },
+    {
+      "id": "5f94ab05-6aa3-7aa0-6746-98d6806dbb17",
+      "content": "wcag141"
+    },
+    {
+      "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+      "content": "wcag143"
+    },
+    {
+      "id": "dfc30a7f-5bd5-0879-ab52-ba9a919e46ed",
+      "content": "wcag144"
+    },
+    {
+      "id": "a9d81a9b-aa83-3d94-71f5-5b5e104bc46f",
+      "content": "wcag211"
+    },
+    {
+      "id": "d3011c97-4d2f-273e-c48e-d6c6a0f14221",
+      "content": "wcag221"
+    },
+    {
+      "id": "6f257b12-5d4e-3fdf-db05-b509a965fdd3",
+      "content": "wcag241"
+    },
+    {
+      "id": "7a739102-8c4c-61e2-8edb-4528b8f308b0",
+      "content": "wcag242"
+    },
+    {
+      "id": "e4b58b09-8fa4-6385-1b51-507f9e4a98cc",
+      "content": "wcag244"
+    },
+    {
+      "id": "ae5b35b5-6744-15b1-8a93-e8753bdf9813",
+      "content": "wcag2a"
+    },
+    {
+      "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+      "content": "wcag2aa"
+    },
+    {
+      "id": "5e731662-6259-4f22-69a1-4d515804e379",
+      "content": "wcag311"
+    },
+    {
+      "id": "75a75c4a-a135-5691-0a55-476538569f1f",
+      "content": "wcag412"
+    }
+  ],
+  "blockers": [],
+  "filters": {
+    "types": [],
+    "tags": [],
+    "status": "active"
+  },
+  "scan_date": "2025-12-30T19:36:18.820468+00:00",
+  "auditTable": [
+    {
+      "URL": "https://www.fuqua.duke.edu/alumni",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/duke-fuqua-insights",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/student-network/partners-community",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/student-network/diversity-inclusion",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/about/living-our-values",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/news-media",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/events",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/faculty-research/centers",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/student-network/employers-industries",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/programs/global-executive-mba",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/about/leadership",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/faculty-research",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/student-blogs",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/programs/mms-duke-kunshan-university",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/programs/weekend-executive-mba",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/programs/executive-education",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/contact",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/about/plan-your-visit",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/programs/contact",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/student-network/clubs-activities",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/faculty-research/directory/all",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/about/institutional-collaboration",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/student-network/profiles",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/about/campus",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/programs/phd",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/student-network",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/programs/msqm-business-analytics",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/programs/mqm-business-analytics",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/programs/mms-foundations-of-business",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/programs/accelerated-msqm-business-analytics",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/regional-groups",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/programs/accelerated-daytime-mba",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/admissions",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/programs/daytime-mba",
+      "Type": "html"
+    },
+    {
+      "URL": "https://www.fuqua.duke.edu/employers",
+      "Type": "html"
+    }
+  ]
+}
