@@ -7,22 +7,16 @@
     "page": 1,
     "totalCount": 66
   },
-  "availableCategories": [],
+  "availableCategories": [
+    "link-in-text-block",
+    "button-name"
+  ],
   "statusCounts": {
     "all": 66,
     "ignored": 0,
     "active": 0
   },
-  "availableTags": [
-    {
-      "id": "link-in-text-block",
-      "content": "link-in-text-block"
-    },
-    {
-      "id": "button-name",
-      "content": "button-name"
-    }
-  ],
+  "availableTags": [],
   "blockers": [
     {
       "created_at": "2024-09-04T19:16:46.532+00:00",
@@ -34,16 +28,13 @@
       "id": "40c14cc9-413d-4725-b0de-b66de3dbd47c",
       "short_id": "40c14cc9",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/advanced-placement-credit/",
       "content": "<a href=\"mailto:registrar@duke.edu\" class=\"\">registrar@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:46.352+00:00",
@@ -55,16 +46,13 @@
       "id": "83056172-8e86-4cf6-bf61-44a321fcb773",
       "short_id": "83056172",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/faculty-staff-resources/processing-calendar/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"a283f701-49d0-4e28-99fc-f321494eb769\" href=\"/registration/\" title=\"Registration\">registration windows</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-03T18:31:41.779+00:00",
@@ -79,16 +67,13 @@
       "id": "b149ac8e-10e0-4c7d-af3c-328c72e0880d",
       "short_id": "b149ac8e",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "button-name"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/administrative-resources/training",
       "content": "<button type=\"submit\" class=\"btn btn-primary col-1\">",
-      "tags": [
-        {
-          "id": "button-name",
-          "content": "button-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-03T18:31:41.768+00:00",
@@ -103,16 +88,13 @@
       "id": "ed30c730-081b-4072-afc9-2816051176a7",
       "short_id": "ed30c730",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "button-name"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/assessment-accreditation/academic-program-development-and-management",
       "content": "<button type=\"submit\" class=\"btn btn-primary col-1\">",
-      "tags": [
-        {
-          "id": "button-name",
-          "content": "button-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-03T18:31:41.759+00:00",
@@ -127,16 +109,13 @@
       "id": "0469046c-43e8-4cda-a652-ac104878823d",
       "short_id": "0469046c",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "button-name"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/assessment-accreditation/state-authorization-and-student-complaints-about-delivery-distance",
       "content": "<button type=\"submit\" class=\"btn btn-primary col-1\">",
-      "tags": [
-        {
-          "id": "button-name",
-          "content": "button-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-03T18:31:41.753+00:00",
@@ -151,16 +130,13 @@
       "id": "8be8522b-a172-4198-b252-7e1412bf7256",
       "short_id": "8be8522b",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "button-name"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/programs-initiatives",
       "content": "<button type=\"submit\" class=\"btn btn-primary col-1\">",
-      "tags": [
-        {
-          "id": "button-name",
-          "content": "button-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-03T18:31:41.746+00:00",
@@ -175,16 +151,13 @@
       "id": "563e746e-e0d7-4f1b-bd40-6438d2ea02e5",
       "short_id": "563e746e",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "button-name"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/awards-professorships/nannerl-keohane-visiting-professorship",
       "content": "<button type=\"submit\" class=\"btn btn-primary col-1\">",
-      "tags": [
-        {
-          "id": "button-name",
-          "content": "button-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-03T18:31:41.725+00:00",
@@ -199,16 +172,13 @@
       "id": "3a428a5e-94ce-4bcd-b217-aa159b064bd0",
       "short_id": "3a428a5e",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "button-name"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/awards-professorships/distinguished-professors",
       "content": "<button type=\"submit\" class=\"btn btn-primary col-1\">",
-      "tags": [
-        {
-          "id": "button-name",
-          "content": "button-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:45.722+00:00",
@@ -220,16 +190,13 @@
       "id": "7335182d-c97b-4f37-a8b2-f3558d4d08c0",
       "short_id": "7335182d",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/help-guides/coursedog-bulletin-edits/",
       "content": "<a href=\"mailto:bulletins@duke.edu\" class=\"\">bulletins@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-03T18:31:41.765+00:00",
@@ -244,16 +211,13 @@
       "id": "c24e0eed-b54a-497d-afc2-f0e9c98e73ac",
       "short_id": "c24e0eed",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "button-name"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/about/strategic-vision",
       "content": "<button type=\"submit\" class=\"btn btn-primary col-1\">",
-      "tags": [
-        {
-          "id": "button-name",
-          "content": "button-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-03T18:31:41.75+00:00",
@@ -268,16 +232,13 @@
       "id": "faa1d929-6476-42e0-a76d-21cc6c30c3a5",
       "short_id": "faa1d929",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "button-name"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/programs-initiatives/reimagining-doctoral-education-ride",
       "content": "<button type=\"submit\" class=\"btn btn-primary col-1\">",
-      "tags": [
-        {
-          "id": "button-name",
-          "content": "button-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:40.572+00:00",
@@ -289,16 +250,13 @@
       "id": "c7ce294c-9fa9-4608-b0bf-b0f4aab04968",
       "short_id": "c7ce294c",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/faculty-staff-resources/",
       "content": "<a href=\"mailto:class-scheduling@duke.edu\" class=\"\">class-scheduling@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:40.352+00:00",
@@ -310,16 +268,13 @@
       "id": "1bbd628b-eb48-474d-b29c-67dc74f77197",
       "short_id": "1bbd628b",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/faculty-staff-resources/course-catalog/",
       "content": "<a href=\"mailto:bulletins@duke.edu\" class=\"\">bulletins@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:38.083+00:00",
@@ -331,16 +286,13 @@
       "id": "dfb33151-6348-4cca-a069-cd1de90f4ac6",
       "short_id": "dfb33151",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/letters-authentication/",
       "content": "<a href=\"mailto:registrar@duke.edu\" class=\"\">registrar@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:38.052+00:00",
@@ -352,16 +304,13 @@
       "id": "1aac3a30-4e4e-464a-8092-15b14b08e22a",
       "short_id": "1aac3a30",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/student-forms/",
       "content": "<a href=\"mailto:advising@duke.edu\" class=\"\">Academic Advising</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:38.028+00:00",
@@ -373,16 +322,13 @@
       "id": "424b3e85-425e-4c4d-accc-b2f7fcc09bcb",
       "short_id": "424b3e85",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/transcripts/",
       "content": "<a href=\"#faqs\" class=\"\">See Transcript FAQs</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:37.972+00:00",
@@ -394,16 +340,13 @@
       "id": "56aa94db-9c68-4ef4-b230-79b72833a99c",
       "short_id": "56aa94db",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/veterans/tuition-assistance-benefits/",
       "content": "<a href=\"mailto:veteranseducation@duke.edu\" class=\"\">Office of the University Registrar</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:47.892+00:00",
@@ -415,16 +358,13 @@
       "id": "f08b56db-e0a3-4cd4-8842-aa27f8be4fb9",
       "short_id": "f08b56db",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/validate-certificate/",
       "content": "<a href=\"mailto:registrar@duke.edu\" class=\"\">registrar@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:45.772+00:00",
@@ -436,16 +376,13 @@
       "id": "d0ee30e0-ddbd-49da-b4f7-a683c09761e3",
       "short_id": "d0ee30e0",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/advanced-placement-credit/",
       "content": "<a href=\"#submit\" class=\"\">how to submit scores</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:45.562+00:00",
@@ -473,16 +410,13 @@
       "id": "126884b3-33c1-4c65-a4f4-c8ad219e7b17",
       "short_id": "126884b3",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/verifications/",
       "content": "<a href=\"mailto:registrar@duke.edu\" class=\"\">registrar@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-03T18:31:45.033+00:00",
@@ -497,16 +431,13 @@
       "id": "84aecddc-7f52-4d5e-bc37-aad9cc288b1c",
       "short_id": "84aecddc",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "button-name"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/faculty-resources/policies-and-reports",
       "content": "<button type=\"submit\" class=\"btn btn-primary col-1\">",
-      "tags": [
-        {
-          "id": "button-name",
-          "content": "button-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-03T18:31:44.995+00:00",
@@ -521,16 +452,13 @@
       "id": "7ce08637-4187-42fe-b536-287c882162c3",
       "short_id": "7ce08637",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "button-name"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/administrative-resources/finance",
       "content": "<button type=\"submit\" class=\"btn btn-primary col-1\">",
-      "tags": [
-        {
-          "id": "button-name",
-          "content": "button-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:45.642+00:00",
@@ -542,16 +470,13 @@
       "id": "86652bd1-4fce-4350-bb0b-7a879a44a033",
       "short_id": "86652bd1",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/data-reporting/data-requests/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"ce10f8d5-0499-4411-9d2b-b151a3254b0d\" href=\"/student-resources/family-educational-rights-and-privacy-act-ferpa/\" title=\"Family Educational Rights and Privacy Act (FERPA)\">",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-03T18:31:45.021+00:00",
@@ -566,16 +491,13 @@
       "id": "057cc2e2-32e3-4028-a6e0-7bd5abac2749",
       "short_id": "057cc2e2",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "button-name"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/programs-initiatives/provosts-initiative-middle-east",
       "content": "<button type=\"submit\" class=\"btn btn-primary col-1\">",
-      "tags": [
-        {
-          "id": "button-name",
-          "content": "button-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:38.162+00:00",
@@ -587,16 +509,13 @@
       "id": "b54c177a-1689-4740-a116-98fe4c2f0ac3",
       "short_id": "b54c177a",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/faculty-staff-resources/grade-entry/",
       "content": "<a href=\"mailto:registrar@duke.edu\" class=\"\">registrar@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:38.142+00:00",
@@ -608,16 +527,13 @@
       "id": "0e15209d-f96a-4abc-91c8-f562b7d8cde3",
       "short_id": "0e15209d",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/registration/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"9d1d56b4-99c3-407a-a975-12ee1b4c16e9\" href=\"/faq/duke-community-standard/\" title=\"Duke Community Standard\">Duke Community Standard</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:38.145+00:00",
@@ -629,16 +545,13 @@
       "id": "693076cc-78e3-4895-819f-cdd794ecddb5",
       "short_id": "693076cc",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/family-educational-rights-and-privacy-act-ferpa/",
       "content": "<a href=\"mailto:registrar@duke.edu\" class=\"\" title=\"mailto:registrar@duke.edu\">registrar@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:37.152+00:00",
@@ -650,16 +563,13 @@
       "id": "c616eeea-cbab-4f72-be19-7b50197af8e2",
       "short_id": "c616eeea",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/biographical-and-demographic-changes/",
       "content": "<a href=\"mailto:payroll@duke.edu\" class=\"\">payroll@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:37.06+00:00",
@@ -671,16 +581,13 @@
       "id": "c14619b0-5559-4049-bc84-77e30dce923c",
       "short_id": "c14619b0",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/biographical-and-demographic-changes/",
       "content": "<a href=\"mailto:dukepostoffice@duke.edu\" class=\"\">Duke Post Office</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:37.045+00:00",
@@ -692,16 +599,13 @@
       "id": "156b6a01-0ce5-48c4-beb4-d33838957b59",
       "short_id": "156b6a01",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/biographical-and-demographic-changes/",
       "content": "<a href=\"mailto:housing@duke.edu\" class=\"\">Housing and Residence Life</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:37.027+00:00",
@@ -713,16 +617,13 @@
       "id": "6983033a-c0d9-4298-a2f1-6eb2a51af6a7",
       "short_id": "6983033a",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/biographical-and-demographic-changes/",
       "content": "<a href=\"mailto:registrar@duke.edu\" class=\"\">Email the Registrar's Office</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:41.282+00:00",
@@ -734,16 +635,13 @@
       "id": "91f0fc12-f904-4698-8331-c8f271b47ae9",
       "short_id": "91f0fc12",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/faculty-staff-resources/",
       "content": "<a href=\"mailto:registrar@duke.edu\" class=\"\">registrar@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:41.077+00:00",
@@ -755,16 +653,13 @@
       "id": "c36cb431-dcaf-4dd5-b4bf-036c8e4c95f3",
       "short_id": "c36cb431",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/student-forms/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"b68ae134-e6d0-4d01-ab8c-1c311daf5ab6\" href=\"/registration/interinstitutional-registration/\" title=\"Interinstitutional Registration\">see Interinstitutional Registration</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:39.36+00:00",
@@ -776,16 +671,13 @@
       "id": "2fa7cd94-b93f-48e1-b9ec-e028ddb2b974",
       "short_id": "2fa7cd94",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"bd9ac9fb-1db9-4764-a14c-277561e33028\" href=\"/student-resources/verifications/\" title=\"Verifications\">Verifications page</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:40.312+00:00",
@@ -797,16 +689,13 @@
       "id": "98995b3c-b325-42a7-bbc0-e4266a05d5ec",
       "short_id": "98995b3c",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/letters-authentication/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"bd9ac9fb-1db9-4764-a14c-277561e33028\" href=\"/student-resources/verifications/\" title=\"Verifications\">verification form</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:40.172+00:00",
@@ -818,16 +707,13 @@
       "id": "11604850-0e04-4977-86e6-af1e0b87d92e",
       "short_id": "11604850",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/transcripts/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"31299575-dd38-4a52-b782-615a403fb9e4\" href=\"/help-guides/unofficial-transcript/\" title=\"Help guide: Unofficial Transcript\">Help guide: Unofficial Transcript</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:40.232+00:00",
@@ -839,16 +725,13 @@
       "id": "a71ce1a9-0f48-4eb4-b28e-15300d77672c",
       "short_id": "a71ce1a9",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/student-forms/",
       "content": "<a href=\"mailto:prattdom@duke.edu\" class=\"\">prattdom@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:39.105+00:00",
@@ -860,16 +743,13 @@
       "id": "55dcbead-6526-42b0-8180-64ea176a96b5",
       "short_id": "55dcbead",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/letters-authentication/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"edad092b-e7af-4400-84ae-d6cc675342c8\" href=\"/student-resources/transcripts/\" title=\"Transcripts\">transcript form</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:38.902+00:00",
@@ -881,16 +761,13 @@
       "id": "14182211-d285-46bd-a960-757b75d22a25",
       "short_id": "14182211",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/veterans/tuition-assistance-benefits/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"36e389fc-1e6e-4128-bb63-91edce162771\" href=\"/veterans/additional-resources/\" title=\"Additional Resources\">See the Additional Resources section of this webpage.</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:39.172+00:00",
@@ -902,16 +779,13 @@
       "id": "7c6e26ad-fcfc-4402-aa3c-076674506e97",
       "short_id": "7c6e26ad",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/academic-honors-and-recognition/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"f9e2e4cb-3794-4e08-a912-47cfb9e05a28\" href=\"/student-resources/grade-point-average-gpa/\" title=\"Grade Point Average (GPA)\">here</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:38.211+00:00",
@@ -923,16 +797,13 @@
       "id": "b5b348c3-1b32-415c-bde8-270e5a14807f",
       "short_id": "b5b348c3",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"edad092b-e7af-4400-84ae-d6cc675342c8\" href=\"/student-resources/transcripts/\" title=\"Transcripts\">Transcripts page</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:45.305+00:00",
@@ -944,16 +815,13 @@
       "id": "dc5e184b-1ff2-4881-aca5-facf948bb5c6",
       "short_id": "dc5e184b",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/data-reporting/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"ead0f5cf-2205-4de9-9957-32de33adfd03\" href=\"/data-reporting/data-requests/\" title=\"Data Requests\">ad hoc data request</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:48.522+00:00",
@@ -965,16 +833,13 @@
       "id": "df2f5937-5f15-44ad-ac52-973cd11a0e1e",
       "short_id": "df2f5937",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/validate-certificate/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"e3aa7012-4b27-4829-8f12-7511a3350185\" href=\"/student-resources/about-digital-certificates/\" title=\"About Digital Certificates\">Overview</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:45.712+00:00",
@@ -986,16 +851,13 @@
       "id": "a51144b6-f780-447a-847a-707a0d10e7e8",
       "short_id": "a51144b6",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/about-digital-certificates/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"df02db62-974e-4097-8249-9fcbc6ddbdae\" href=\"/student-resources/validate-certificate/\" title=\"Validate a Certificate\">Validation Services</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:39.222+00:00",
@@ -1007,16 +869,13 @@
       "id": "24497239-5113-45cf-85da-7b8ab704c558",
       "short_id": "24497239",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/family-educational-rights-and-privacy-act-ferpa/",
       "content": "<a href=\"mailto:registrar@duke.edu\" class=\"\">registrar@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:39.262+00:00",
@@ -1028,16 +887,13 @@
       "id": "a01ecb8a-8ca0-4210-9b17-8a555fbaa0ec",
       "short_id": "a01ecb8a",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/faculty-staff-resources/grade-entry/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"6ebf6bc7-a75f-4089-a2ec-c4adebb6f63e\" href=\"/help-guides/grade-change-request/\" title=\"Help guide: Grade Change Request (DukeHub)\">Help guide: Grade Change Requests (DukeHub)</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:39.032+00:00",
@@ -1049,16 +905,13 @@
       "id": "7f573038-17f5-4ade-ac7b-2efe2e054b6c",
       "short_id": "7f573038",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/student-forms/",
       "content": "<a href=\"mailto:trinity_graduation@duke.edu\" class=\"\">Trinity Graduation Staff</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:39.192+00:00",
@@ -1070,16 +923,13 @@
       "id": "387775a5-9ef2-42a5-bdeb-6c46ef7dfbba",
       "short_id": "387775a5",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/faculty-staff-resources/25live-classroom-management/",
       "content": "<a href=\"mailto:Help-25Live@duke.edu\" class=\"\">help-25live@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:38.972+00:00",
@@ -1091,16 +941,13 @@
       "id": "d295c7c8-90b6-419e-a2f7-aa3136642f78",
       "short_id": "d295c7c8",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/transcripts/",
       "content": "<a href=\"mailto:registrar@duke.edu\" class=\"\">Email registrar@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:46.452+00:00",
@@ -1112,16 +959,13 @@
       "id": "5dcafb41-6beb-4a5d-84df-9849c4580628",
       "short_id": "5dcafb41",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/validate-certificate/",
       "content": "<a href=\"#more\" class=\"\">below</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:38.122+00:00",
@@ -1133,16 +977,13 @@
       "id": "bbf153ff-50e9-45b9-8d33-432eedefaa2d",
       "short_id": "bbf153ff",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/faculty-staff-resources/25live-classroom-management/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"afd44032-dbac-4333-8394-2c4a9bd8bb69\" href=\"/student-resources/reserve-classroom/\" title=\"Reserve A Classroom\">Click here for information about reserving&nbsp;a classroom.</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:38.115+00:00",
@@ -1154,16 +995,13 @@
       "id": "7066df03-0225-4937-8c7e-b737c9a62904",
       "short_id": "7066df03",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/academic-honors-and-recognition/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"b68ae134-e6d0-4d01-ab8c-1c311daf5ab6\" href=\"/registration/interinstitutional-registration/\" title=\"Interinstitutional Registration\">interinstitutional agreement</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:38.102+00:00",
@@ -1175,16 +1013,13 @@
       "id": "4cc79eba-2814-4420-af4d-6fb264909e8a",
       "short_id": "4cc79eba",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/faculty-staff-resources/course-catalog/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"07ec0804-2026-4330-bd67-af39f3bd8371\" href=\"/help-guides/catalog-numbers/\" title=\"Help guide: Finding Available Catalog Numbers\">Help guide: Finding Available Catalog Numbers</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:37.952+00:00",
@@ -1196,16 +1031,13 @@
       "id": "3b554698-99b5-48ef-b063-f5157d1de572",
       "short_id": "3b554698",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/transfer-credit/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"cbdae1e3-22d9-45ad-9554-3dc033b837cd\" href=\"/student-resources/advanced-placement-credit/\" title=\"Advanced Placement Credit\">here</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:46.472+00:00",
@@ -1217,16 +1049,13 @@
       "id": "a0329592-b0cc-4569-be74-520c282c21e2",
       "short_id": "a0329592",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/about-digital-certificates/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"df02db62-974e-4097-8249-9fcbc6ddbdae\" href=\"/student-resources/validate-certificate/\" title=\"Validate a Certificate\">Validation</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:47.122+00:00",
@@ -1238,16 +1067,13 @@
       "id": "5de48656-ee77-4edd-805a-6f25330287e5",
       "short_id": "5de48656",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/validate-certificate/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"e3aa7012-4b27-4829-8f12-7511a3350185\" href=\"/student-resources/about-digital-certificates/\" title=\"About Digital Certificates\">About Digital Certificates</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:47.042+00:00",
@@ -1259,16 +1085,13 @@
       "id": "3f715dcf-fb3e-4304-995d-678b5bb4a293",
       "short_id": "3f715dcf",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/faculty-staff-resources/processing-calendar/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"089296c6-1710-4b1e-af4d-85b6451fc5cf\" href=\"/student-resources/exam-schedules/\" title=\"Exam Schedules\">Final examinations</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:45.872+00:00",
@@ -1280,16 +1103,13 @@
       "id": "00c4b2eb-6e90-43af-bba2-659ef60049be",
       "short_id": "00c4b2eb",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/faculty-staff-resources/course-evaluations/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"e37354ee-c962-4226-83c7-dd0e135fb224\" href=\"/faculty-staff-resources/course-evaluations/calendar/\" title=\"Course Evaluation Calendar\">calendar</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:41.832+00:00",
@@ -1301,16 +1121,13 @@
       "id": "0713af04-47f5-4255-a85b-d8edbcefe9c0",
       "short_id": "0713af04",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/verifications/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"5dbb956f-6d9c-4f4c-9826-fbfc2d798712\" href=\"/help-guides/enrollment-verification/\" title=\"Help guide: Enrollment Verification\">see&nbsp;this guide</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-03T18:31:41.726+00:00",
@@ -1325,16 +1142,13 @@
       "id": "0c783805-5ed6-40c0-ae3b-05693d5cb7b4",
       "short_id": "0c783805",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "button-name"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/about/dukes-commitment-diversity-and-inclusion",
       "content": "<button type=\"submit\" class=\"btn btn-primary col-1\">",
-      "tags": [
-        {
-          "id": "button-name",
-          "content": "button-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:17:38.072+00:00",
@@ -1346,16 +1160,13 @@
       "id": "db966057-8262-476c-8618-3fa585816055",
       "short_id": "db966057",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/replacement-diplomas/",
       "content": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"081a46a5-73c2-4907-9166-69581fc1e618\" href=\"/student-resources/letters-authentication/\" title=\"Letters of Authentication\">Letters of Authentication page</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:45.682+00:00",
@@ -1383,16 +1194,13 @@
       "id": "2bdc7bcb-e6f2-4d98-8cb7-70ad83ae3f29",
       "short_id": "2bdc7bcb",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/bulletins/",
       "content": "<a href=\"mailto:bulletins@duke.edu\" class=\"\">bulletins@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:45.652+00:00",
@@ -1404,16 +1212,13 @@
       "id": "758ea318-b0a7-44d4-88bb-2a65cdc37c31",
       "short_id": "758ea318",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/student-resources/course-evaluations/",
       "content": "<a href=\"mailto:assessment@duke.edu\" class=\"\">assessment@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-09-04T19:16:45.162+00:00",
@@ -1425,16 +1230,13 @@
       "id": "9af645c7-b3df-4295-907f-71e1443fc237",
       "short_id": "9af645c7",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://registrar.duke.edu/data-reporting/data-requests/",
       "content": "<a href=\"mailto:anna.kourouniotis@duke.edu\" class=\"\">Anna Kourouniotis</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     }
   ]
 }

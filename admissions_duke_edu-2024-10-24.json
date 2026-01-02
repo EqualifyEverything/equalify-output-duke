@@ -7,30 +7,18 @@
     "page": 1,
     "totalCount": 29
   },
-  "availableCategories": [],
+  "availableCategories": [
+    "select-name",
+    "frame-title",
+    "aria-allowed-attr",
+    "role-img-alt"
+  ],
   "statusCounts": {
     "all": 29,
     "ignored": 0,
     "active": 25
   },
-  "availableTags": [
-    {
-      "id": "select-name",
-      "content": "select-name"
-    },
-    {
-      "id": "frame-title",
-      "content": "frame-title"
-    },
-    {
-      "id": "aria-allowed-attr",
-      "content": "aria-allowed-attr"
-    },
-    {
-      "id": "role-img-alt",
-      "content": "role-img-alt"
-    }
-  ],
+  "availableTags": [],
   "blockers": [
     {
       "created_at": "2024-10-07T16:46:43.228+00:00",
@@ -48,16 +36,13 @@
       "id": "faac1bb6-9695-400d-8d82-0cf5b64219c9",
       "short_id": "faac1bb6",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "select-name"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/visit/",
       "content": "<select>",
-      "tags": [
-        {
-          "id": "select-name",
-          "content": "select-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:42.808+00:00",
@@ -88,16 +73,13 @@
       "id": "5386284e-b28b-4fc3-a236-270949febef9",
       "short_id": "5386284e",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "frame-title"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/your-first-year/",
       "content": "<iframe src=\"https://www.youtube.com/embed/qK3zFrVBKMc\" width=\"600\" height=\"335\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>",
-      "tags": [
-        {
-          "id": "frame-title",
-          "content": "frame-title"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:42.777+00:00",
@@ -107,16 +89,13 @@
       "id": "c67d83df-bb69-48fd-9cc6-c4dc128281a3",
       "short_id": "c67d83df",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "aria-allowed-attr"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/community/",
       "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
-      "tags": [
-        {
-          "id": "aria-allowed-attr",
-          "content": "aria-allowed-attr"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:42.763+00:00",
@@ -134,16 +113,13 @@
       "id": "9868fad5-a7ea-445e-9733-eb37264781c2",
       "short_id": "9868fad5",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "select-name"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/apply/",
       "content": "<select>",
-      "tags": [
-        {
-          "id": "select-name",
-          "content": "select-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:42.736+00:00",
@@ -195,16 +171,13 @@
       "id": "9876c0f1-5ddb-4909-8810-85ea9e3fbfaf",
       "short_id": "9876c0f1",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "select-name"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/faqs/",
       "content": "<select>",
-      "tags": [
-        {
-          "id": "select-name",
-          "content": "select-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:42.547+00:00",
@@ -214,16 +187,13 @@
       "id": "64ec0ca8-01ce-4819-bd2b-eec354557f8d",
       "short_id": "64ec0ca8",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "aria-allowed-attr"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/our-students/",
       "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
-      "tags": [
-        {
-          "id": "aria-allowed-attr",
-          "content": "aria-allowed-attr"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:42.49+00:00",
@@ -250,16 +220,13 @@
       "id": "705de399-6e07-4dd9-aace-cc5a48c3660a",
       "short_id": "705de399",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "aria-allowed-attr"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/your-first-year/",
       "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
-      "tags": [
-        {
-          "id": "aria-allowed-attr",
-          "content": "aria-allowed-attr"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:42.382+00:00",
@@ -269,16 +236,13 @@
       "id": "d6a8cbdd-f647-4998-92de-b574647c7448",
       "short_id": "d6a8cbdd",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "aria-allowed-attr"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/contact/",
       "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n    Open\n  </button>",
-      "tags": [
-        {
-          "id": "aria-allowed-attr",
-          "content": "aria-allowed-attr"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:42.376+00:00",
@@ -288,16 +252,13 @@
       "id": "9ec381ec-20a3-4992-9a69-817a25750f48",
       "short_id": "9ec381ec",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "aria-allowed-attr"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/families/",
       "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
-      "tags": [
-        {
-          "id": "aria-allowed-attr",
-          "content": "aria-allowed-attr"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:42.356+00:00",
@@ -324,16 +285,13 @@
       "id": "42f904d8-d770-479a-ab8a-9d5aeb7fc310",
       "short_id": "42f904d8",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "aria-allowed-attr"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/school-spirit-and-community/",
       "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n    Open\n  </button>",
-      "tags": [
-        {
-          "id": "aria-allowed-attr",
-          "content": "aria-allowed-attr"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:42.328+00:00",
@@ -343,16 +301,13 @@
       "id": "66cb03d8-c42e-4e18-907f-3912b2fa6467",
       "short_id": "66cb03d8",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "aria-allowed-attr"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/academic-possibilities/",
       "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
-      "tags": [
-        {
-          "id": "aria-allowed-attr",
-          "content": "aria-allowed-attr"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:42.317+00:00",
@@ -362,16 +317,13 @@
       "id": "e9e1a2ee-100f-4535-b43e-7c152dee5152",
       "short_id": "e9e1a2ee",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "aria-allowed-attr"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/beyond-campus/",
       "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
-      "tags": [
-        {
-          "id": "aria-allowed-attr",
-          "content": "aria-allowed-attr"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:42.282+00:00",
@@ -385,16 +337,13 @@
       "id": "cc6273d8-c510-43d0-a10e-04f45ed04741",
       "short_id": "cc6273d8",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "role-img-alt"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/",
       "content": "<div class=\"side-image\" role=\"img\" aria-label=\"\" style=\"background-image: url(https://admissions.duke.edu/wp-content/uploads/2019/11/018418_dukeunc199.jpg)\"></div>",
-      "tags": [
-        {
-          "id": "role-img-alt",
-          "content": "role-img-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:42.142+00:00",
@@ -438,16 +387,13 @@
       "id": "6eea1ae4-4687-4bd6-bc09-ebd7773fa384",
       "short_id": "6eea1ae4",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "aria-allowed-attr"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/counselors/",
       "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
-      "tags": [
-        {
-          "id": "aria-allowed-attr",
-          "content": "aria-allowed-attr"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:42.643+00:00",
@@ -457,16 +403,13 @@
       "id": "286d49e1-913d-4077-add2-45768e3c8e64",
       "short_id": "286d49e1",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "aria-allowed-attr"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/visit/",
       "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
-      "tags": [
-        {
-          "id": "aria-allowed-attr",
-          "content": "aria-allowed-attr"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:42.653+00:00",
@@ -493,16 +436,13 @@
       "id": "924ac02f-3ad1-4100-a31e-dee72b9f15ea",
       "short_id": "924ac02f",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "aria-allowed-attr"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/financial-support/",
       "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
-      "tags": [
-        {
-          "id": "aria-allowed-attr",
-          "content": "aria-allowed-attr"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:42.29+00:00",
@@ -512,16 +452,13 @@
       "id": "3f46b9f7-96a4-44ce-98c7-457a44673ec0",
       "short_id": "3f46b9f7",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "aria-allowed-attr"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/apply/",
       "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
-      "tags": [
-        {
-          "id": "aria-allowed-attr",
-          "content": "aria-allowed-attr"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-10-14T16:16:35.483083+00:00",
@@ -571,16 +508,13 @@
       "id": "62f56d88-d72f-474b-abfe-cd2225c5daa9",
       "short_id": "62f56d88",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "select-name"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/resources/",
       "content": "<select>",
-      "tags": [
-        {
-          "id": "select-name",
-          "content": "select-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T16:46:43.2+00:00",
@@ -594,16 +528,13 @@
       "id": "2bcd38c0-e879-4574-899e-f2b043a4e8d8",
       "short_id": "2bcd38c0",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "role-img-alt"
+      ],
       "type": "issue",
       "url": "https://admissions.duke.edu/community/",
       "content": "<div class=\"slide-image\" role=\"img\" aria-label=\"\" style=\"background-image: url('https://admissions.duke.edu/wp-content/uploads/2019/07/1.jpg');\"></div>",
-      "tags": [
-        {
-          "id": "role-img-alt",
-          "content": "role-img-alt"
-        }
-      ]
+      "tags": []
     }
   ]
 }

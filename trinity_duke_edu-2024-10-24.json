@@ -7,38 +7,20 @@
     "page": 1,
     "totalCount": 64
   },
-  "availableCategories": [],
+  "availableCategories": [
+    "role-img-alt",
+    "aria-required-children",
+    "frame-title",
+    "link-in-text-block",
+    "link-name",
+    "nested-interactive"
+  ],
   "statusCounts": {
     "all": 64,
     "ignored": 0,
     "active": 14
   },
-  "availableTags": [
-    {
-      "id": "role-img-alt",
-      "content": "role-img-alt"
-    },
-    {
-      "id": "aria-required-children",
-      "content": "aria-required-children"
-    },
-    {
-      "id": "frame-title",
-      "content": "frame-title"
-    },
-    {
-      "id": "link-in-text-block",
-      "content": "link-in-text-block"
-    },
-    {
-      "id": "link-name",
-      "content": "link-name"
-    },
-    {
-      "id": "nested-interactive",
-      "content": "nested-interactive"
-    }
-  ],
+  "availableTags": [],
   "blockers": [
     {
       "created_at": "2024-10-04T17:00:51.017+00:00",
@@ -52,16 +34,13 @@
       "id": "704efc6e-eaa7-4087-949a-fce70da9ffc9",
       "short_id": "704efc6e",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "role-img-alt"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/our-students",
       "content": "<div role=\"img\" aria-label=\"\">\n    \n<div class=\"paragraph-photo-bg container\">\n    \n            <div class=\"field field--name-field-background-image field--type-image field--label-hidden field__item\"></div>\n      \n  </div>\n  </div>",
-      "tags": [
-        {
-          "id": "role-img-alt",
-          "content": "role-img-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-04T17:00:50.839+00:00",
@@ -72,16 +51,13 @@
       "id": "0104166b-7b98-4576-8b40-540c7459a560",
       "short_id": "0104166b",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "aria-required-children"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/",
       "content": "<ul role=\"list\" class=\"TypeList__TypeListElement-sc-1jhixr6-0 iWWJwo Tags_tagList__6JpKG Tags_condensedTags__w_NCJ\" aria-label=\"Tags\" data-encore-id=\"typeList\">",
-      "tags": [
-        {
-          "id": "aria-required-children",
-          "content": "aria-required-children"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T15:45:50.594+00:00",
@@ -95,16 +71,13 @@
       "id": "6da1e1fe-2b23-43f3-b944-026a64048262",
       "short_id": "6da1e1fe",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "frame-title"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/",
       "content": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/episode/1ajwHbpjNHWAOwELhppzUY?utm_source=generator\" width=\"100%\" height=\"352\" frameborder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
-      "tags": [
-        {
-          "id": "frame-title",
-          "content": "frame-title"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-04T17:00:51.33+00:00",
@@ -187,16 +160,13 @@
       "id": "1926e044-13b1-4369-88da-72253e6a1b7f",
       "short_id": "1926e044",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/",
       "content": "<a href=\"https://open.spotify.com/show/0VM8Eqpmg3xffEvtvxIRoe?go=1&amp;sp_cid=fcc8c2832a95dfada2c60edbbb8b67aa&amp;utm_source=embed_player_p&amp;utm_medium=desktop\" dir=\"auto\" data-encore-id=\"textLink\" class=\"Link-sc-k8gsk-0 jTuESf\">Duets</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-04T17:00:51.043+00:00",
@@ -311,16 +281,13 @@
       "id": "1a47e736-d2a7-4571-8882-a204d6e80e02",
       "short_id": "1a47e736",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "frame-title"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/",
       "content": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/episode/7jrtWwjzjfTi5ChdxcOsXo?utm_source=generator\" width=\"100%\" height=\"352\" frameborder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
-      "tags": [
-        {
-          "id": "frame-title",
-          "content": "frame-title"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-04T17:00:51.069+00:00",
@@ -334,16 +301,13 @@
       "id": "f1dc316a-28c4-461d-b904-3ef8acd7e8b6",
       "short_id": "f1dc316a",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "role-img-alt"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/undergraduate",
       "content": "<div role=\"img\" aria-label=\"\">\n    \n<div class=\"paragraph-photo-bg container\">\n    \n            <div class=\"field field--name-field-background-image field--type-image field--label-hidden field__item\"></div>\n      \n  </div>\n  </div>",
-      "tags": [
-        {
-          "id": "role-img-alt",
-          "content": "role-img-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-04T17:00:50.993+00:00",
@@ -371,16 +335,13 @@
       "id": "57df0ec4-8ce4-44a5-b475-7818f867f6e2",
       "short_id": "57df0ec4",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "role-img-alt"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/graduate-programs",
       "content": "<div role=\"img\" aria-label=\"\">\n    \n<div class=\"paragraph-photo-bg container\">\n    \n            <div class=\"field field--name-field-background-image field--type-image field--label-hidden field__item\"></div>\n      \n  </div>\n  </div>",
-      "tags": [
-        {
-          "id": "role-img-alt",
-          "content": "role-img-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-04T17:00:50.89+00:00",
@@ -394,16 +355,13 @@
       "id": "e949a620-ec22-4f62-9814-f353f7cb032c",
       "short_id": "e949a620",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/centers",
       "content": "<a href=\"https://dprc.duke.edu/\">&nbsp;</a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-04T17:00:50.774+00:00",
@@ -417,16 +375,13 @@
       "id": "20283277-727a-49c0-b935-6e951da6c33b",
       "short_id": "20283277",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "role-img-alt"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/alumni",
       "content": "<div role=\"img\" aria-label=\"\">\n    \n<div class=\"paragraph-photo-bg container\">\n    \n            <div class=\"field field--name-field-background-image field--type-image field--label-hidden field__item\"></div>\n      \n  </div>\n  </div>",
-      "tags": [
-        {
-          "id": "role-img-alt",
-          "content": "role-img-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-07T20:43:15.315576+00:00",
@@ -492,16 +447,13 @@
       "id": "d27fb94e-5795-4522-b38b-ed61dbe9074c",
       "short_id": "d27fb94e",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/",
       "content": "<a href=\"https://open.spotify.com/show/0VM8Eqpmg3xffEvtvxIRoe?go=1&amp;sp_cid=d22fe677cce62afb97ce1ea8d1669f0e&amp;utm_source=embed_player_p&amp;utm_medium=desktop\" class=\"Link-sc-k8gsk-0 gnFeen e-9541-text-link e-9541-text-link--standalone\" dir=\"auto\" data-encore-id=\"textLink\">Duets</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T15:45:50.485+00:00",
@@ -542,16 +494,13 @@
       "id": "52ddf3b8-54e6-45f7-a4c4-e06cb0094002",
       "short_id": "52ddf3b8",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/",
       "content": "<a href=\"https://open.spotify.com/show/0VM8Eqpmg3xffEvtvxIRoe?go=1&amp;sp_cid=8191ec564328f169c64165278679d191&amp;utm_source=embed_player_p&amp;utm_medium=desktop\" dir=\"auto\" data-encore-id=\"textLink\" class=\"Link-sc-k8gsk-0 ejeyBB\">Duets</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T15:45:50.338+00:00",
@@ -607,16 +556,13 @@
       "id": "721fc3e0-0d6c-46c7-a5fd-20a6f395b4b2",
       "short_id": "721fc3e0",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "frame-title"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/",
       "content": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/episode/7pTQrAvpkhhYBCxOqtXfCO?utm_source=generator\" width=\"100%\" height=\"352\" frameborder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
-      "tags": [
-        {
-          "id": "frame-title",
-          "content": "frame-title"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-18T17:17:11.399229+00:00",
@@ -770,16 +716,13 @@
       "id": "62345558-7bec-4003-8413-40daeb7ed044",
       "short_id": "62345558",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "aria-required-children"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/",
       "content": "<ul class=\"e-91132-type-list e-91132-baseline e-91132-type-list--condensed-all Tags_tagList__6JpKG Tags_condensedTags__w_NCJ\" role=\"list\" aria-label=\"Tags\" data-encore-id=\"typeList\">",
-      "tags": [
-        {
-          "id": "aria-required-children",
-          "content": "aria-required-children"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-18T17:18:47.924583+00:00",
@@ -832,16 +775,13 @@
       "id": "f0c8f338-0ed3-486b-8ef6-27714cf66819",
       "short_id": "f0c8f338",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "nested-interactive"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/undergraduate/academic-policies",
       "content": "<div class=\"card-header panel-heading\" role=\"tab\" id=\"heading-accordion-2895-1\">",
-      "tags": [
-        {
-          "id": "nested-interactive",
-          "content": "nested-interactive"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-18T17:19:16.487381+00:00",
@@ -921,16 +861,13 @@
       "id": "1e79fe36-4b23-4e7f-9d92-b240c38370b4",
       "short_id": "1e79fe36",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/",
       "content": "<a href=\"https://open.spotify.com/show/0VM8Eqpmg3xffEvtvxIRoe?go=1&amp;sp_cid=e94b314613308c6f2137ac60894d49af&amp;utm_source=embed_player_p&amp;utm_medium=desktop\" class=\"Link-sc-k8gsk-0 gnFeen e-9570-text-link e-9570-text-link--standalone\" dir=\"auto\" data-encore-id=\"textLink\">Duets</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-04T17:00:51.158+00:00",
@@ -944,16 +881,13 @@
       "id": "d47f8852-9321-4c80-b819-b26fee375c04",
       "short_id": "d47f8852",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "role-img-alt"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/undergraduate/current-students",
       "content": "<div role=\"img\" aria-label=\"\">\n    \n<div class=\"paragraph-photo-bg container\">\n    \n            <div class=\"field field--name-field-background-image field--type-image field--label-hidden field__item\"></div>\n      \n  </div>\n  </div>",
-      "tags": [
-        {
-          "id": "role-img-alt",
-          "content": "role-img-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-18T17:17:19.475523+00:00",
@@ -1034,16 +968,13 @@
       "id": "a10e45a1-0a66-4f08-b36e-754173b731c6",
       "short_id": "a10e45a1",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "aria-required-children"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/",
       "content": "<ul class=\"e-91184-type-list e-91184-baseline e-91184-type-list--condensed-all Tags_tagList__6JpKG Tags_condensedTags__w_NCJ\" role=\"list\" aria-label=\"Tags\" data-encore-id=\"typeList\">",
-      "tags": [
-        {
-          "id": "aria-required-children",
-          "content": "aria-required-children"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-18T17:18:39.731772+00:00",
@@ -1057,16 +988,13 @@
       "id": "a5c8ab78-0883-4f1b-a50f-f81e23505e74",
       "short_id": "a5c8ab78",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "frame-title"
+      ],
       "type": "issue",
       "url": "https://trinity.duke.edu/",
       "content": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/episode/6jAVHipOXVoCPZVRoe3K32?utm_source=generator\" width=\"100%\" height=\"352\" frameborder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
-      "tags": [
-        {
-          "id": "frame-title",
-          "content": "frame-title"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-18T17:17:11.380994+00:00",

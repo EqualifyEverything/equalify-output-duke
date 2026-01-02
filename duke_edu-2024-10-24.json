@@ -7,18 +7,15 @@
     "page": 1,
     "totalCount": 1
   },
-  "availableCategories": [],
+  "availableCategories": [
+    "button-name"
+  ],
   "statusCounts": {
     "all": 1,
     "ignored": 0,
     "active": 0
   },
-  "availableTags": [
-    {
-      "id": "button-name",
-      "content": "button-name"
-    }
-  ],
+  "availableTags": [],
   "blockers": [
     {
       "created_at": "2024-08-30T17:01:41.805+00:00",
@@ -33,16 +30,13 @@
       "id": "aaa6de8c-0336-4fe4-9f05-c989e2357d76",
       "short_id": "aaa6de8c",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "button-name"
+      ],
       "type": "issue",
       "url": "https://duke.edu/contact/",
       "content": "<button id=\"mobile-menu-toggle\" class=\"icon-menu\"></button>",
-      "tags": [
-        {
-          "id": "button-name",
-          "content": "button-name"
-        }
-      ]
+      "tags": []
     }
   ]
 }

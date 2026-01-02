@@ -7,38 +7,20 @@
     "page": 1,
     "totalCount": 254
   },
-  "availableCategories": [],
+  "availableCategories": [
+    "link-name",
+    "image-alt",
+    "link-in-text-block",
+    "frame-title",
+    "select-name",
+    "list"
+  ],
   "statusCounts": {
     "all": 254,
     "ignored": 0,
     "active": 0
   },
-  "availableTags": [
-    {
-      "id": "link-name",
-      "content": "link-name"
-    },
-    {
-      "id": "image-alt",
-      "content": "image-alt"
-    },
-    {
-      "id": "link-in-text-block",
-      "content": "link-in-text-block"
-    },
-    {
-      "id": "frame-title",
-      "content": "frame-title"
-    },
-    {
-      "id": "select-name",
-      "content": "select-name"
-    },
-    {
-      "id": "list",
-      "content": "list"
-    }
-  ],
+  "availableTags": [],
   "blockers": [
     {
       "created_at": "2025-01-24T19:16:43.229+00:00",
@@ -52,16 +34,13 @@
       "id": "eece5603-197a-43e9-a322-997b2a392372",
       "short_id": "eece5603",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/designing-your-life-crafting-career-and-life-you-love\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/RGB-Blue_WhiteText_NoBorder%20-%20Copy_5.png\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T19:16:43.192+00:00",
@@ -75,16 +54,13 @@
       "id": "ad60a93d-ef29-4043-bc0e-6f6918ba2995",
       "short_id": "ad60a93d",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/career-and-networking-job-search-meet\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/RGB-Blue_WhiteText_NoBorder%20-%20Copy_6.png\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T19:16:42.713+00:00",
@@ -99,16 +75,13 @@
       "id": "8528f849-931e-44c9-b074-daeb0a1684c2",
       "short_id": "8528f849",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/RGB-Blue_WhiteText_NoBorder%20-%20Copy_5.png\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T19:16:42.659+00:00",
@@ -123,16 +96,13 @@
       "id": "9c0d7982-32ad-41a2-b6a8-ab65cff69fce",
       "short_id": "9c0d7982",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/RGB-Blue_WhiteText_NoBorder%20-%20Copy_4.png\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T19:16:42.604+00:00",
@@ -147,16 +117,13 @@
       "id": "9ca29c72-6765-4128-b4cc-36069eb448eb",
       "short_id": "9ca29c72",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/RGB-Blue_WhiteText_NoBorder%20-%20Copy_6.png\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T19:16:42.489+00:00",
@@ -198,16 +165,13 @@
       "id": "50f46eb4-248b-4d70-8ecb-98bb3b85e308",
       "short_id": "50f46eb4",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/october-boston-fuqua-friday\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/Scholars.JPG\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.994+00:00",
@@ -221,16 +185,13 @@
       "id": "51aa9aac-d19c-4f75-ba3f-746a910966d3",
       "short_id": "51aa9aac",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/fuqua-health-care-club-week-cities-boston\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/The%20Merchant.JPG\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.936+00:00",
@@ -244,16 +205,13 @@
       "id": "ef124bb9-baa4-48c3-a809-1f570d85e8e2",
       "short_id": "ef124bb9",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/wake-wealthy-series-investing-groupspartnerships\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/public/event-graphics/event_default.jpg\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.653+00:00",
@@ -268,16 +226,13 @@
       "id": "5d483774-47ef-4e88-9e41-550ba781dd20",
       "short_id": "5d483774",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/462340300_3254766784659655_8806197696716889305_n.jpg?stp=dst-jpg_e35_s240x240&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=107&amp;_nc_ohc=pJFxLj7CAk4Q7kNvgHozlua&amp;_nc_gid=937f199b7fb947dd84f5e9ed72c2441d&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYAFwYMs7tLmhakLWR4aQ7kAcWKzjkqHasLkKL1xELjnwA&amp;oe=6709B9CC&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/462340300_3254766784659655_8806197696716889305_n.jpg?stp=dst-jpg_e35_s150x150&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=107&amp;_nc_ohc=pJFxLj7CAk4Q7kNvgHozlua&amp;_nc_gid=937f199b7fb947dd84f5e9ed72c2441d&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYAWMNbnyM_qUY0y4kCKncqddHnpaPoEp3HAAIl4JkkasA&amp;oe=6709B9CC&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/462340300_3254766784659655_8806197696716889305_n.jpg?stp=dst-jpg_e35_s240x240&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=107&amp;_nc_ohc=pJFxLj7CAk4Q7kNvgHozlua&amp;_nc_gid=937f199b7fb947dd84f5e9ed72c2441d&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYAFwYMs7tLmhakLWR4aQ7kAcWKzjkqHasLkKL1xELjnwA&amp;oe=6709B9CC&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.019+00:00",
@@ -301,16 +256,13 @@
       "id": "d9e98b79-fdfb-4749-be6f-ad76efd2827f",
       "short_id": "d9e98b79",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"https://www.dukegradcampout.org/campout101\" target=\"_blank\" rel=\"noreferrer\"><strong>Duke Basketball Campout</strong></a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:45.46+00:00",
@@ -320,16 +272,13 @@
       "id": "948044cf-0a45-4693-b334-5a1c09ed76a3",
       "short_id": "948044cf",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"https://blogs.fuqua.duke.edu/weekend-mba/2013/08/06/sayeed/the-fuqua-kind-of-friday?category=about-fuqua#.WbQbhrKGOM8\"><strong>Fuqua Friday</strong></a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:45.106+00:00",
@@ -341,16 +290,13 @@
       "id": "2c10a7c5-3868-448d-b04f-664b96d0e52c",
       "short_id": "2c10a7c5",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"https://sites.duke.edu/fuquapride/\" target=\"_blank\" rel=\"noreferrer\">Learn more about FuquaPride.</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.899+00:00",
@@ -360,16 +306,13 @@
       "id": "b14117f5-d0f4-490b-b628-57de1c2bc7d6",
       "short_id": "b14117f5",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/diversity-inclusion",
       "content": "<a href=\"https://www.fuqua.duke.edu/student-network/partners-community#resources_for_women\"><strong>Learn More</strong></a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.583+00:00",
@@ -381,16 +324,13 @@
       "id": "5b6bfa5e-19b1-490b-9be6-084dbf02d234",
       "short_id": "5b6bfa5e",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/living-our-values",
       "content": "<a href=\"https://www.fuqua.duke.edu/dialogue-project-duke\">initiative</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.471+00:00",
@@ -402,16 +342,13 @@
       "id": "67d23a87-332d-40e2-bd53-4b0b70a5fe38",
       "short_id": "67d23a87",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/living-our-values",
       "content": "<a href=\"https://www.edelman.com/trust/2022-trust-barometer\">role of business</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.467+00:00",
@@ -423,16 +360,13 @@
       "id": "56bbf5eb-e187-469b-8f56-cc54261f2abc",
       "short_id": "56bbf5eb",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/diversity-inclusion",
       "content": "<a href=\"https://centers.fuqua.duke.edu/cole/2020/04/29/leading-through-challenges-conversations/\">inclusive leadership training</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.464+00:00",
@@ -444,16 +378,13 @@
       "id": "972a1fa8-1416-4215-94be-e2c6784a7e94",
       "short_id": "972a1fa8",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/news-media",
       "content": "<a href=\"mailto:media-relations@fuqua.duke.edu\">media-relations@fuqua.duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.423+00:00",
@@ -465,16 +396,13 @@
       "id": "f32285a5-d332-475d-9925-36166bb0a737",
       "short_id": "f32285a5",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/events",
       "content": "<a href=\"https://events.fuqua.duke.edu/lgbt/\">The Duke MBA PRIDE Weekend</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.389+00:00",
@@ -486,16 +414,13 @@
       "id": "7dfa1d8d-910f-4b6f-a055-0780bb9326dc",
       "short_id": "7dfa1d8d",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/faculty-research/centers",
       "content": "<a href=\"https://centers.fuqua.duke.edu/hsm/\">Read more about HSM.</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.368+00:00",
@@ -507,16 +432,13 @@
       "id": "a7e386d9-5d80-45a0-bd2b-be581b2aa5be",
       "short_id": "a7e386d9",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/employers-industries",
       "content": "<a href=\"http://centers.fuqua.duke.edu/case/2016/04/28/rose-marcario/%20%C2%A0\">Learn more</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.349+00:00",
@@ -528,16 +450,13 @@
       "id": "5af7ad57-7c00-4739-af0c-0ba7368f08bd",
       "short_id": "5af7ad57",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/living-our-values",
       "content": "<a href=\"https://www.edelman.com/trust/2022-trust-barometer\">societal leadership is now considered a core function of business</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.344+00:00",
@@ -549,16 +468,13 @@
       "id": "ec1a7aae-8a97-407b-8930-918a8adb6aca",
       "short_id": "ec1a7aae",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/diversity-inclusion",
       "content": "<a href=\"/student-network/clubs-activities#Diversity\">diversity clubs</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.304+00:00",
@@ -570,16 +486,13 @@
       "id": "33a4cc34-f907-4cee-a347-c21201a4bb68",
       "short_id": "33a4cc34",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/events",
       "content": "<a href=\"https://www.dukefuquaveterans.org/\">Duke Armed Forces Association</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.258+00:00",
@@ -591,16 +504,13 @@
       "id": "a4ea979f-c3d3-484d-bde5-ef4e0cf76bf2",
       "short_id": "a4ea979f",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/employers-industries",
       "content": "<a href=\"/node/398\"> professional clubs</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.181+00:00",
@@ -612,16 +522,13 @@
       "id": "014a8bd1-f422-4bb6-8aa6-ac1c9ea1a960",
       "short_id": "014a8bd1",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/events",
       "content": "<a href=\"https://events.fuqua.duke.edu/veterans/\">Duke MBA Veterans Symposium</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.148+00:00",
@@ -633,16 +540,13 @@
       "id": "fba8955c-4c8d-4a1b-95d8-28a70bc67e04",
       "short_id": "fba8955c",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"https://www.fuqua.duke.edu/student-network/partners-community#minorities\">underrepresented minorities</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.135+00:00",
@@ -654,16 +558,13 @@
       "id": "87e48685-19e2-4809-8e4a-d3910182e121",
       "short_id": "87e48685",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/faculty-research/centers",
       "content": "<a href=\"https://centers.fuqua.duke.edu/cole/\">Read more about COLE.</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.121+00:00",
@@ -677,16 +578,13 @@
       "id": "6c7526c5-3e37-4e46-a6f2-776f0a0122e7",
       "short_id": "6c7526c5",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "frame-title"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/programs/global-executive-mba",
       "content": "<iframe width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/4hW-0YDzYUk?autoplay=1&amp;start=0&amp;rel=0\"></iframe>",
-      "tags": [
-        {
-          "id": "frame-title",
-          "content": "frame-title"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.094+00:00",
@@ -698,16 +596,13 @@
       "id": "0692cbec-33a4-4d13-9f18-e17c29004ad5",
       "short_id": "0692cbec",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/leadership",
       "content": "<a href=\"#Regional Advisory Boards\" title=\"Regional Advisory Boards\">Regional Advisory Boards</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T17:40:44.149+00:00",
@@ -721,16 +616,13 @@
       "id": "372c2799-754c-4427-aaba-9daaf803f0a6",
       "short_id": "372c2799",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/maximizing-linkedin-career-development-and-networking-success\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/RGB-Blue_WhiteText_NoBorder%20-%20Copy_3.png\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T17:40:44.146+00:00",
@@ -742,16 +634,13 @@
       "id": "f9cd3dc0-0856-47a9-a616-195acc475596",
       "short_id": "f9cd3dc0",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"http://fuqua.duke.edu/alumni/connect/fuqua-around-world\" target=\"_blank\" rel=\"noreferrer\">fuqua.duke.edu/alumni/connect/fuqua-around-world</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T17:40:44.142+00:00",
@@ -763,16 +652,13 @@
       "id": "d1ccd8de-bbe4-4808-9b76-89a69832728b",
       "short_id": "d1ccd8de",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"http://forms.office.com/r/p2UGLksURH\" target=\"_blank\" rel=\"noreferrer\">forms.office.com/r/p2UGLksURH</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T17:40:44.139+00:00",
@@ -784,16 +670,13 @@
       "id": "52e29026-a4b0-42b0-b175-486062d31de5",
       "short_id": "52e29026",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"/explore/tags/FuquaATW/?utm_source=ig_embed\">#FuquaATW</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.049+00:00",
@@ -805,16 +688,13 @@
       "id": "7dcf6271-9105-4a45-ac93-d16cf796fd7b",
       "short_id": "7dcf6271",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/events",
       "content": "<a href=\"https://events.fuqua.duke.edu/mbaworkshop/\">The Duke MBA Workshop&nbsp;</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.028+00:00",
@@ -826,16 +706,13 @@
       "id": "4e2fc32f-83c6-427a-97a3-3a994731edbd",
       "short_id": "4e2fc32f",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"https://www.fuqua.duke.edu/student-network/partners-community#families\">partners and families</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T17:40:44.105+00:00",
@@ -850,16 +727,13 @@
       "id": "d47ba3ef-6d22-4ee1-830d-60d830008636",
       "short_id": "d47ba3ef",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/RGB-Blue_WhiteText_NoBorder%20-%20Copy_3.png\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T17:40:44.097+00:00",
@@ -941,16 +815,13 @@
       "id": "9cf6a31f-12b7-40a7-9bac-a9379b488e3a",
       "short_id": "9cf6a31f",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/leadership",
       "content": "<a href=\"#Board of Visitors\" title=\"Board of Visitors\">Board of Visitors</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.947+00:00",
@@ -962,16 +833,13 @@
       "id": "64aa27fe-0f5d-452f-be68-e288c3c54292",
       "short_id": "64aa27fe",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/faculty-research",
       "content": "<a href=\"https://cmosurvey.org/\" data-cke-saved-href=\"https://cmosurvey.org/\">The CMO Survey</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.921+00:00",
@@ -983,16 +851,13 @@
       "id": "3a039573-46d5-4137-b318-c3e127f9f0c9",
       "short_id": "3a039573",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/events",
       "content": "<a href=\"https://events.fuqua.duke.edu/weekendforwomen/\">The Duke MBA Women's Leadership Weekend</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.885+00:00",
@@ -1004,16 +869,13 @@
       "id": "8cced5f3-1790-4e41-8ae3-79ba5ccb38e5",
       "short_id": "8cced5f3",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/faculty-research/centers",
       "content": "<a href=\"https://centers.fuqua.duke.edu/case/\">Read more about CASE.</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.828+00:00",
@@ -1025,16 +887,13 @@
       "id": "da3aaf0b-0325-432c-b2c4-5171612e7f28",
       "short_id": "da3aaf0b",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/faculty-research",
       "content": "<a href=\"http://www.cfosurvey.org/\" data-cke-saved-href=\"http://www.cfosurvey.org/\">The Duke CFO Survey</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.755+00:00",
@@ -1046,16 +905,13 @@
       "id": "8d69f65f-3d2a-4476-9e20-89f49e1f8821",
       "short_id": "8d69f65f",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-blogs",
       "content": "<a href=\"mailto:student-blogs@fuqua.duke.edu?subject=Subjects%20for%20Duke%20Student%20Blogs\">Contact us</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.75+00:00",
@@ -1069,16 +925,13 @@
       "id": "d024b5d9-6e31-4057-8f47-7aaf5e95eb50",
       "short_id": "d024b5d9",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "frame-title"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/employers-industries",
       "content": "<iframe width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/sdxQRo6qKyU?autoplay=1&amp;start=0&amp;rel=0\"></iframe>",
-      "tags": [
-        {
-          "id": "frame-title",
-          "content": "frame-title"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.747+00:00",
@@ -1160,16 +1013,13 @@
       "id": "63480a70-4442-4ffe-8ccf-ca1d39cf307f",
       "short_id": "63480a70",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/contact",
       "content": "<a href=\"/node/758\">For the Media</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.256+00:00",
@@ -1181,16 +1031,13 @@
       "id": "d2fcc6a5-96a6-4bfa-bf0c-0131a3586f47",
       "short_id": "d2fcc6a5",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/contact",
       "content": "<a href=\"https://gtsemployer.mbafocus.com/Fuqua/Employers/Login.aspx?jprid=1968\">our online portal</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:45.2+00:00",
@@ -1202,16 +1049,13 @@
       "id": "4025b612-46d1-468c-b0ed-db0b1035462d",
       "short_id": "4025b612",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/living-our-values",
       "content": "<a href=\"/node/662\">identified best practices for business schools</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.628+00:00",
@@ -1223,16 +1067,13 @@
       "id": "0be27307-1063-4b22-853f-cf69995f724a",
       "short_id": "0be27307",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"/programs/daytime-mba\">our full-time MBA</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.871+00:00",
@@ -1258,16 +1099,13 @@
       "id": "ce3d798f-e80c-4fe0-a2f4-95403550dd05",
       "short_id": "ce3d798f",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/diversity-inclusion",
       "content": "<a href=\"https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#\" target=\"_blank\" rel=\"noreferrer\">research</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-15T16:15:58.697+00:00",
@@ -1281,16 +1119,13 @@
       "id": "c344637e-062f-4582-9984-71a998dcfebe",
       "short_id": "c344637e",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/42nd-duke-mba-workshop\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/Try%20this%20one.JPG\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-15T16:15:58.585+00:00",
@@ -1304,16 +1139,13 @@
       "id": "f752a226-ee0a-4d10-9a92-10d6f2940db9",
       "short_id": "f752a226",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/how-layoff-proof-your-career\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/public/event-graphics/event_default.jpg\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-15T16:15:58.012+00:00",
@@ -1328,16 +1160,13 @@
       "id": "7a509f10-87f4-47cd-8ccd-c3a4ab41dd45",
       "short_id": "7a509f10",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/Try%20this%20one.JPG\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-15T16:15:57.929+00:00",
@@ -1352,16 +1181,13 @@
       "id": "c92348bc-2a24-4cc8-914f-065f4ad6d98b",
       "short_id": "c92348bc",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/AI%20in%20Marketing%20A%20Panel%20Discussion%20with%20Duke%20Alumni2.jpg\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-15T16:15:57.646+00:00",
@@ -1403,16 +1229,13 @@
       "id": "e9b8ff96-a4e0-43ec-b393-abf965819ba5",
       "short_id": "e9b8ff96",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "frame-title"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/plan-your-visit",
       "content": "<iframe width=\"100%\" height=\"250px\" title=\"\" frameborder=\"0\" style=\"border:0\" src=\"https://www.google.com/maps/embed?origin=mfe&amp;pb=!1m4!2m1!1s100+Fuqua+Drive%2C+Durham+NC+27708!5e0!6i14!5m1!1sen\"></iframe>",
-      "tags": [
-        {
-          "id": "frame-title",
-          "content": "frame-title"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.745+00:00",
@@ -1438,16 +1261,13 @@
       "id": "b3a60ba6-1b29-4c73-8cbe-f9a8fd22613d",
       "short_id": "b3a60ba6",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/contact",
       "content": "<a href=\"/node/197\">application&nbsp;</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-01T13:31:45.986+00:00",
@@ -1461,16 +1281,13 @@
       "id": "90dc836c-b2cc-49aa-b40b-d0678e558ae0",
       "short_id": "90dc836c",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/charlotte-fuqua-friendsgiving\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/Fuqua%20Friendsgiving.JPG\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-01T13:31:45.936+00:00",
@@ -1484,16 +1301,13 @@
       "id": "c3d80b3b-c076-42da-aac1-65a71a278c3e",
       "short_id": "c3d80b3b",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/strategic-sustainability-supply-chains\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/public/event-graphics/event_default.jpg\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-01T13:31:45.566+00:00",
@@ -1508,16 +1322,13 @@
       "id": "525d5651-bba9-48fc-9b2a-86b42856a458",
       "short_id": "525d5651",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/public/event-graphics/event_default.jpg\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-01T13:31:45.496+00:00",
@@ -1532,16 +1343,13 @@
       "id": "f3a37765-8d01-42dd-b501-7e338c633375",
       "short_id": "f3a37765",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/Fuqua%20Friendsgiving.JPG\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-01T13:31:45.152+00:00",
@@ -1567,16 +1375,13 @@
       "id": "ffa76945-c532-42a2-a2fc-084fbf22cdd1",
       "short_id": "ffa76945",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/faculty-research/centers",
       "content": "<a href=\"https://entrepreneurship.duke.edu/\">Read more about I&amp;E.</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-01T13:31:42.271+00:00",
@@ -1588,16 +1393,13 @@
       "id": "c698d069-3b83-407f-ab23-7caf546a3c3f",
       "short_id": "c698d069",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/leadership",
       "content": "<a href=\"#regionalAdvisoryBoards\" title=\"Regional Advisory Boards\">Regional Advisory Boards</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.466+00:00",
@@ -1640,16 +1442,13 @@
       "id": "340c6d9c-8928-4cea-96a3-78d56a343422",
       "short_id": "340c6d9c",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/startup%20showcase_0.jpg\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-07T20:50:45.507627+00:00",
@@ -1664,16 +1463,13 @@
       "id": "590a5063-38ae-46f0-b032-03925eb56b39",
       "short_id": "590a5063",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/2025-02/Fuqua%20-%20Blue%20Logo%20No%20Border.png\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-07T20:50:45.513898+00:00",
@@ -1688,16 +1484,13 @@
       "id": "004b533e-5b27-4454-af06-e3e22dc9a3d6",
       "short_id": "004b533e",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/2025-02/Fuqua-welcome%20reunions_0.jpg\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-07T20:50:45.528173+00:00",
@@ -1712,16 +1505,13 @@
       "id": "e1edef2a-0082-4249-9228-c622631b0789",
       "short_id": "e1edef2a",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_oc=Q6cZ2QEWYjMpqWW-TLkCbhfTDoTLy-rGQN-1hBJ7564KRqy1BNNambgwcLFwlK_oLtQsLG8&amp;_nc_ohc=24SrHez8KFMQ7kNvwFhps0o&amp;_nc_gid=zs06dpgN9zuWmChXkc4Xag&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfEmNMfPQNOmesvo6A-pyjSeLEMoLlGAwb7VvbRtCC7S9w&amp;oe=67FA1BAD&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_oc=Q6cZ2QEWYjMpqWW-TLkCbhfTDoTLy-rGQN-1hBJ7564KRqy1BNNambgwcLFwlK_oLtQsLG8&amp;_nc_ohc=24SrHez8KFMQ7kNvwFhps0o&amp;_nc_gid=zs06dpgN9zuWmChXkc4Xag&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfHOgvehrdNW0sgU5FKPjcU-TtDZsZjzYPKoz0EBMlwNUg&amp;oe=67FA1BAD&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_oc=Q6cZ2QEWYjMpqWW-TLkCbhfTDoTLy-rGQN-1hBJ7564KRqy1BNNambgwcLFwlK_oLtQsLG8&amp;_nc_ohc=24SrHez8KFMQ7kNvwFhps0o&amp;_nc_gid=zs06dpgN9zuWmChXkc4Xag&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfGkmRhQtqSQ80J_1e4X7OpXZ7jxXHPmd-7SQsoEptbSJg&amp;oe=67FA1BAD&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_oc=Q6cZ2QEWYjMpqWW-TLkCbhfTDoTLy-rGQN-1hBJ7564KRqy1BNNambgwcLFwlK_oLtQsLG8&amp;_nc_ohc=24SrHez8KFMQ7kNvwFhps0o&amp;_nc_gid=zs06dpgN9zuWmChXkc4Xag&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfEmNMfPQNOmesvo6A-pyjSeLEMoLlGAwb7VvbRtCC7S9w&amp;oe=67FA1BAD&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-07T20:50:45.535519+00:00",
@@ -1736,16 +1526,13 @@
       "id": "d0591c58-c033-4342-bf63-8bedfd5c16e2",
       "short_id": "d0591c58",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/489633532_18399990958097476_1477826150797906579_n.jpg?stp=c240.0.960.960a_dst-jpg_e15_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDk2MC5zZHIuZjc1NzYxLmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QEWYjMpqWW-TLkCbhfTDoTLy-rGQN-1hBJ7564KRqy1BNNambgwcLFwlK_oLtQsLG8&amp;_nc_ohc=nYoWuF-mkuAQ7kNvwGo_ZZ1&amp;_nc_gid=zs06dpgN9zuWmChXkc4Xag&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfFGcy9dVuVkSvbUK4LGg1JXI4NVYLrtpy_1jJ86CgD7Fg&amp;oe=67FA214A&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/489633532_18399990958097476_1477826150797906579_n.jpg?stp=c240.0.960.960a_dst-jpg_e15_s150x150_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDk2MC5zZHIuZjc1NzYxLmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QEWYjMpqWW-TLkCbhfTDoTLy-rGQN-1hBJ7564KRqy1BNNambgwcLFwlK_oLtQsLG8&amp;_nc_ohc=nYoWuF-mkuAQ7kNvwGo_ZZ1&amp;_nc_gid=zs06dpgN9zuWmChXkc4Xag&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfE02kyk5tWGFPaPCXjCBFOL70PEk8MjOOOYN4sWUoZhpA&amp;oe=67FA214A&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/489633532_18399990958097476_1477826150797906579_n.jpg?stp=c240.0.960.960a_dst-jpg_e15_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDk2MC5zZHIuZjc1NzYxLmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QEWYjMpqWW-TLkCbhfTDoTLy-rGQN-1hBJ7564KRqy1BNNambgwcLFwlK_oLtQsLG8&amp;_nc_ohc=nYoWuF-mkuAQ7kNvwGo_ZZ1&amp;_nc_gid=zs06dpgN9zuWmChXkc4Xag&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfFGcy9dVuVkSvbUK4LGg1JXI4NVYLrtpy_1jJ86CgD7Fg&amp;oe=67FA214A&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-07T20:50:45.724098+00:00",
@@ -1759,16 +1546,13 @@
       "id": "17cdb6b5-bb1f-4993-8ba8-6d584fd24ba4",
       "short_id": "17cdb6b5",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/career-webinar-intern-management-robert-khoury-mba-97\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/2025-02/Fuqua%20-%20Blue%20Logo%20No%20Border.png\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-07T20:50:45.730218+00:00",
@@ -1782,16 +1566,13 @@
       "id": "8a6a9a98-c726-4b03-92f4-7158b1224c1d",
       "short_id": "8a6a9a98",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/fuqua-reunions-2025\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/2025-02/Fuqua-welcome%20reunions_0.jpg\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-07T20:50:57.864528+00:00",
@@ -1831,16 +1612,13 @@
       "id": "e3eef805-703e-40f8-828b-0b69e22fdefd",
       "short_id": "e3eef805",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/clubs-activities",
       "content": "<a href=\"https://blogs.fuqua.duke.edu/duke-mba/2017/03/10/alejandra-rossi/helping-durhams-small-businesses-via-fuqua-on-board?category=leadership-ethics#.WbaZe7J94dV\">Fuqua on Board</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.417+00:00",
@@ -1858,16 +1636,13 @@
       "id": "9c714580-ca1d-442f-b405-566c12d2cb6e",
       "short_id": "9c714580",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "select-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/faculty-research/directory/all",
       "content": "<select data-drupal-selector=\"edit-field-academic-area-target-id\" id=\"edit-field-academic-area-target-id\" name=\"field_academic_area_target_id\" class=\"form-select\">",
-      "tags": [
-        {
-          "id": "select-name",
-          "content": "select-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.651+00:00",
@@ -1893,16 +1668,13 @@
       "id": "1099d361-aee0-4f38-ae06-fa854b99dc93",
       "short_id": "1099d361",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/clubs-activities",
       "content": "<a href=\"https://blogs.fuqua.duke.edu/duke-mba/2015/09/28/jessica-davlin/fuqua-serves-through-fifth-annual-stop-hunger-now-event?category=events#.WbaZ27J94dU\">Stop Hunger Now</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.48+00:00",
@@ -1917,16 +1689,13 @@
       "id": "7f734659-2c68-4c68-b4db-04ca581b6a14",
       "short_id": "7f734659",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/Scholars.JPG\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.411+00:00",
@@ -1944,16 +1713,13 @@
       "id": "c717fb18-5f31-4274-8395-b4772fa54923",
       "short_id": "c717fb18",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "select-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/profiles",
       "content": "<select data-drupal-selector=\"edit-field-program-name-2-target-id\" id=\"edit-field-program-name-2-target-id\" name=\"field_program_name_2_target_id\" class=\"form-select\">",
-      "tags": [
-        {
-          "id": "select-name",
-          "content": "select-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.408+00:00",
@@ -1968,16 +1734,13 @@
       "id": "21273e60-ecbc-42e8-ba7e-f65c9404f1b6",
       "short_id": "21273e60",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/The%20Merchant.JPG\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.401+00:00",
@@ -1989,16 +1752,13 @@
       "id": "29f58418-8f51-4fe7-8203-003da79df79f",
       "short_id": "29f58418",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/clubs-activities",
       "content": "<a href=\"https://blogs.fuqua.duke.edu/duke-mba/2017/06/15/matthew-thacker/building-hope-fuqua-on-board-and-habitat-for-humanity?category=leadership-ethics#.Wbaaa7J94dU\">Habitat for Humanity</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.383+00:00",
@@ -2010,16 +1770,13 @@
       "id": "e47caa8e-59c0-4cea-be9d-34c4981b943b",
       "short_id": "e47caa8e",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/campus",
       "content": "<a href=\"http://www.jbdukehotel.com/\">Make a reservation</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.37+00:00",
@@ -2031,16 +1788,13 @@
       "id": "2f1704ef-c92e-4e28-a2e1-422cf919e2ad",
       "short_id": "2f1704ef",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/programs/phd",
       "content": "<a href=\"http://www.gradschool.duke.edu/admissions\">Duke Graduate School website</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.335+00:00",
@@ -2052,16 +1806,13 @@
       "id": "f72cf02f-098c-48ac-affc-284d6eb4b8e9",
       "short_id": "f72cf02f",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network",
       "content": "<a href=\"https://blogs.fuqua.duke.edu/global-executive-mba/\">Global Executive MBA student blog</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.332+00:00",
@@ -2073,16 +1824,13 @@
       "id": "4bc7ca03-25f4-44b9-b421-f95734ff30ab",
       "short_id": "4bc7ca03",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/clubs-activities",
       "content": "<a href=\"http://fuquaconnect.duke.edu/organizations?branches=291598\" target=\"_blank\" rel=\"noreferrer\">50 active clubs and organizations</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.303+00:00",
@@ -2094,16 +1842,13 @@
       "id": "1e695e55-3cbb-46e7-9b15-89b634d64e1b",
       "short_id": "1e695e55",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/programs/phd",
       "content": "<a href=\"mailto:fuqua-phd-info@duke.edu\">email</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.292+00:00",
@@ -2143,16 +1888,13 @@
       "id": "e0aba318-8374-480c-89e5-cc6f777b475c",
       "short_id": "e0aba318",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/clubs-activities",
       "content": "<a href=\"http://fuquaconnect.duke.edu/organization/mba-association\" target=\"_blank\" rel=\"noreferrer\">MBA Association (MBAA) </a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.25+00:00",
@@ -2400,16 +2142,13 @@
       "id": "e043ae87-e491-4c4d-b7a6-5550ac688cd5",
       "short_id": "e043ae87",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"https://blogs.fuqua.duke.edu/duke-mba/2015/09/28/jessica-davlin/fuqua-serves-through-fifth-annual-stop-hunger-now-event?category=events#.WbQab7KGOM8\"><strong>Rise Against Hunger</strong></a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:45.629+00:00",
@@ -2419,16 +2158,13 @@
       "id": "19f4e504-e10e-404b-97d5-0be709566cd2",
       "short_id": "19f4e504",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "list"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/living-our-values",
       "content": "<ul>",
-      "tags": [
-        {
-          "id": "list",
-          "content": "list"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:45.237+00:00",
@@ -2440,16 +2176,13 @@
       "id": "38248b7e-76f0-41ad-964d-03c642f5d6fb",
       "short_id": "38248b7e",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"https://www.dukefuquaveterans.org/\" target=\"_blank\" rel=\"noreferrer\">Learn more about DAFA</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:45.024+00:00",
@@ -2461,16 +2194,13 @@
       "id": "89e6ac42-b33b-4434-91bd-53648104c3bf",
       "short_id": "89e6ac42",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/living-our-values",
       "content": "<a href=\"/node/268\">a small White House task force</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.906+00:00",
@@ -2482,16 +2212,13 @@
       "id": "d414dcac-befd-447f-8d65-bdf8b367b034",
       "short_id": "d414dcac",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/living-our-values",
       "content": "<a href=\"/stephanie-robertson\">Stephanie Robertson</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.798+00:00",
@@ -2503,16 +2230,13 @@
       "id": "20197f93-15b0-43fd-9ab9-5dfe8c8e4b20",
       "short_id": "20197f93",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/living-our-values",
       "content": "<a href=\"/node/762\">Mary Frances Luce</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.794+00:00",
@@ -2522,16 +2246,13 @@
       "id": "ef457ee4-5563-48e1-8f4a-36e6bb53f9ed",
       "short_id": "ef457ee4",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/diversity-inclusion",
       "content": "<a href=\"https://www.fuqua.duke.edu/student-network/partners-community#resources_for_urm\"><strong>Learn More</strong></a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.689+00:00",
@@ -2543,16 +2264,13 @@
       "id": "87779b62-df49-41e7-8a3b-d59b32cbc464",
       "short_id": "87779b62",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/living-our-values",
       "content": "<a href=\"/node/5138\">committed</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.517+00:00",
@@ -2564,16 +2282,13 @@
       "id": "972ed98e-1f53-48e7-a1f9-3638ac2e8d15",
       "short_id": "972ed98e",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"https://www.fuqua.duke.edu/student-network/partners-community#women\">women</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.494+00:00",
@@ -2585,16 +2300,13 @@
       "id": "46dedb4a-8c22-4f36-85b2-7a0e0d62ec64",
       "short_id": "46dedb4a",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/employers-industries",
       "content": "<a href=\"http://www.fuquasbsi.com/\">Sustainable Business and Social Impact </a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.355+00:00",
@@ -2612,16 +2324,13 @@
       "id": "90d2affb-0f90-4245-a1ca-0e18426503a4",
       "short_id": "90d2affb",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "select-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/admissions",
       "content": "<select class=\"selectWrapper_select\">",
-      "tags": [
-        {
-          "id": "select-name",
-          "content": "select-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.285+00:00",
@@ -2633,16 +2342,13 @@
       "id": "71703ce1-9d4a-41a3-931d-bdc6d9571208",
       "short_id": "71703ce1",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"https://www.fuqua.duke.edu/student-network/partners-community#LGBTQ\">LGBTQ+ students</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.177+00:00",
@@ -2654,16 +2360,13 @@
       "id": "605890bf-01f1-47ca-94bd-6e802a4c0aba",
       "short_id": "605890bf",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/institutional-collaboration",
       "content": "<a href=\"https://gsb.nu.edu.kz/\">Graduate School of Business at Nazarbayev University</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.996+00:00",
@@ -2723,16 +2426,13 @@
       "id": "43de899b-121a-4a51-9461-c493b57f125c",
       "short_id": "43de899b",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/plan-your-visit",
       "content": "<a href=\"mailto:cmc-info@duke.edu\">cmc-info@duke.edu</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.736+00:00",
@@ -2758,16 +2458,13 @@
       "id": "1ea53465-0fbd-454e-b61e-5129747191d9",
       "short_id": "1ea53465",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/events",
       "content": "<a href=\"/node/399\">diversity&nbsp;</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.582+00:00",
@@ -2837,16 +2534,13 @@
       "id": "b3978155-40ff-4535-93ef-9a8e0f5d09e7",
       "short_id": "b3978155",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "frame-title"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<iframe width=\"854\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/Fou3EtComwc?autoplay=1&amp;start=0&amp;rel=0\"></iframe>",
-      "tags": [
-        {
-          "id": "frame-title",
-          "content": "frame-title"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.504+00:00",
@@ -2872,16 +2566,13 @@
       "id": "168eb5bf-ae2f-4a9a-a176-d8fa62046d63",
       "short_id": "168eb5bf",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/contact",
       "content": "<a href=\"/node/404\">visit</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.23+00:00",
@@ -2893,16 +2584,13 @@
       "id": "1ab80e74-5198-4c61-b80d-a9e075c787ab",
       "short_id": "1ab80e74",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/contact",
       "content": "<a href=\"/programs\">programs</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.731+00:00",
@@ -2942,16 +2630,13 @@
       "id": "0ff434d9-2f36-4d5e-b4ed-c4f2027df551",
       "short_id": "0ff434d9",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"https://sites.duke.edu/fuquaawib/duke-mba-association-of-women-in-business/\" target=\"_blank\" rel=\"noreferrer\">Learn more about AWIB</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:45.765+00:00",
@@ -2961,16 +2646,13 @@
       "id": "ef65e3bb-9a12-40b0-bf1d-f8761b8a76de",
       "short_id": "ef65e3bb",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"https://www.fuqua.duke.edu/inclusive-spirit\" target=\"_blank\" rel=\"noreferrer\"><strong>MBA Games Weekend</strong></a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.54+00:00",
@@ -2982,16 +2664,13 @@
       "id": "95711089-be24-4d46-a7b1-51a42b32e092",
       "short_id": "95711089",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/events",
       "content": "<a href=\"/node/398\">FuquaPride</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.273+00:00",
@@ -3003,16 +2682,13 @@
       "id": "0b323713-1d3a-4dba-94bc-1bc3caa99b31",
       "short_id": "0b323713",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/faculty-research/centers",
       "content": "<a href=\"https://centers.fuqua.duke.edu/edge/\">Read more about EDGE.</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.842+00:00",
@@ -3097,16 +2773,13 @@
       "id": "e1d866f8-c2d5-404a-995c-04b28014091e",
       "short_id": "e1d866f8",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_oc=Q6cZ2QH7dwU2Kc-JsjluzaFPRPjWDOMhRgrLJL6DVLd7f8piSpBSHr69Qy_cX0wkg5FkF54&amp;_nc_ohc=24SrHez8KFMQ7kNvwFhps0o&amp;_nc_gid=bjGoKsMqe4BJ__FR-_avOg&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfGvQ2Vb93mguhn7yKMCQ93wgu5VNxygVnCiClctx2mz0w&amp;oe=67FA1BAD&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_oc=Q6cZ2QH7dwU2Kc-JsjluzaFPRPjWDOMhRgrLJL6DVLd7f8piSpBSHr69Qy_cX0wkg5FkF54&amp;_nc_ohc=24SrHez8KFMQ7kNvwFhps0o&amp;_nc_gid=bjGoKsMqe4BJ__FR-_avOg&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfF8Szrxuycg7M6p9-3B1m4X9u6IYXpauSzzvden2kjZTw&amp;oe=67FA1BAD&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_oc=Q6cZ2QH7dwU2Kc-JsjluzaFPRPjWDOMhRgrLJL6DVLd7f8piSpBSHr69Qy_cX0wkg5FkF54&amp;_nc_ohc=24SrHez8KFMQ7kNvwFhps0o&amp;_nc_gid=bjGoKsMqe4BJ__FR-_avOg&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfE1NjZljiqfUJC5RIAQBijmvKK466jdFR_2B2XG1Hzzdg&amp;oe=67FA1BAD&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_oc=Q6cZ2QH7dwU2Kc-JsjluzaFPRPjWDOMhRgrLJL6DVLd7f8piSpBSHr69Qy_cX0wkg5FkF54&amp;_nc_ohc=24SrHez8KFMQ7kNvwFhps0o&amp;_nc_gid=bjGoKsMqe4BJ__FR-_avOg&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfGvQ2Vb93mguhn7yKMCQ93wgu5VNxygVnCiClctx2mz0w&amp;oe=67FA1BAD&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-07T21:50:25.96376+00:00",
@@ -3121,16 +2794,13 @@
       "id": "2ca765ad-008d-4088-b12d-5102d1bab9e6",
       "short_id": "2ca765ad",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/488038928_18495910312000549_7254018505340357979_n.jpg?stp=dst-jpg_e15_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmY3NTc2MS5kZWZhdWx0X2ltYWdlIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=101&amp;_nc_oc=Q6cZ2QH7dwU2Kc-JsjluzaFPRPjWDOMhRgrLJL6DVLd7f8piSpBSHr69Qy_cX0wkg5FkF54&amp;_nc_ohc=ZMZmYjMSX9UQ7kNvwEIh0uj&amp;_nc_gid=bjGoKsMqe4BJ__FR-_avOg&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfHaZILdXKHl6mzcbPLtViBTMgYJ9Eq9d6LHqd1xrTfDSQ&amp;oe=67FA35C1&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/488038928_18495910312000549_7254018505340357979_n.jpg?stp=dst-jpg_e15_s150x150_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmY3NTc2MS5kZWZhdWx0X2ltYWdlIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=101&amp;_nc_oc=Q6cZ2QH7dwU2Kc-JsjluzaFPRPjWDOMhRgrLJL6DVLd7f8piSpBSHr69Qy_cX0wkg5FkF54&amp;_nc_ohc=ZMZmYjMSX9UQ7kNvwEIh0uj&amp;_nc_gid=bjGoKsMqe4BJ__FR-_avOg&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfHyQq4sGzVy6YrRP_2TLNPswxT3PF5I9KC6apPphImCBw&amp;oe=67FA35C1&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/488038928_18495910312000549_7254018505340357979_n.jpg?stp=dst-jpg_e15_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmY3NTc2MS5kZWZhdWx0X2ltYWdlIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=101&amp;_nc_oc=Q6cZ2QH7dwU2Kc-JsjluzaFPRPjWDOMhRgrLJL6DVLd7f8piSpBSHr69Qy_cX0wkg5FkF54&amp;_nc_ohc=ZMZmYjMSX9UQ7kNvwEIh0uj&amp;_nc_gid=bjGoKsMqe4BJ__FR-_avOg&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfHaZILdXKHl6mzcbPLtViBTMgYJ9Eq9d6LHqd1xrTfDSQ&amp;oe=67FA35C1&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-07T20:50:45.677182+00:00",
@@ -3144,16 +2814,13 @@
       "id": "174416e3-140f-4ea0-a70b-a627b8ceb056",
       "short_id": "174416e3",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/duke-startup-showcase\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/startup%20showcase_0.jpg\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T19:16:42.763+00:00",
@@ -3168,16 +2835,13 @@
       "id": "78a0b187-ca83-445f-afa9-04d808f73220",
       "short_id": "78a0b187",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=ZMbMX6R4XrgQ7kNvgH6ErPS&amp;_nc_gid=01604ae3ed184c4dabf57ea470997eb3&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYA3X70xGYQeK5WaFlGkmtfYCQMVvTeVmemujshv5FSTeQ&amp;oe=67999F4D&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=ZMbMX6R4XrgQ7kNvgH6ErPS&amp;_nc_gid=01604ae3ed184c4dabf57ea470997eb3&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYB5qBVdZY_DScWy8jzfWYyoUCEBrYq7-jfT7CHCx8RcSg&amp;oe=67999F4D&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=ZMbMX6R4XrgQ7kNvgH6ErPS&amp;_nc_gid=01604ae3ed184c4dabf57ea470997eb3&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYCWoNfDBnYhXAfHF5d7og2xBLht8ne2UlaiIHhoI89L0g&amp;oe=67999F4D&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=ZMbMX6R4XrgQ7kNvgH6ErPS&amp;_nc_gid=01604ae3ed184c4dabf57ea470997eb3&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYA3X70xGYQeK5WaFlGkmtfYCQMVvTeVmemujshv5FSTeQ&amp;oe=67999F4D&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.71+00:00",
@@ -3192,16 +2856,13 @@
       "id": "52a06683-9e05-4612-b407-1985ed2cd023",
       "short_id": "52a06683",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/461585703_1250099169340852_6123036917771122982_n.jpg?stp=dst-jpg_e35_s240x240&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_ohc=3GYSfuSapDsQ7kNvgE-5ZNE&amp;_nc_gid=937f199b7fb947dd84f5e9ed72c2441d&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYCo9MffukKtiEknUqIYsZu_rk6HiCtXyc0fLKh7NnDqnw&amp;oe=6709C62C&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/461585703_1250099169340852_6123036917771122982_n.jpg?stp=dst-jpg_e35_s150x150&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_ohc=3GYSfuSapDsQ7kNvgE-5ZNE&amp;_nc_gid=937f199b7fb947dd84f5e9ed72c2441d&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYA9gISdeyg-IBFKDdalkzZnSb_r130u1HN7KRQp4grzmg&amp;oe=6709C62C&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/461585703_1250099169340852_6123036917771122982_n.jpg?stp=dst-jpg_e35_s240x240&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_ohc=3GYSfuSapDsQ7kNvgE-5ZNE&amp;_nc_gid=937f199b7fb947dd84f5e9ed72c2441d&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYCo9MffukKtiEknUqIYsZu_rk6HiCtXyc0fLKh7NnDqnw&amp;oe=6709C62C&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.602+00:00",
@@ -3216,16 +2877,13 @@
       "id": "ef1b1afd-a9a1-4fd9-804f-bfdf1aff2128",
       "short_id": "ef1b1afd",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" decoding=\"auto\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/439311051_941438014028056_6268277710420624009_n.jpg?stp=dst-jpg_e35&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_ohc=u5C1PYpeqrQQ7kNvgGWO7Pr&amp;_nc_gid=937f199b7fb947dd84f5e9ed72c2441d&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYChm1QAG8rzgSJhx6jVkqvkXAGl681cqjtfgLmMMdNjfg&amp;oe=6709E846&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/439311051_941438014028056_6268277710420624009_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_ohc=u5C1PYpeqrQQ7kNvgGWO7Pr&amp;_nc_gid=937f199b7fb947dd84f5e9ed72c2441d&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYDfUaW_8L1G7mBIFNwetl3B3Cr1FC341JRLlYUvc369gg&amp;oe=6709E846&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/439311051_941438014028056_6268277710420624009_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_ohc=u5C1PYpeqrQQ7kNvgGWO7Pr&amp;_nc_gid=937f199b7fb947dd84f5e9ed72c2441d&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYBAWPhgEOWfSPWipdH6jEHfpn0YaaczhZXIssGO3dgRLA&amp;oe=6709E846&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/439311051_941438014028056_6268277710420624009_n.jpg?stp=dst-jpg_e35&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_ohc=u5C1PYpeqrQQ7kNvgGWO7Pr&amp;_nc_gid=937f199b7fb947dd84f5e9ed72c2441d&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYChm1QAG8rzgSJhx6jVkqvkXAGl681cqjtfgLmMMdNjfg&amp;oe=6709E846&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.543+00:00",
@@ -3240,16 +2898,13 @@
       "id": "81a6059e-a11e-4a17-bf7a-7b8a51ce648b",
       "short_id": "81a6059e",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" decoding=\"auto\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/439563873_760190229432586_300954770216566362_n.jpg?stp=dst-jpg_e35&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=AzPRtV1Ne6kQ7kNvgGUJCq2&amp;_nc_gid=937f199b7fb947dd84f5e9ed72c2441d&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYDyxyXRkRTFC_hZamGvjhhzqdeiWqgh4I23q-WgBYKKRQ&amp;oe=6709C9D1&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/439563873_760190229432586_300954770216566362_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=AzPRtV1Ne6kQ7kNvgGUJCq2&amp;_nc_gid=937f199b7fb947dd84f5e9ed72c2441d&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYChd0QH8C8P3ZydUnXRu45Zjhu7DcEhmMWPEhutyKykEg&amp;oe=6709C9D1&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/439563873_760190229432586_300954770216566362_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=AzPRtV1Ne6kQ7kNvgGUJCq2&amp;_nc_gid=937f199b7fb947dd84f5e9ed72c2441d&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYCPOQXlKQbdbXneuywDaw607-869SjswSSdF-pRuUmW5g&amp;oe=6709C9D1&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/439563873_760190229432586_300954770216566362_n.jpg?stp=dst-jpg_e35&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=AzPRtV1Ne6kQ7kNvgGUJCq2&amp;_nc_gid=937f199b7fb947dd84f5e9ed72c2441d&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYDyxyXRkRTFC_hZamGvjhhzqdeiWqgh4I23q-WgBYKKRQ&amp;oe=6709C9D1&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T17:40:44.125+00:00",
@@ -3264,16 +2919,13 @@
       "id": "9eb4872a-3293-4748-bb5c-d8e9b8cfc196",
       "short_id": "9eb4872a",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.29350-15/474389932_927298959470420_1832503669515222449_n.jpg?se=-1&amp;stp=c0.0.1439.1439a_dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0MzkuaGRyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=108&amp;_nc_ohc=QP2T4fRTr0QQ7kNvgEmVhMb&amp;_nc_gid=c2050c97bf0549ae8722d73a40c837f4&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYBv7lSxnNSrVdqxMFx2KNNBfmNBiKvxrLa8uKhOo4ZHoA&amp;oe=6799BC75&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.29350-15/474389932_927298959470420_1832503669515222449_n.jpg?se=-1&amp;stp=c0.0.1439.1439a_dst-jpg_e35_s150x150_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0MzkuaGRyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=108&amp;_nc_ohc=QP2T4fRTr0QQ7kNvgEmVhMb&amp;_nc_gid=c2050c97bf0549ae8722d73a40c837f4&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYBkY1AKs0uJsQ-A5y-sRiL7Q32c8a-Mu6w440u794zC7Q&amp;oe=6799BC75&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.29350-15/474389932_927298959470420_1832503669515222449_n.jpg?se=-1&amp;stp=c0.0.1439.1439a_dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0MzkuaGRyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=108&amp;_nc_ohc=QP2T4fRTr0QQ7kNvgEmVhMb&amp;_nc_gid=c2050c97bf0549ae8722d73a40c837f4&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYBv7lSxnNSrVdqxMFx2KNNBfmNBiKvxrLa8uKhOo4ZHoA&amp;oe=6799BC75&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T17:40:44.119+00:00",
@@ -3288,16 +2940,13 @@
       "id": "cb632aba-9d25-4d52-978a-3f0c07d3d255",
       "short_id": "cb632aba",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=YrgmjMI2dm8Q7kNvgFotQgZ&amp;_nc_gid=c2050c97bf0549ae8722d73a40c837f4&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYC3HlC8wYKV36ttRQ_m_AKo7NXrSfIYMkH7BYra5OxLCw&amp;oe=6799A5ED&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=YrgmjMI2dm8Q7kNvgFotQgZ&amp;_nc_gid=c2050c97bf0549ae8722d73a40c837f4&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYDgtBagTqbIIbL8VXTQPazJ4F5tfx4sUEUoqJ9avcjq8g&amp;oe=6799A5ED&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=YrgmjMI2dm8Q7kNvgFotQgZ&amp;_nc_gid=c2050c97bf0549ae8722d73a40c837f4&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYBWDABAaDFWJd7wVmcaXEPeKbeo7DVrmMofLJkWCyY47g&amp;oe=6799A5ED&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=YrgmjMI2dm8Q7kNvgFotQgZ&amp;_nc_gid=c2050c97bf0549ae8722d73a40c837f4&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYC3HlC8wYKV36ttRQ_m_AKo7NXrSfIYMkH7BYra5OxLCw&amp;oe=6799A5ED&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-15T16:15:58.172+00:00",
@@ -3312,16 +2961,13 @@
       "id": "982d53b8-56e7-463c-a7e5-13ef0d594631",
       "short_id": "982d53b8",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" decoding=\"auto\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/439311051_941438014028056_6268277710420624009_n.jpg?stp=dst-jpg_e35&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_ohc=q7YGENWdqYwQ7kNvgEfkD3Y&amp;_nc_gid=9b8c6b5beb06466186f0e0dd06a3d865&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYCoww6L9KMdHDPAliqIdGgd2cgIyNgURixcQPJPxyyppw&amp;oe=673D52C6&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/439311051_941438014028056_6268277710420624009_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_ohc=q7YGENWdqYwQ7kNvgEfkD3Y&amp;_nc_gid=9b8c6b5beb06466186f0e0dd06a3d865&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYAclbr4bE4Bt9vRaatjnhWxmM6EgQTzrn2s8gXShSE2yA&amp;oe=673D52C6&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/439311051_941438014028056_6268277710420624009_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_ohc=q7YGENWdqYwQ7kNvgEfkD3Y&amp;_nc_gid=9b8c6b5beb06466186f0e0dd06a3d865&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYD1xxvVJMzvyqAhpECCjYfAuGJWw09VidHivwhzPDbvmw&amp;oe=673D52C6&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/439311051_941438014028056_6268277710420624009_n.jpg?stp=dst-jpg_e35&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_ohc=q7YGENWdqYwQ7kNvgEfkD3Y&amp;_nc_gid=9b8c6b5beb06466186f0e0dd06a3d865&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYCoww6L9KMdHDPAliqIdGgd2cgIyNgURixcQPJPxyyppw&amp;oe=673D52C6&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-01T13:31:45.264+00:00",
@@ -3381,16 +3027,13 @@
       "id": "f3442fdd-6fa0-42da-9121-760e36c50fc2",
       "short_id": "f3442fdd",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "select-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/duke-fuqua-insights",
       "content": "<select data-drupal-selector=\"edit-field-category-tid\" id=\"edit-field-category-tid\" name=\"field_category_tid\" class=\"form-select\">",
-      "tags": [
-        {
-          "id": "select-name",
-          "content": "select-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-24T13:45:50.824486+00:00",
@@ -3405,16 +3048,13 @@
       "id": "20c786ab-2b9d-412b-9f51-e89a525c4215",
       "short_id": "20c786ab",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QGRUIcbQau5X9JlLXsmbsn1PX2Y6nHRXW71VN9gvTru3Dln77q2AnVxjgzszMIYizs&amp;_nc_ohc=1rLoVwct-S0Q7kNvwEHoBeI&amp;_nc_gid=9CkFIXo-mCPMtXU9DIfLLQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfHKa21zzGrRmlOAWLDpUyeQHYPd5I0yh7zZi4u6xLh1xA&amp;oe=68100E0D&amp;_nc_sid=10d13b\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-07T20:50:45.521057+00:00",
@@ -3429,16 +3069,13 @@
       "id": "f2b9717c-a3dc-4531-b9d8-788bcb72f718",
       "short_id": "f2b9717c",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QEWYjMpqWW-TLkCbhfTDoTLy-rGQN-1hBJ7564KRqy1BNNambgwcLFwlK_oLtQsLG8&amp;_nc_ohc=0a3cFKm255UQ7kNvwFQfK7J&amp;_nc_gid=zs06dpgN9zuWmChXkc4Xag&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfFtmTssofRoE-IUXcN4DJLPEjNZIcNd_QfZNGqPQzE9GA&amp;oe=67FA150D&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QEWYjMpqWW-TLkCbhfTDoTLy-rGQN-1hBJ7564KRqy1BNNambgwcLFwlK_oLtQsLG8&amp;_nc_ohc=0a3cFKm255UQ7kNvwFQfK7J&amp;_nc_gid=zs06dpgN9zuWmChXkc4Xag&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfGAY3hM_XCFKGRYsTUulxEYUkWWT6qSdpPlVnlRpEWgHg&amp;oe=67FA150D&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QEWYjMpqWW-TLkCbhfTDoTLy-rGQN-1hBJ7564KRqy1BNNambgwcLFwlK_oLtQsLG8&amp;_nc_ohc=0a3cFKm255UQ7kNvwFQfK7J&amp;_nc_gid=zs06dpgN9zuWmChXkc4Xag&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfHnktO0n-Z4fLcCDUopBbiSwCKPlX5CmIY1QnJlpMK5aA&amp;oe=67FA150D&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QEWYjMpqWW-TLkCbhfTDoTLy-rGQN-1hBJ7564KRqy1BNNambgwcLFwlK_oLtQsLG8&amp;_nc_ohc=0a3cFKm255UQ7kNvwFQfK7J&amp;_nc_gid=zs06dpgN9zuWmChXkc4Xag&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfFtmTssofRoE-IUXcN4DJLPEjNZIcNd_QfZNGqPQzE9GA&amp;oe=67FA150D&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-07T20:50:45.542171+00:00",
@@ -3453,16 +3090,13 @@
       "id": "20a18263-2616-4dc6-8444-c55bf124f86e",
       "short_id": "20a18263",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/488038928_18495910312000549_7254018505340357979_n.jpg?stp=dst-jpg_e15_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmY3NTc2MS5kZWZhdWx0X2ltYWdlIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=101&amp;_nc_oc=Q6cZ2QEWYjMpqWW-TLkCbhfTDoTLy-rGQN-1hBJ7564KRqy1BNNambgwcLFwlK_oLtQsLG8&amp;_nc_ohc=ZMZmYjMSX9UQ7kNvwEIh0uj&amp;_nc_gid=zs06dpgN9zuWmChXkc4Xag&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfHhNci2PNGO1jDKX-ca2AHQ-ZFSGGMdqv8YoYU-ne2S7Q&amp;oe=67F9FD81&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/488038928_18495910312000549_7254018505340357979_n.jpg?stp=dst-jpg_e15_s150x150_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmY3NTc2MS5kZWZhdWx0X2ltYWdlIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=101&amp;_nc_oc=Q6cZ2QEWYjMpqWW-TLkCbhfTDoTLy-rGQN-1hBJ7564KRqy1BNNambgwcLFwlK_oLtQsLG8&amp;_nc_ohc=ZMZmYjMSX9UQ7kNvwEIh0uj&amp;_nc_gid=zs06dpgN9zuWmChXkc4Xag&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfErJxfJf1TqO8W4hWc8242Nadx6goxRNE_kuKXlmnH4JQ&amp;oe=67F9FD81&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/488038928_18495910312000549_7254018505340357979_n.jpg?stp=dst-jpg_e15_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmY3NTc2MS5kZWZhdWx0X2ltYWdlIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=101&amp;_nc_oc=Q6cZ2QEWYjMpqWW-TLkCbhfTDoTLy-rGQN-1hBJ7564KRqy1BNNambgwcLFwlK_oLtQsLG8&amp;_nc_ohc=ZMZmYjMSX9UQ7kNvwEIh0uj&amp;_nc_gid=zs06dpgN9zuWmChXkc4Xag&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfHhNci2PNGO1jDKX-ca2AHQ-ZFSGGMdqv8YoYU-ne2S7Q&amp;oe=67F9FD81&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:47.963+00:00",
@@ -3491,16 +3125,13 @@
       "id": "1447c986-a52d-4ed3-bc3c-e757ac3ab156",
       "short_id": "1447c986",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/473755563_1713101395926911_2014180881060213032_n.jpg?stp=dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=111&amp;_nc_ohc=4wx7oflHaFcQ7kNvgHvTUPx&amp;_nc_gid=c2050c97bf0549ae8722d73a40c837f4&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYD94G25CqMDefSyqdGsqvHrTSWDTajhHFjzmwcCJljNFQ&amp;oe=679999C8&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/473755563_1713101395926911_2014180881060213032_n.jpg?stp=dst-jpg_e35_s150x150_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=111&amp;_nc_ohc=4wx7oflHaFcQ7kNvgHvTUPx&amp;_nc_gid=c2050c97bf0549ae8722d73a40c837f4&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYDSOSmpBg6ADoNu0sVT8S-JAGZFa0ajFegrKaa_TfUROg&amp;oe=679999C8&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/473755563_1713101395926911_2014180881060213032_n.jpg?stp=dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=111&amp;_nc_ohc=4wx7oflHaFcQ7kNvgHvTUPx&amp;_nc_gid=c2050c97bf0549ae8722d73a40c837f4&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYD94G25CqMDefSyqdGsqvHrTSWDTajhHFjzmwcCJljNFQ&amp;oe=679999C8&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-15T16:15:58.313+00:00",
@@ -3515,16 +3146,13 @@
       "id": "272c8310-08c9-4d7b-81c8-9bde2153f07f",
       "short_id": "272c8310",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_s240x240&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=Sf9CqYfjAKcQ7kNvgFNMZP4&amp;_nc_gid=9b8c6b5beb06466186f0e0dd06a3d865&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYBwruhQOJk2t_uOWlFPl7W75qVyh688ILqS7r1Nn4xASQ&amp;oe=673D564D&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_s150x150&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=Sf9CqYfjAKcQ7kNvgFNMZP4&amp;_nc_gid=9b8c6b5beb06466186f0e0dd06a3d865&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYDJg-w9YtcJnliHCOR8kX4u2WTNAjiyym2IcoCJxZ-aNQ&amp;oe=673D564D&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_s240x240&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=Sf9CqYfjAKcQ7kNvgFNMZP4&amp;_nc_gid=9b8c6b5beb06466186f0e0dd06a3d865&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYBwruhQOJk2t_uOWlFPl7W75qVyh688ILqS7r1Nn4xASQ&amp;oe=673D564D&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-15T16:15:58.094+00:00",
@@ -3539,16 +3167,13 @@
       "id": "c23327fb-b3fa-436b-854a-c01e90af2282",
       "short_id": "c23327fb",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" decoding=\"auto\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/439563873_760190229432586_300954770216566362_n.jpg?stp=dst-jpg_e35&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=JYyPTxykjLsQ7kNvgEuJu2y&amp;_nc_gid=9b8c6b5beb06466186f0e0dd06a3d865&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYDfRkDAC5e4qHhGW6GBchtPS_4jHRFYJmXWd0eN2kI-Tw&amp;oe=673D3451&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/439563873_760190229432586_300954770216566362_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=JYyPTxykjLsQ7kNvgEuJu2y&amp;_nc_gid=9b8c6b5beb06466186f0e0dd06a3d865&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYA6LLpBLhPp7QR1tIZ_7Unutv805ruCMdD8zf-P7ctdrw&amp;oe=673D3451&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/439563873_760190229432586_300954770216566362_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=JYyPTxykjLsQ7kNvgEuJu2y&amp;_nc_gid=9b8c6b5beb06466186f0e0dd06a3d865&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYAt7ZN42uM9isa7u-cLF0kO-u-iJxDAbw4yXlcK3O5y2w&amp;oe=673D3451&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/439563873_760190229432586_300954770216566362_n.jpg?stp=dst-jpg_e35&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=JYyPTxykjLsQ7kNvgEuJu2y&amp;_nc_gid=9b8c6b5beb06466186f0e0dd06a3d865&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYDfRkDAC5e4qHhGW6GBchtPS_4jHRFYJmXWd0eN2kI-Tw&amp;oe=673D3451&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-01T13:31:45.743+00:00",
@@ -3563,16 +3188,13 @@
       "id": "3435cd00-7faf-4f16-bb3e-33a5ad57bef7",
       "short_id": "3435cd00",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/464914825_1226392568617035_4851176041663813023_n.jpg?stp=dst-jpg_e35_s240x240&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=103&amp;_nc_ohc=taambH1aZoEQ7kNvgGv1E2E&amp;_nc_gid=5248bc85cadc4e0583eb3e2dbbe90dd2&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYBAvAO1Ud2fxgS9PnJ3poZV-MDPbCMj9E8BBeF_P5v5yA&amp;oe=672A8E97&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/464914825_1226392568617035_4851176041663813023_n.jpg?stp=dst-jpg_e35_s150x150&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=103&amp;_nc_ohc=taambH1aZoEQ7kNvgGv1E2E&amp;_nc_gid=5248bc85cadc4e0583eb3e2dbbe90dd2&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYAlEa2nbeSWlQ4MA0GBIqchKlXyMrDR4UofOtTzMFRdQw&amp;oe=672A8E97&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/464914825_1226392568617035_4851176041663813023_n.jpg?stp=dst-jpg_e35_s240x240&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=103&amp;_nc_ohc=taambH1aZoEQ7kNvgGv1E2E&amp;_nc_gid=5248bc85cadc4e0583eb3e2dbbe90dd2&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYBAvAO1Ud2fxgS9PnJ3poZV-MDPbCMj9E8BBeF_P5v5yA&amp;oe=672A8E97&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T19:16:43.212+00:00",
@@ -3586,16 +3208,13 @@
       "id": "cbb1f601-f6d9-40d2-89d2-eed7f5ee6545",
       "short_id": "cbb1f601",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/unlock-power-fuqua-s-ford-library-resources\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/RGB-Blue_WhiteText_NoBorder%20-%20Copy_4.png\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T19:16:42.885+00:00",
@@ -3610,16 +3229,13 @@
       "id": "f730edfc-e3a8-4b59-889c-0b0332e2bcb9",
       "short_id": "f730edfc",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.29350-15/474389932_927298959470420_1832503669515222449_n.jpg?se=-1&amp;stp=c0.0.1439.1439a_dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0MzkuaGRyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=108&amp;_nc_ohc=QP2T4fRTr0QQ7kNvgEmVhMb&amp;_nc_gid=01604ae3ed184c4dabf57ea470997eb3&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYACQa0kq2pKaXODYj43CRTq5F7wl3nAvJU7SsIIvcJcUQ&amp;oe=6799BC75&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.29350-15/474389932_927298959470420_1832503669515222449_n.jpg?se=-1&amp;stp=c0.0.1439.1439a_dst-jpg_e35_s150x150_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0MzkuaGRyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=108&amp;_nc_ohc=QP2T4fRTr0QQ7kNvgEmVhMb&amp;_nc_gid=01604ae3ed184c4dabf57ea470997eb3&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYB5ES9L8umDmuBcNgK_kvAkGHPZBK_My855qHPlgl4cqA&amp;oe=6799BC75&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.29350-15/474389932_927298959470420_1832503669515222449_n.jpg?se=-1&amp;stp=c0.0.1439.1439a_dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0MzkuaGRyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=108&amp;_nc_ohc=QP2T4fRTr0QQ7kNvgEmVhMb&amp;_nc_gid=01604ae3ed184c4dabf57ea470997eb3&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYACQa0kq2pKaXODYj43CRTq5F7wl3nAvJU7SsIIvcJcUQ&amp;oe=6799BC75&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T19:16:42.849+00:00",
@@ -3634,16 +3250,13 @@
       "id": "921c60bf-fc39-4e20-a8a5-f3a344bdf5dd",
       "short_id": "921c60bf",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/473755563_1713101395926911_2014180881060213032_n.jpg?stp=dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=111&amp;_nc_ohc=4wx7oflHaFcQ7kNvgHvTUPx&amp;_nc_gid=01604ae3ed184c4dabf57ea470997eb3&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYC_um-11xjpWb6hFZTZ0eY7_gLptyIo8IPwPajLZyHnng&amp;oe=6799D208&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/473755563_1713101395926911_2014180881060213032_n.jpg?stp=dst-jpg_e35_s150x150_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=111&amp;_nc_ohc=4wx7oflHaFcQ7kNvgHvTUPx&amp;_nc_gid=01604ae3ed184c4dabf57ea470997eb3&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYDfpDRpe1tFSbjaC7xifSuJ0N74kl4WZbcoiW2LYs6QDw&amp;oe=6799D208&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/473755563_1713101395926911_2014180881060213032_n.jpg?stp=dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=111&amp;_nc_ohc=4wx7oflHaFcQ7kNvgHvTUPx&amp;_nc_gid=01604ae3ed184c4dabf57ea470997eb3&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYC_um-11xjpWb6hFZTZ0eY7_gLptyIo8IPwPajLZyHnng&amp;oe=6799D208&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T19:16:42.806+00:00",
@@ -3658,16 +3271,13 @@
       "id": "734c73ce-2c4b-4323-bb40-67c9cc31a509",
       "short_id": "734c73ce",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=YrgmjMI2dm8Q7kNvgFotQgZ&amp;_nc_gid=01604ae3ed184c4dabf57ea470997eb3&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYCKhJ3B9CMBKevnr-azwdZu_0hPCb7c3MMTzXGr37vpOA&amp;oe=6799A5ED&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=YrgmjMI2dm8Q7kNvgFotQgZ&amp;_nc_gid=01604ae3ed184c4dabf57ea470997eb3&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYBnSEgHflVFvd_nlWHZOINP6TYh0X6HVCMa7S53Q1Uo2g&amp;oe=6799A5ED&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=YrgmjMI2dm8Q7kNvgFotQgZ&amp;_nc_gid=01604ae3ed184c4dabf57ea470997eb3&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYBNtHxQNT8wT_RcXe1kAg4qsS2T1k1ySpFlAcIVXlwEeg&amp;oe=6799A5ED&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=YrgmjMI2dm8Q7kNvgFotQgZ&amp;_nc_gid=01604ae3ed184c4dabf57ea470997eb3&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYCKhJ3B9CMBKevnr-azwdZu_0hPCb7c3MMTzXGr37vpOA&amp;oe=6799A5ED&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-01-24T17:40:44.115+00:00",
@@ -3682,16 +3292,13 @@
       "id": "dfd46ace-a7dd-4be7-a38e-30cc392b7040",
       "short_id": "dfd46ace",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=ZMbMX6R4XrgQ7kNvgH6ErPS&amp;_nc_gid=c2050c97bf0549ae8722d73a40c837f4&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYCQ8yRixeLnvVf6e4XRf8i1otI-xuixQ8RtqIXyjl5vMw&amp;oe=67999F4D&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=ZMbMX6R4XrgQ7kNvgH6ErPS&amp;_nc_gid=c2050c97bf0549ae8722d73a40c837f4&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYDJ-3l2Pb22RFyZvIGZiDmOVVg2yHftoUgQdLNl76bfGg&amp;oe=67999F4D&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=ZMbMX6R4XrgQ7kNvgH6ErPS&amp;_nc_gid=c2050c97bf0549ae8722d73a40c837f4&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYAbJapf9arXmLpvc50X0P2VPCA9NevA2a5ASSRCbIl-HQ&amp;oe=67999F4D&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=ZMbMX6R4XrgQ7kNvgH6ErPS&amp;_nc_gid=c2050c97bf0549ae8722d73a40c837f4&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYCQ8yRixeLnvVf6e4XRf8i1otI-xuixQ8RtqIXyjl5vMw&amp;oe=67999F4D&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-15T16:15:58.648+00:00",
@@ -3705,16 +3312,13 @@
       "id": "8d41828f-db46-4b86-89ee-ad0c0242f003",
       "short_id": "8d41828f",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/ai-marketing-panel-discussion-duke-alumni\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/AI%20in%20Marketing%20A%20Panel%20Discussion%20with%20Duke%20Alumni2.jpg\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-15T16:15:58.245+00:00",
@@ -3729,16 +3333,13 @@
       "id": "dab89692-4c25-4382-9ff1-559308b68ac7",
       "short_id": "dab89692",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/467172193_893202589620656_4422292639653302466_n.jpg?stp=dst-jpg_e35_s240x240&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=108&amp;_nc_ohc=hHgOMlydiysQ7kNvgGXbt7Q&amp;_nc_gid=9b8c6b5beb06466186f0e0dd06a3d865&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYAQ_RG3mILmI4sjd5u64Q1ZiVHEKOUh2-97zXAup0QZVw&amp;oe=673D5A78&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/467172193_893202589620656_4422292639653302466_n.jpg?stp=dst-jpg_e35_s150x150&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=108&amp;_nc_ohc=hHgOMlydiysQ7kNvgGXbt7Q&amp;_nc_gid=9b8c6b5beb06466186f0e0dd06a3d865&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYBBGyzpErygAo58CNAVmt7kZ3JOiOc0jGUPAedFJsauvw&amp;oe=673D5A78&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/467172193_893202589620656_4422292639653302466_n.jpg?stp=dst-jpg_e35_s240x240&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=108&amp;_nc_ohc=hHgOMlydiysQ7kNvgGXbt7Q&amp;_nc_gid=9b8c6b5beb06466186f0e0dd06a3d865&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYAQ_RG3mILmI4sjd5u64Q1ZiVHEKOUh2-97zXAup0QZVw&amp;oe=673D5A78&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-15T16:15:57.749+00:00",
@@ -3752,16 +3353,13 @@
       "id": "f11ae56d-517a-4251-b33c-28e113874745",
       "short_id": "f11ae56d",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "frame-title"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<iframe class=\"instagram-media instagram-media-rendered\" id=\"instagram-embed-0\" src=\"https://www.instagram.com/p/C6EI9HYOiTM/embed/captioned/?cr=1&amp;v=14&amp;wp=540&amp;rd=https%3A%2F%2Fwww.fuqua.duke.edu&amp;rp=%2Falumni#%7B%22ci%22%3A0%2C%22os%22%3A1163.1000003814697%2C%22ls%22%3A256.5%2C%22le%22%3A875.8000001907349%7D\" allowtransparency=\"true\" allowfullscreen=\"true\" frameborder=\"0\" height=\"918\" data-instgrm-payload-id=\"instagram-media-payload-0\" scrolling=\"no\" style=\"background: white; max-width: 540px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 326px; padding: 0px;\">",
-      "tags": [
-        {
-          "id": "frame-title",
-          "content": "frame-title"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-01T13:31:46.029+00:00",
@@ -3775,16 +3373,13 @@
       "id": "6c65bb2c-d96f-49f4-8216-9020e6076813",
       "short_id": "6c65bb2c",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/wake-wealthy-series-real-estate-investing-alternative-stream-income\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/public/event-graphics/event_default.jpg\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-01T13:31:45.682+00:00",
@@ -3799,16 +3394,13 @@
       "id": "087b1176-7888-4d13-aacd-581d646b8b8c",
       "short_id": "087b1176",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/464985611_854861340061942_530818900998000355_n.jpg?stp=dst-jpg_e35_s240x240&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=GQGMGXombAEQ7kNvgHJmbxW&amp;_nc_gid=5248bc85cadc4e0583eb3e2dbbe90dd2&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYBoipPrsOeeuOL_oJKP1csgEbHgSNoxuyi-71sKH-oFaQ&amp;oe=672AA3EA&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/464985611_854861340061942_530818900998000355_n.jpg?stp=dst-jpg_e35_s150x150&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=GQGMGXombAEQ7kNvgHJmbxW&amp;_nc_gid=5248bc85cadc4e0583eb3e2dbbe90dd2&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYB_aE3rl5zlM5UqPDeDKNlzU9QVOA0RdeO9R9XsBl7yAw&amp;oe=672AA3EA&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/464985611_854861340061942_530818900998000355_n.jpg?stp=dst-jpg_e35_s240x240&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=GQGMGXombAEQ7kNvgHJmbxW&amp;_nc_gid=5248bc85cadc4e0583eb3e2dbbe90dd2&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYBoipPrsOeeuOL_oJKP1csgEbHgSNoxuyi-71sKH-oFaQ&amp;oe=672AA3EA&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-11-01T13:31:45.631+00:00",
@@ -3823,16 +3415,13 @@
       "id": "b91e0339-3c06-4e99-be5d-83a0b6485d05",
       "short_id": "b91e0339",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" decoding=\"auto\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/439563873_760190229432586_300954770216566362_n.jpg?stp=dst-jpg_e35&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=HMqmiBpZFYkQ7kNvgHdfxmc&amp;_nc_gid=5248bc85cadc4e0583eb3e2dbbe90dd2&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYAUWgbtzZcbEEmq0e7pbZdFmwZpUu_F_asei5wMKLax1Q&amp;oe=672ABF51&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/439563873_760190229432586_300954770216566362_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=HMqmiBpZFYkQ7kNvgHdfxmc&amp;_nc_gid=5248bc85cadc4e0583eb3e2dbbe90dd2&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYD1pG2oZGBwpcvMbdI0x_zDLcV22CenDQNVWfhG2Fua2g&amp;oe=672ABF51&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/439563873_760190229432586_300954770216566362_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=HMqmiBpZFYkQ7kNvgHdfxmc&amp;_nc_gid=5248bc85cadc4e0583eb3e2dbbe90dd2&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYDc4dQBRQVXoNI4TkdyIujgxq4kij-SL02DPBHMV4MSBA&amp;oe=672ABF51&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/439563873_760190229432586_300954770216566362_n.jpg?stp=dst-jpg_e35&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=HMqmiBpZFYkQ7kNvgHdfxmc&amp;_nc_gid=5248bc85cadc4e0583eb3e2dbbe90dd2&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AYAUWgbtzZcbEEmq0e7pbZdFmwZpUu_F_asei5wMKLax1Q&amp;oe=672ABF51&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.404+00:00",
@@ -3844,16 +3433,13 @@
       "id": "02c1dad2-e0fc-473d-8ae8-97cd139b2e5e",
       "short_id": "02c1dad2",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"https://www.fuqua.duke.edu/student-network/partners-community#veterans\">veterans</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-24T13:45:46.453246+00:00",
@@ -3865,16 +3451,13 @@
       "id": "1071655e-4966-4004-ae77-963d51478103",
       "short_id": "1071655e",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"https://sites.duke.edu/fuqualasa/\">Learn more about LASA Partners</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-24T13:45:50.147391+00:00",
@@ -3956,16 +3539,13 @@
       "id": "abb13cda-c566-4e55-8a69-017d578eaa25",
       "short_id": "abb13cda",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/campus",
       "content": "<a href=\"http://fuqua.cafebonappetit.com\">today’s menus</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-24T13:45:50.710086+00:00",
@@ -3980,16 +3560,13 @@
       "id": "2b510f72-3261-482e-a75a-0ba2a1d32299",
       "short_id": "2b510f72",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/nyc.jpg\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-24T13:45:50.929603+00:00",
@@ -4004,16 +3581,13 @@
       "id": "1a6030a0-ee1f-457d-a558-952f5b5ef396",
       "short_id": "1a6030a0",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/489633532_18399990958097476_1477826150797906579_n.jpg?stp=c240.0.960.960a_dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDk2MC5zZHIuZjc1NzYxLmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QGRUIcbQau5X9JlLXsmbsn1PX2Y6nHRXW71VN9gvTru3Dln77q2AnVxjgzszMIYizs&amp;_nc_ohc=wjEFDVWITY0Q7kNvwHFJpNu&amp;_nc_gid=9CkFIXo-mCPMtXU9DIfLLQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfHctG_TIA03dDaITAmMjEyjokTm087lnkDHQfL04kOw-w&amp;oe=68101A4A&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/489633532_18399990958097476_1477826150797906579_n.jpg?stp=c240.0.960.960a_dst-jpg_e35_s150x150_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDk2MC5zZHIuZjc1NzYxLmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QGRUIcbQau5X9JlLXsmbsn1PX2Y6nHRXW71VN9gvTru3Dln77q2AnVxjgzszMIYizs&amp;_nc_ohc=wjEFDVWITY0Q7kNvwHFJpNu&amp;_nc_gid=9CkFIXo-mCPMtXU9DIfLLQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfFOqrmaSNDoNhhUP3bCnX8z1w4V5s6IoMpcdmMI99337g&amp;oe=68101A4A&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/489633532_18399990958097476_1477826150797906579_n.jpg?stp=c240.0.960.960a_dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDk2MC5zZHIuZjc1NzYxLmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QGRUIcbQau5X9JlLXsmbsn1PX2Y6nHRXW71VN9gvTru3Dln77q2AnVxjgzszMIYizs&amp;_nc_ohc=wjEFDVWITY0Q7kNvwHFJpNu&amp;_nc_gid=9CkFIXo-mCPMtXU9DIfLLQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfHctG_TIA03dDaITAmMjEyjokTm087lnkDHQfL04kOw-w&amp;oe=68101A4A&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-24T13:45:51.380355+00:00",
@@ -4027,16 +3601,13 @@
       "id": "9d38db06-18df-4aa9-862b-4533fa4f794d",
       "short_id": "9d38db06",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/new-york-city-reception-interim-dean-mary-frances-luce-phd-94\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/nyc.jpg\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-24T13:45:51.400827+00:00",
@@ -4050,16 +3621,13 @@
       "id": "cca953ab-b633-4c0c-9468-1553a1925369",
       "short_id": "cca953ab",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/fuqua-alumni-career-webinar-what-will-be-your-life-after-work\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/2025-02/Fuqua%20-%20Blue%20Logo%20No%20Border.png\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-07T21:50:25.946233+00:00",
@@ -4074,16 +3642,13 @@
       "id": "9f9f9ae2-c5cb-4e42-bb30-a3303c3bfb7e",
       "short_id": "9f9f9ae2",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QH7dwU2Kc-JsjluzaFPRPjWDOMhRgrLJL6DVLd7f8piSpBSHr69Qy_cX0wkg5FkF54&amp;_nc_ohc=0a3cFKm255UQ7kNvwFQfK7J&amp;_nc_gid=bjGoKsMqe4BJ__FR-_avOg&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfH44nexBUTwOUnNPfs-Bp6hvmSAXM1bxf1ysFuC75xMlQ&amp;oe=67FA150D&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QH7dwU2Kc-JsjluzaFPRPjWDOMhRgrLJL6DVLd7f8piSpBSHr69Qy_cX0wkg5FkF54&amp;_nc_ohc=0a3cFKm255UQ7kNvwFQfK7J&amp;_nc_gid=bjGoKsMqe4BJ__FR-_avOg&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfEk80eVCrIW5ImOOjRc6LfROc15r0AMqx0QXC3PHf0Mgw&amp;oe=67FA150D&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QH7dwU2Kc-JsjluzaFPRPjWDOMhRgrLJL6DVLd7f8piSpBSHr69Qy_cX0wkg5FkF54&amp;_nc_ohc=0a3cFKm255UQ7kNvwFQfK7J&amp;_nc_gid=bjGoKsMqe4BJ__FR-_avOg&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfFaWI8-DKAbFVTkDa5SNZKelJMDG9KazrrPFPZs2x1ifw&amp;oe=67FA150D&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QH7dwU2Kc-JsjluzaFPRPjWDOMhRgrLJL6DVLd7f8piSpBSHr69Qy_cX0wkg5FkF54&amp;_nc_ohc=0a3cFKm255UQ7kNvwFQfK7J&amp;_nc_gid=bjGoKsMqe4BJ__FR-_avOg&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfH44nexBUTwOUnNPfs-Bp6hvmSAXM1bxf1ysFuC75xMlQ&amp;oe=67FA150D&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-07T21:50:25.957898+00:00",
@@ -4098,16 +3663,13 @@
       "id": "8dfa80df-3654-4abd-914c-aecbce37d966",
       "short_id": "8dfa80df",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/489633532_18399990958097476_1477826150797906579_n.jpg?stp=c240.0.960.960a_dst-jpg_e15_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDk2MC5zZHIuZjc1NzYxLmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QH7dwU2Kc-JsjluzaFPRPjWDOMhRgrLJL6DVLd7f8piSpBSHr69Qy_cX0wkg5FkF54&amp;_nc_ohc=nYoWuF-mkuAQ7kNvwGo_ZZ1&amp;_nc_gid=bjGoKsMqe4BJ__FR-_avOg&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfE8muWzygfnJ9P8jJ46gIKW_2PIfimx8ayUHT-d2tJ4sw&amp;oe=67FA214A&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/489633532_18399990958097476_1477826150797906579_n.jpg?stp=c240.0.960.960a_dst-jpg_e15_s150x150_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDk2MC5zZHIuZjc1NzYxLmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QH7dwU2Kc-JsjluzaFPRPjWDOMhRgrLJL6DVLd7f8piSpBSHr69Qy_cX0wkg5FkF54&amp;_nc_ohc=nYoWuF-mkuAQ7kNvwGo_ZZ1&amp;_nc_gid=bjGoKsMqe4BJ__FR-_avOg&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfGWiI0xoHONRPafK45BM1oaeKnMzSgvSYShJMpIpnH_Xw&amp;oe=67FA214A&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/489633532_18399990958097476_1477826150797906579_n.jpg?stp=c240.0.960.960a_dst-jpg_e15_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDk2MC5zZHIuZjc1NzYxLmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QH7dwU2Kc-JsjluzaFPRPjWDOMhRgrLJL6DVLd7f8piSpBSHr69Qy_cX0wkg5FkF54&amp;_nc_ohc=nYoWuF-mkuAQ7kNvwGo_ZZ1&amp;_nc_gid=bjGoKsMqe4BJ__FR-_avOg&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfE8muWzygfnJ9P8jJ46gIKW_2PIfimx8ayUHT-d2tJ4sw&amp;oe=67FA214A&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.139+00:00",
@@ -4121,16 +3683,13 @@
       "id": "48343448-fd55-4572-abf6-7751a061e193",
       "short_id": "48343448",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "frame-title"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/contact",
       "content": "<iframe width=\"100%\" height=\"250px\" title=\"\" frameborder=\"0\" style=\"border:0\" src=\"https://www.google.com/maps/embed?origin=mfe&amp;pb=!1m4!2m1!1s100+Fuqua+Drive%3Cbr%3EDurham%2C+NC+27706-0120!5e0!6i14!5m1!1sen\"></iframe>",
-      "tags": [
-        {
-          "id": "frame-title",
-          "content": "frame-title"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-24T13:30:42.685158+00:00",
@@ -4170,16 +3729,13 @@
       "id": "757df4d1-2cdf-4855-a9f5-52ff8e468b7a",
       "short_id": "757df4d1",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/living-our-values",
       "content": "<a href=\"https://www.edelman.com/sites/g/files/aatuss191/files/2025-01/2025%20Edelman%20Trust%20Barometer%20Global%20Report_01.23.25.pdf\">crisis of trust</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.662+00:00",
@@ -4191,16 +3747,13 @@
       "id": "11610167-2532-4dca-85ab-44274c0b988b",
       "short_id": "11610167",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/about/plan-your-visit",
       "content": "<a href=\"https://www.rdu.com/\">Raleigh-Durham International Airport</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.241+00:00",
@@ -4212,16 +3765,13 @@
       "id": "a6679bf9-7a13-437c-891f-f95c6a0001cd",
       "short_id": "a6679bf9",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/admissions",
       "content": "<a href=\"/campus-visits-and-interviews\" data-entity-type=\"node\" data-entity-uuid=\"89c741eb-c28d-4c97-86c2-c55a965a6d5c\" data-entity-substitution=\"canonical\" title=\"in-person &amp; virtual Campus Visits + Open Houses\">on-campus and virtual campus visit programming</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-24T13:30:43.951728+00:00",
@@ -4233,16 +3783,13 @@
       "id": "a58cea2f-23d5-4a08-96d6-664f5ab048a7",
       "short_id": "a58cea2f",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/events",
       "content": "<a href=\"https://events.fuqua.duke.edu/lgbtq/index.html\">The Duke MBA PRIDE Weekend</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.644+00:00",
@@ -4256,16 +3803,13 @@
       "id": "310a2efb-8207-49f9-a104-b9fdaaaff2dc",
       "short_id": "310a2efb",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/events",
       "content": "<a href=\"/node/398\">&nbsp;</a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:48.176+00:00",
@@ -4336,16 +3880,13 @@
       "id": "bbe8efc2-42c0-4da2-9e31-f1641126570c",
       "short_id": "bbe8efc2",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/Screenshot%202025-08-28%20104719_0.png\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-24T13:31:05.401571+00:00",
@@ -4360,16 +3901,13 @@
       "id": "4e29703a-917e-4a9b-b0cb-9d832112c774",
       "short_id": "4e29703a",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/Fuqua%20-%20Interim%20Dean.jpg\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-24T13:31:05.40732+00:00",
@@ -4384,16 +3922,13 @@
       "id": "403e4919-b2a0-424d-ade7-373f0f5084e3",
       "short_id": "403e4919",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/DC%20Pitch.png\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-24T13:31:05.423798+00:00",
@@ -4408,16 +3943,13 @@
       "id": "a740fe87-7829-4e10-9670-a3c0ce1e2ef0",
       "short_id": "a740fe87",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_oc=Q6cZ2QGvMxruAlmGrBGikY-SGM2pRppmMn3_Nzo-a17sio_NTyPYs44YW1X57aXstsb7xhw&amp;_nc_ohc=u--paH7h-IYQ7kNvwFdQLLh&amp;_nc_gid=XdjYWgac9kGDm2-1ERtfSA&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfbNCgXYdpd5umUSQeGdOYF2M1pAhlD31LlqdRCoMgobHg&amp;oe=68D9CA2D&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UuYzIifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_oc=Q6cZ2QGvMxruAlmGrBGikY-SGM2pRppmMn3_Nzo-a17sio_NTyPYs44YW1X57aXstsb7xhw&amp;_nc_ohc=u--paH7h-IYQ7kNvwFdQLLh&amp;_nc_gid=XdjYWgac9kGDm2-1ERtfSA&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfafW3f25yjIZAc7dcQo5fNr7lFD4XEPbrgp2GQqZGvsdA&amp;oe=68D9CA2D&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UuYzIifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_oc=Q6cZ2QGvMxruAlmGrBGikY-SGM2pRppmMn3_Nzo-a17sio_NTyPYs44YW1X57aXstsb7xhw&amp;_nc_ohc=u--paH7h-IYQ7kNvwFdQLLh&amp;_nc_gid=XdjYWgac9kGDm2-1ERtfSA&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfYbhlXVZ43fQfuDfEzRzfMbQTs_1wb5uh65oEkD4gcOMw&amp;oe=68D9CA2D&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UuYzIifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_oc=Q6cZ2QGvMxruAlmGrBGikY-SGM2pRppmMn3_Nzo-a17sio_NTyPYs44YW1X57aXstsb7xhw&amp;_nc_ohc=u--paH7h-IYQ7kNvwFdQLLh&amp;_nc_gid=XdjYWgac9kGDm2-1ERtfSA&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfbNCgXYdpd5umUSQeGdOYF2M1pAhlD31LlqdRCoMgobHg&amp;oe=68D9CA2D&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-24T13:31:05.435683+00:00",
@@ -4432,16 +3964,13 @@
       "id": "fdb68e07-998a-4958-886b-5d20592ad534",
       "short_id": "fdb68e07",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/545487161_18421888771097476_5859770809762612094_n.jpg?stp=c0.225.1350.1350a_dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzUweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QGvMxruAlmGrBGikY-SGM2pRppmMn3_Nzo-a17sio_NTyPYs44YW1X57aXstsb7xhw&amp;_nc_ohc=rLTud2JN37cQ7kNvwERBfZO&amp;_nc_gid=XdjYWgac9kGDm2-1ERtfSA&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_Afbj5VyKtncexbNMmfQWl9u1fg1j5DrYj9qTXxzTlxrfdw&amp;oe=68D9BBA6&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/545487161_18421888771097476_5859770809762612094_n.jpg?stp=c0.225.1350.1350a_dst-jpg_e35_s150x150_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzUweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QGvMxruAlmGrBGikY-SGM2pRppmMn3_Nzo-a17sio_NTyPYs44YW1X57aXstsb7xhw&amp;_nc_ohc=rLTud2JN37cQ7kNvwERBfZO&amp;_nc_gid=XdjYWgac9kGDm2-1ERtfSA&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfbbhcBn9bAVEorJxaO3nihn0QscEEI9nc8diLfpl2iE3w&amp;oe=68D9BBA6&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/545487161_18421888771097476_5859770809762612094_n.jpg?stp=c0.225.1350.1350a_dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzUweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QGvMxruAlmGrBGikY-SGM2pRppmMn3_Nzo-a17sio_NTyPYs44YW1X57aXstsb7xhw&amp;_nc_ohc=rLTud2JN37cQ7kNvwERBfZO&amp;_nc_gid=XdjYWgac9kGDm2-1ERtfSA&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_Afbj5VyKtncexbNMmfQWl9u1fg1j5DrYj9qTXxzTlxrfdw&amp;oe=68D9BBA6&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-24T13:31:05.490173+00:00",
@@ -4455,16 +3984,13 @@
       "id": "180258b6-4b23-4fe0-99a6-47c60267ae9d",
       "short_id": "180258b6",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/blue-devil-night-bike-rack-brewing\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/Screenshot%202025-08-28%20104719_0.png\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-24T13:31:05.495978+00:00",
@@ -4478,16 +4004,13 @@
       "id": "fb4ac918-90ae-4655-accd-3a2df6894401",
       "short_id": "fb4ac918",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/dallas-fort-worth-region-reception-interim-dean-mary-frances-luce-phd-94\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/Fuqua%20-%20Interim%20Dean.jpg\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-24T13:31:05.503129+00:00",
@@ -4501,16 +4024,13 @@
       "id": "26aa0ffc-0a25-4a4d-b5e2-7aa08e449a4b",
       "short_id": "26aa0ffc",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/perfecting-pitch-techniques-sell-your-ideas-and-yourself\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/DC%20Pitch.png\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.946+00:00",
@@ -4522,16 +4042,13 @@
       "id": "78466e75-3d44-4b75-8ccf-d40444003506",
       "short_id": "78466e75",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"https://www.fuqua.duke.edu/alumni/volunteer/alumni-board/minority-advisory-board\" target=\"_blank\" rel=\"noreferrer\">Meet our Minority Alumni Advisory Board.</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:45.193+00:00",
@@ -4541,16 +4058,13 @@
       "id": "87bb656c-b3b0-474b-a157-4affee725d5f",
       "short_id": "87bb656c",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/diversity-inclusion",
       "content": "<a href=\"https://www.fuqua.duke.edu/student-network/partners-community#resources_for_lgbtq\"><strong>Learn More</strong></a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:45.014+00:00",
@@ -4560,16 +4074,13 @@
       "id": "a0a3c798-7e1a-41ab-be21-c3c2e5e0f48d",
       "short_id": "a0a3c798",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/diversity-inclusion",
       "content": "<a href=\"https://www.fuqua.duke.edu/student-network/partners-community#resources_for_veterans\"><strong>Learn More</strong></a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.685+00:00",
@@ -4579,16 +4090,13 @@
       "id": "c53987f7-cd54-40be-91aa-06ca5e93d958",
       "short_id": "c53987f7",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "list"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/diversity-inclusion",
       "content": "<ul>",
-      "tags": [
-        {
-          "id": "list",
-          "content": "list"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.578+00:00",
@@ -4600,16 +4108,13 @@
       "id": "f0589469-29a4-401b-9367-4c104a6844eb",
       "short_id": "f0589469",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/diversity-inclusion",
       "content": "<a href=\"https://www.fuqua.duke.edu/node/3273\">Minority Alumni Advisory Board</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-24T13:45:50.88237+00:00",
@@ -4624,16 +4129,13 @@
       "id": "4ab5d3c7-e6d9-4ae7-9ddd-d2b7d19cab52",
       "short_id": "4ab5d3c7",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/491493147_18402251536097476_971986264644791171_n.jpg?stp=c240.0.959.959a_dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDM5eDk1OS5zZHIuZjc1NzYxLmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QGRUIcbQau5X9JlLXsmbsn1PX2Y6nHRXW71VN9gvTru3Dln77q2AnVxjgzszMIYizs&amp;_nc_ohc=tJ-AIZtD8nQQ7kNvwH_-3gv&amp;_nc_gid=9CkFIXo-mCPMtXU9DIfLLQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfEkFva33o-wE9grjubdGcBVAZ5zP1UcOBIAs6P8L5Sv9g&amp;oe=681024FE&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/491493147_18402251536097476_971986264644791171_n.jpg?stp=c240.0.959.959a_dst-jpg_e35_s150x150_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDM5eDk1OS5zZHIuZjc1NzYxLmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QGRUIcbQau5X9JlLXsmbsn1PX2Y6nHRXW71VN9gvTru3Dln77q2AnVxjgzszMIYizs&amp;_nc_ohc=tJ-AIZtD8nQQ7kNvwH_-3gv&amp;_nc_gid=9CkFIXo-mCPMtXU9DIfLLQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfGWEZJqbgT324KStmEXLFGt11ZhqaFAO5fJvhNQP3rfag&amp;oe=681024FE&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/491493147_18402251536097476_971986264644791171_n.jpg?stp=c240.0.959.959a_dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDM5eDk1OS5zZHIuZjc1NzYxLmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QGRUIcbQau5X9JlLXsmbsn1PX2Y6nHRXW71VN9gvTru3Dln77q2AnVxjgzszMIYizs&amp;_nc_ohc=tJ-AIZtD8nQQ7kNvwH_-3gv&amp;_nc_gid=9CkFIXo-mCPMtXU9DIfLLQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfEkFva33o-wE9grjubdGcBVAZ5zP1UcOBIAs6P8L5Sv9g&amp;oe=681024FE&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-24T13:30:43.46492+00:00",
@@ -4645,16 +4147,13 @@
       "id": "29b84c93-cdb6-4ca9-9159-9e50a206e1c7",
       "short_id": "29b84c93",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"https://www.fuqua.duke.edu/student-network/partners-community#minorities\">underrepresented student groups</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:44.731+00:00",
@@ -4666,16 +4165,13 @@
       "id": "32557f63-0760-490d-a91a-0a63a104d8e0",
       "short_id": "32557f63",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/student-network/partners-community",
       "content": "<a href=\"http://fuquaconnect.duke.edu/organization/fuqua-partners\" target=\"_blank\" rel=\"noreferrer\">Learn more about Fuqua Partners</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-24T13:31:51.766855+00:00",
@@ -4760,16 +4256,13 @@
       "id": "074759cb-f889-4c36-8e6d-36d1eb508d2c",
       "short_id": "074759cb",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://alumni.duke.edu/sites/default/files/Houston%20.png\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-10-14T15:30:45.715829+00:00",
@@ -4784,16 +4277,13 @@
       "id": "5d3c8622-6ef3-4a91-9ec6-5fe655bf4233",
       "short_id": "5d3c8622",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QEN3d1Cr6Xrn0nV_ykO3McglqbeffzezvC8ddooeek3Kk1GaJScIkZLtsSASf8tA7I&amp;_nc_ohc=5BF9wQidlQ0Q7kNvwE4W7c9&amp;_nc_gid=5tAJSWowqaLcDlMquD6dqQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfervrsQ9I8HiocoBiQqUqImepdXDol9TGsgMaX5JsYfmQ&amp;oe=68F459CD&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UuYzIifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QEN3d1Cr6Xrn0nV_ykO3McglqbeffzezvC8ddooeek3Kk1GaJScIkZLtsSASf8tA7I&amp;_nc_ohc=5BF9wQidlQ0Q7kNvwE4W7c9&amp;_nc_gid=5tAJSWowqaLcDlMquD6dqQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_Afc3bE4WSPl0YSDUaVTQU4T2ZUW3HhyJC8WOirpGU5M0vQ&amp;oe=68F459CD&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UuYzIifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QEN3d1Cr6Xrn0nV_ykO3McglqbeffzezvC8ddooeek3Kk1GaJScIkZLtsSASf8tA7I&amp;_nc_ohc=5BF9wQidlQ0Q7kNvwE4W7c9&amp;_nc_gid=5tAJSWowqaLcDlMquD6dqQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_Aff3FPO_HHy9ORhDt0kmq66sOyN9i7pELoNxl1C_7GO-Xg&amp;oe=68F459CD&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UuYzIifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QEN3d1Cr6Xrn0nV_ykO3McglqbeffzezvC8ddooeek3Kk1GaJScIkZLtsSASf8tA7I&amp;_nc_ohc=5BF9wQidlQ0Q7kNvwE4W7c9&amp;_nc_gid=5tAJSWowqaLcDlMquD6dqQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfervrsQ9I8HiocoBiQqUqImepdXDol9TGsgMaX5JsYfmQ&amp;oe=68F459CD&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-10-14T15:30:45.877555+00:00",
@@ -4808,16 +4298,13 @@
       "id": "9444f39d-e2b7-44da-bc5e-8acba890ba81",
       "short_id": "9444f39d",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_oc=Q6cZ2QEN3d1Cr6Xrn0nV_ykO3McglqbeffzezvC8ddooeek3Kk1GaJScIkZLtsSASf8tA7I&amp;_nc_ohc=sPxjjL_SqV8Q7kNvwHle_42&amp;_nc_gid=5tAJSWowqaLcDlMquD6dqQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfdJd8BRTWhpN-fXma4MJeQEzGsqncXC1hpSL3M6zOdqWg&amp;oe=68F4282D&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UuYzIifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_oc=Q6cZ2QEN3d1Cr6Xrn0nV_ykO3McglqbeffzezvC8ddooeek3Kk1GaJScIkZLtsSASf8tA7I&amp;_nc_ohc=sPxjjL_SqV8Q7kNvwHle_42&amp;_nc_gid=5tAJSWowqaLcDlMquD6dqQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfeZvbFEeqlA8OPLzVP9A_OLdS8PBmRJih2sEX79b3zznA&amp;oe=68F4282D&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UuYzIifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_oc=Q6cZ2QEN3d1Cr6Xrn0nV_ykO3McglqbeffzezvC8ddooeek3Kk1GaJScIkZLtsSASf8tA7I&amp;_nc_ohc=sPxjjL_SqV8Q7kNvwHle_42&amp;_nc_gid=5tAJSWowqaLcDlMquD6dqQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfcEisOVCWhTx3ZRSR5dybzppq014tO6Rd5FjShlGiufEA&amp;oe=68F4282D&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/466755444_1552907055593966_4913391687776407643_n.jpg?stp=dst-jpg_e35_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UuYzIifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=102&amp;_nc_oc=Q6cZ2QEN3d1Cr6Xrn0nV_ykO3McglqbeffzezvC8ddooeek3Kk1GaJScIkZLtsSASf8tA7I&amp;_nc_ohc=sPxjjL_SqV8Q7kNvwHle_42&amp;_nc_gid=5tAJSWowqaLcDlMquD6dqQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfdJd8BRTWhpN-fXma4MJeQEzGsqncXC1hpSL3M6zOdqWg&amp;oe=68F4282D&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-10-14T15:30:46.134225+00:00",
@@ -4832,16 +4319,13 @@
       "id": "c0d190b0-5638-4938-b625-f27c29fdbb35",
       "short_id": "c0d190b0",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/552181297_18423945292097476_3914676781406164373_n.jpg?stp=c0.120.720.720a_dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4OTYwLnNkci5mODI3ODcuZGVmYXVsdF9pbWFnZS5jMiJ9&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QEN3d1Cr6Xrn0nV_ykO3McglqbeffzezvC8ddooeek3Kk1GaJScIkZLtsSASf8tA7I&amp;_nc_ohc=HDMPV6c4MnIQ7kNvwH-Uamy&amp;_nc_gid=5tAJSWowqaLcDlMquD6dqQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfdjGhWU4lQaaVl0xWZYoPuXrpHYv_nQxVkJbu5cFbnlUA&amp;oe=68F43962&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/552181297_18423945292097476_3914676781406164373_n.jpg?stp=c0.120.720.720a_dst-jpg_e35_s150x150_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4OTYwLnNkci5mODI3ODcuZGVmYXVsdF9pbWFnZS5jMiJ9&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QEN3d1Cr6Xrn0nV_ykO3McglqbeffzezvC8ddooeek3Kk1GaJScIkZLtsSASf8tA7I&amp;_nc_ohc=HDMPV6c4MnIQ7kNvwH-Uamy&amp;_nc_gid=5tAJSWowqaLcDlMquD6dqQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_Aff7erIlXUdZT7MHjx8V_pFb20ESmikR91XWMe-TTaaTkg&amp;oe=68F43962&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/552181297_18423945292097476_3914676781406164373_n.jpg?stp=c0.120.720.720a_dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4OTYwLnNkci5mODI3ODcuZGVmYXVsdF9pbWFnZS5jMiJ9&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QEN3d1Cr6Xrn0nV_ykO3McglqbeffzezvC8ddooeek3Kk1GaJScIkZLtsSASf8tA7I&amp;_nc_ohc=HDMPV6c4MnIQ7kNvwH-Uamy&amp;_nc_gid=5tAJSWowqaLcDlMquD6dqQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfdjGhWU4lQaaVl0xWZYoPuXrpHYv_nQxVkJbu5cFbnlUA&amp;oe=68F43962&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-10-14T15:30:46.868699+00:00",
@@ -4855,16 +4339,13 @@
       "id": "a8a27f59-e585-4116-9a1f-01b4eda6dcdb",
       "short_id": "a8a27f59",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/ai-across-industries\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/2025-02/Fuqua%20-%20Blue%20Logo%20No%20Border.png\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-10-14T15:30:46.921615+00:00",
@@ -4878,16 +4359,13 @@
       "id": "44637a75-d71a-4ee9-9a20-7290c6f8ac16",
       "short_id": "44637a75",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-name"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<a href=\"https://alumni.duke.edu/events/energy-panel-and-networking-night\" target=\"_blank\"><img src=\"https://alumni.duke.edu/sites/default/files/Houston%20.png\"></a>",
-      "tags": [
-        {
-          "id": "link-name",
-          "content": "link-name"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-04-24T13:45:50.544021+00:00",
@@ -4901,16 +4379,13 @@
       "id": "58c7e8f5-5bb1-4fe5-b2fb-909d366b6292",
       "short_id": "58c7e8f5",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "frame-title"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<iframe class=\"instagram-media instagram-media-rendered\" id=\"instagram-embed-0\" src=\"https://www.instagram.com/p/DCWrpcCpdma/embed/captioned/?cr=1&amp;v=14&amp;wp=540&amp;rd=https%3A%2F%2Fwww.fuqua.duke.edu&amp;rp=%2Falumni#%7B%22ci%22%3A0%2C%22os%22%3A1502.099998474121%2C%22ls%22%3A286.0999984741211%2C%22le%22%3A632.0999984741211%7D\" allowtransparency=\"true\" allowfullscreen=\"true\" frameborder=\"0\" height=\"1026\" data-instgrm-payload-id=\"instagram-media-payload-0\" scrolling=\"no\" style=\"background: white; max-width: 540px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 326px; padding: 0px;\">",
-      "tags": [
-        {
-          "id": "frame-title",
-          "content": "frame-title"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-24T13:31:05.369252+00:00",
@@ -4939,16 +4414,13 @@
       "id": "f1761f0a-f81d-46eb-af8f-eefab49305d9",
       "short_id": "f1761f0a",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img class=\"x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3\" crossorigin=\"anonymous\" src=\"https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QGvMxruAlmGrBGikY-SGM2pRppmMn3_Nzo-a17sio_NTyPYs44YW1X57aXstsb7xhw&amp;_nc_ohc=BmuY8bl-byEQ7kNvwEHrzYF&amp;_nc_gid=XdjYWgac9kGDm2-1ERtfSA&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfbYoCO-_BdoqY6vE_zUr4uxE93-B1pM_qPS1zw_J_8ygg&amp;oe=68D9C38D&amp;_nc_sid=10d13b\" sizes=\"538px\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UuYzIifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QGvMxruAlmGrBGikY-SGM2pRppmMn3_Nzo-a17sio_NTyPYs44YW1X57aXstsb7xhw&amp;_nc_ohc=BmuY8bl-byEQ7kNvwEHrzYF&amp;_nc_gid=XdjYWgac9kGDm2-1ERtfSA&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfZEayyv7KNsb09T_IChJQyqVhvgTl-HeNq0YJO42PeV_A&amp;oe=68D9C38D&amp;_nc_sid=10d13b 640w,https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UuYzIifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QGvMxruAlmGrBGikY-SGM2pRppmMn3_Nzo-a17sio_NTyPYs44YW1X57aXstsb7xhw&amp;_nc_ohc=BmuY8bl-byEQ7kNvwEHrzYF&amp;_nc_gid=XdjYWgac9kGDm2-1ERtfSA&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfbPVREBihIIpBkgAvVkbRdSi5bV8xQihA0VYRi7qV82bg&amp;oe=68D9C38D&amp;_nc_sid=10d13b 750w,https://scontent.cdninstagram.com/v/t51.2885-15/466454579_545044644981202_1330281223031720647_n.jpg?stp=dst-jpg_e35_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UuYzIifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=110&amp;_nc_oc=Q6cZ2QGvMxruAlmGrBGikY-SGM2pRppmMn3_Nzo-a17sio_NTyPYs44YW1X57aXstsb7xhw&amp;_nc_ohc=BmuY8bl-byEQ7kNvwEHrzYF&amp;_nc_gid=XdjYWgac9kGDm2-1ERtfSA&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfbYoCO-_BdoqY6vE_zUr4uxE93-B1pM_qPS1zw_J_8ygg&amp;oe=68D9C38D&amp;_nc_sid=10d13b 1080w\" style=\"object-fit: cover;\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-09-24T13:31:05.429813+00:00",
@@ -4963,16 +4435,13 @@
       "id": "538593f8-ed8b-4e54-ab47-f5e49e306953",
       "short_id": "538593f8",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t39.30808-6/545660694_1202516401907284_4850814391686165990_n.jpg?stp=c0.145.1161.1161a_dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTYxeDE0NTEuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlLmMyIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QGvMxruAlmGrBGikY-SGM2pRppmMn3_Nzo-a17sio_NTyPYs44YW1X57aXstsb7xhw&amp;_nc_ohc=uWgKnagxDeoQ7kNvwGBkevc&amp;_nc_gid=XdjYWgac9kGDm2-1ERtfSA&amp;edm=APs17CUAAAAA&amp;ccb=7-5&amp;oh=00_AfYm38nxQniuc_L9q0eZeQdPTiG291PgdIPeR2-PDJMGJw&amp;oe=68D9BD73&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t39.30808-6/545660694_1202516401907284_4850814391686165990_n.jpg?stp=c0.145.1161.1161a_dst-jpg_e35_s150x150_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTYxeDE0NTEuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlLmMyIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QGvMxruAlmGrBGikY-SGM2pRppmMn3_Nzo-a17sio_NTyPYs44YW1X57aXstsb7xhw&amp;_nc_ohc=uWgKnagxDeoQ7kNvwGBkevc&amp;_nc_gid=XdjYWgac9kGDm2-1ERtfSA&amp;edm=APs17CUAAAAA&amp;ccb=7-5&amp;oh=00_AfYLIXjGQbKsPVR7ckDaJWPjwDgt3BIMv_3TYwlavmFQdg&amp;oe=68D9BD73&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t39.30808-6/545660694_1202516401907284_4850814391686165990_n.jpg?stp=c0.145.1161.1161a_dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTYxeDE0NTEuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlLmMyIn0&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QGvMxruAlmGrBGikY-SGM2pRppmMn3_Nzo-a17sio_NTyPYs44YW1X57aXstsb7xhw&amp;_nc_ohc=uWgKnagxDeoQ7kNvwGBkevc&amp;_nc_gid=XdjYWgac9kGDm2-1ERtfSA&amp;edm=APs17CUAAAAA&amp;ccb=7-5&amp;oh=00_AfYm38nxQniuc_L9q0eZeQdPTiG291PgdIPeR2-PDJMGJw&amp;oe=68D9BD73&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2024-10-07T15:16:43.8+00:00",
@@ -4984,16 +4453,13 @@
       "id": "3aa39a7a-37bf-4e93-9617-1cf650f12b81",
       "short_id": "3aa39a7a",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "link-in-text-block"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/events",
       "content": "<a href=\"https://sites.duke.edu/fuquaawib/duke-mba-association-of-women-in-business/?_ga=2.117577097.1219536447.1595856439-1172187033.1547054350\">Association of Women in Business</a>",
-      "tags": [
-        {
-          "id": "link-in-text-block",
-          "content": "link-in-text-block"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-10-14T15:30:44.236312+00:00",
@@ -5021,16 +4487,13 @@
       "id": "b197b647-525e-4805-a59b-dc4cfa72d3fc",
       "short_id": "b197b647",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "frame-title"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<iframe class=\"instagram-media instagram-media-rendered\" id=\"instagram-embed-0\" src=\"https://www.instagram.com/p/DCWrpcCpdma/embed/captioned/?cr=1&amp;v=14&amp;wp=540&amp;rd=https%3A%2F%2Fwww.fuqua.duke.edu&amp;rp=%2Falumni#%7B%22ci%22%3A0%2C%22os%22%3A1742.7999992370605%2C%22ls%22%3A900.6000003814697%2C%22le%22%3A1459.1000003814697%7D\" allowtransparency=\"true\" allowfullscreen=\"true\" frameborder=\"0\" height=\"1050\" data-instgrm-payload-id=\"instagram-media-payload-0\" scrolling=\"no\" style=\"background: white; max-width: 540px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 326px; padding: 0px;\">",
-      "tags": [
-        {
-          "id": "frame-title",
-          "content": "frame-title"
-        }
-      ]
+      "tags": []
     },
     {
       "created_at": "2025-10-14T15:30:46.002661+00:00",
@@ -5045,16 +4508,13 @@
       "id": "21b37835-fd14-4850-ae1c-3d0891e44d5a",
       "short_id": "21b37835",
       "url_id": "",
-      "categories": [],
+      "categories": [
+        "image-alt"
+      ],
       "type": "issue",
       "url": "https://www.fuqua.duke.edu/alumni",
       "content": "<img src=\"https://scontent.cdninstagram.com/v/t51.2885-15/563897640_18427973134097476_6916731761163215936_n.jpg?stp=c240.0.960.960a_dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDk2MC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QEN3d1Cr6Xrn0nV_ykO3McglqbeffzezvC8ddooeek3Kk1GaJScIkZLtsSASf8tA7I&amp;_nc_ohc=N0nSDuDTySoQ7kNvwFhw36f&amp;_nc_gid=5tAJSWowqaLcDlMquD6dqQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfeqUDjYHhKzqx_UbJbht0Nb0lRCygqEI9ToKan3Qk30lA&amp;oe=68F4242F&amp;_nc_sid=10d13b\" srcset=\"https://scontent.cdninstagram.com/v/t51.2885-15/563897640_18427973134097476_6916731761163215936_n.jpg?stp=c240.0.960.960a_dst-jpg_e35_s150x150_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDk2MC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QEN3d1Cr6Xrn0nV_ykO3McglqbeffzezvC8ddooeek3Kk1GaJScIkZLtsSASf8tA7I&amp;_nc_ohc=N0nSDuDTySoQ7kNvwFhw36f&amp;_nc_gid=5tAJSWowqaLcDlMquD6dqQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfetpNca3nchcBz9_HBt6e7fc6thS6NbLBoR41osjVzCew&amp;oe=68F4242F&amp;_nc_sid=10d13b, https://scontent.cdninstagram.com/v/t51.2885-15/563897640_18427973134097476_6916731761163215936_n.jpg?stp=c240.0.960.960a_dst-jpg_e35_s240x240_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDk2MC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_oc=Q6cZ2QEN3d1Cr6Xrn0nV_ykO3McglqbeffzezvC8ddooeek3Kk1GaJScIkZLtsSASf8tA7I&amp;_nc_ohc=N0nSDuDTySoQ7kNvwFhw36f&amp;_nc_gid=5tAJSWowqaLcDlMquD6dqQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AfeqUDjYHhKzqx_UbJbht0Nb0lRCygqEI9ToKan3Qk30lA&amp;oe=68F4242F&amp;_nc_sid=10d13b 2x\">",
-      "tags": [
-        {
-          "id": "image-alt",
-          "content": "image-alt"
-        }
-      ]
+      "tags": []
     }
   ]
 }
