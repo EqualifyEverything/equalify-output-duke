@@ -2,8 +2,8 @@
     "audit_name": "Duke - Admissions",
     "audit_id": "bbdb555b-cf97-43fd-896b-0b2d162c8cf3",
     "pagination": {
-        "totalPages": 30,
-        "pageSize": 10,
+        "totalPages": 3,
+        "pageSize": 100,
         "page": 0,
         "totalCount": 292
     },
@@ -608,6 +608,3723 @@
                 {
                     "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
                     "content": "wcag2aa"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:39.050345+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "7c94f61b-ffb8-4207-8a01-1299198599d4",
+            "short_id": "XJG334",
+            "url_id": "2be69b9d-d74d-474e-86e0-929094b75f97",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/resources\/",
+            "content": "<p>We want everything to be easy and accessible for you during the application process. In doing so, we created this page for you to find information quickly and seamlessly<\/p>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:39.01927+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "317aef3e-5ba2-4d17-8453-0a31b4283678",
+            "short_id": "GOC433",
+            "url_id": "2be69b9d-d74d-474e-86e0-929094b75f97",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/resources\/",
+            "content": "<h3 class=\"h1\">Information at Your Fingertips<\/h3>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:38.98509+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "9c6465f6-2251-4390-bb52-e076ea6decd2",
+            "short_id": "NBX145",
+            "url_id": "2be69b9d-d74d-474e-86e0-929094b75f97",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/resources\/",
+            "content": "<h2 class=\"eyebrow\">Resources + FAQs<\/h2>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:38.955204+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "5ed9375d-e2fd-4644-92bd-a7df889c59da",
+            "short_id": "QHO872",
+            "url_id": "2be69b9d-d74d-474e-86e0-929094b75f97",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/resources\/",
+            "content": "<button aria-expanded=\"false\" aria-controls=\"desktop-drop-nav\" class=\"toggle-menu-desktop d-none d-xl-block\" aria-label=\"utility menu\">\n              Menu\n            <\/button>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:36.342887+00:00",
+            "messages": [
+                "[landmark-unique] Ensure landmarks are unique. Landmarks should have a unique role or role\/label\/title (i.e. accessible name) combination"
+            ],
+            "id": "729f6ca4-d4d0-4a0d-a681-03e032abda64",
+            "short_id": "SXS736",
+            "url_id": "f1dfad60-c74e-42a2-bbd6-182c2d25d1ef",
+            "categories": [
+                "landmark-unique"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit\/",
+            "content": "<footer class=\"site-footer-top container-fluid\">",
+            "tags": [
+                {
+                    "id": "e991142c-cf65-e45a-a371-e838dea4ca6c",
+                    "content": "cat.semantics"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:36.329315+00:00",
+            "messages": [
+                "[landmark-no-duplicate-contentinfo] Ensure the document has at most one contentinfo landmark. Document should not have more than one contentinfo landmark"
+            ],
+            "id": "13a03892-aa72-4282-a1c6-54240d10754b",
+            "short_id": "EPM512",
+            "url_id": "f1dfad60-c74e-42a2-bbd6-182c2d25d1ef",
+            "categories": [
+                "landmark-no-duplicate-contentinfo"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit\/",
+            "content": "<footer class=\"site-footer-top container-fluid\">",
+            "tags": [
+                {
+                    "id": "e991142c-cf65-e45a-a371-e838dea4ca6c",
+                    "content": "cat.semantics"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:36.31673+00:00",
+            "messages": [
+                "[empty-heading] Ensure headings have discernible text. Headings should not be empty"
+            ],
+            "id": "cfc63dc9-0b0a-48df-ada8-7d3b219b3b19",
+            "short_id": "DZH310",
+            "url_id": "f1dfad60-c74e-42a2-bbd6-182c2d25d1ef",
+            "categories": [
+                "empty-heading"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit\/",
+            "content": "<h4 class=\"eyebrow-metric\">  <\/h4>",
+            "tags": [
+                {
+                    "id": "c6410dfe-af53-9cfc-041a-cfbc01c93240",
+                    "content": "cat.name-role-value"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:36.307248+00:00",
+            "messages": [
+                "[empty-alt-tag] Check if an image has a non-empty alt tag. Non-decorative images should have a non-empty alt tag"
+            ],
+            "id": "9b0e8099-82f6-4cc6-9e9b-df29cb3f298b",
+            "short_id": "YNO431",
+            "url_id": "f1dfad60-c74e-42a2-bbd6-182c2d25d1ef",
+            "categories": [
+                "empty-alt-tag"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit\/",
+            "content": "<img src=\"https:\/\/admissions.duke.edu\/wp-content\/uploads\/2022\/03\/037718_allentour008.gif\" alt=\"\">",
+            "tags": [
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:36.297927+00:00",
+            "messages": [
+                "[empty-alt-tag] Check if an image has a non-empty alt tag. Non-decorative images should have a non-empty alt tag"
+            ],
+            "id": "a38f96a8-b740-4fdb-a0cc-94df96b44728",
+            "short_id": "DPH553",
+            "url_id": "f1dfad60-c74e-42a2-bbd6-182c2d25d1ef",
+            "categories": [
+                "empty-alt-tag"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit\/",
+            "content": "<img src=\"https:\/\/admissions.duke.edu\/wp-content\/themes\/duke\/images\/search.svg\" alt=\"\">",
+            "tags": [
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:36.26563+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "88968547-8473-4bba-9ea0-b455124df338",
+            "short_id": "PUS536",
+            "url_id": "f1dfad60-c74e-42a2-bbd6-182c2d25d1ef",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit\/",
+            "content": "<p>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:36.235569+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "ce260134-0da4-4ba5-9e98-14932fe87331",
+            "short_id": "THB790",
+            "url_id": "f1dfad60-c74e-42a2-bbd6-182c2d25d1ef",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit\/",
+            "content": "<h3 class=\"h1\">EXPERIENCE DUKE<\/h3>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:36.200838+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "4de35a09-72b6-4a24-878f-518851a878df",
+            "short_id": "TGC032",
+            "url_id": "f1dfad60-c74e-42a2-bbd6-182c2d25d1ef",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit\/",
+            "content": "<h2 class=\"eyebrow\">Visit<\/h2>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:36.158304+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "f6279064-be55-48aa-82ba-10eee534b665",
+            "short_id": "SBH176",
+            "url_id": "f1dfad60-c74e-42a2-bbd6-182c2d25d1ef",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit\/",
+            "content": "<button aria-expanded=\"false\" aria-controls=\"desktop-drop-nav\" class=\"toggle-menu-desktop d-none d-xl-block\" aria-label=\"utility menu\">\n              Menu\n            <\/button>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:26.998354+00:00",
+            "messages": [
+                "[landmark-unique] Ensure landmarks are unique. Landmarks should have a unique role or role\/label\/title (i.e. accessible name) combination"
+            ],
+            "id": "e2ee773e-b776-40fc-9378-11faed7b2da4",
+            "short_id": "YWC437",
+            "url_id": "8dec4f3b-4afd-4bdd-9d9f-35ed8e1bed2b",
+            "categories": [
+                "landmark-unique"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/apply\/",
+            "content": "<footer class=\"site-footer-top container-fluid\">",
+            "tags": [
+                {
+                    "id": "e991142c-cf65-e45a-a371-e838dea4ca6c",
+                    "content": "cat.semantics"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:26.993693+00:00",
+            "messages": [
+                "[landmark-no-duplicate-contentinfo] Ensure the document has at most one contentinfo landmark. Document should not have more than one contentinfo landmark"
+            ],
+            "id": "5823fe0d-1b6f-436d-9ce7-721827a88806",
+            "short_id": "DFU058",
+            "url_id": "8dec4f3b-4afd-4bdd-9d9f-35ed8e1bed2b",
+            "categories": [
+                "landmark-no-duplicate-contentinfo"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/apply\/",
+            "content": "<footer class=\"site-footer-top container-fluid\">",
+            "tags": [
+                {
+                    "id": "e991142c-cf65-e45a-a371-e838dea4ca6c",
+                    "content": "cat.semantics"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:26.988897+00:00",
+            "messages": [
+                "[empty-heading] Ensure headings have discernible text. Headings should not be empty"
+            ],
+            "id": "3ead362d-6006-4da5-8959-2f6223d52efe",
+            "short_id": "ODK502",
+            "url_id": "8dec4f3b-4afd-4bdd-9d9f-35ed8e1bed2b",
+            "categories": [
+                "empty-heading"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/apply\/",
+            "content": "<h2 class=\"eyebrow\"><\/h2>",
+            "tags": [
+                {
+                    "id": "c6410dfe-af53-9cfc-041a-cfbc01c93240",
+                    "content": "cat.name-role-value"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:26.983644+00:00",
+            "messages": [
+                "[empty-heading] Ensure headings have discernible text. Headings should not be empty"
+            ],
+            "id": "b7e9a307-a598-4dcf-82cd-4d764445c80a",
+            "short_id": "IPB248",
+            "url_id": "8dec4f3b-4afd-4bdd-9d9f-35ed8e1bed2b",
+            "categories": [
+                "empty-heading"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/apply\/",
+            "content": "<h2 class=\"eyebrow\"><\/h2>",
+            "tags": [
+                {
+                    "id": "c6410dfe-af53-9cfc-041a-cfbc01c93240",
+                    "content": "cat.name-role-value"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:26.978282+00:00",
+            "messages": [
+                "[empty-heading] Ensure headings have discernible text. Headings should not be empty"
+            ],
+            "id": "a459ba05-6ed0-41bd-b7c8-acf6dafd1998",
+            "short_id": "OXX262",
+            "url_id": "8dec4f3b-4afd-4bdd-9d9f-35ed8e1bed2b",
+            "categories": [
+                "empty-heading"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/apply\/",
+            "content": "<h2 class=\"eyebrow\"><\/h2>",
+            "tags": [
+                {
+                    "id": "c6410dfe-af53-9cfc-041a-cfbc01c93240",
+                    "content": "cat.name-role-value"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:26.974518+00:00",
+            "messages": [
+                "[empty-alt-tag] Check if an image has a non-empty alt tag. Non-decorative images should have a non-empty alt tag"
+            ],
+            "id": "a9f1a4ef-4b18-4db7-b141-f36a33bac79d",
+            "short_id": "KTV665",
+            "url_id": "8dec4f3b-4afd-4bdd-9d9f-35ed8e1bed2b",
+            "categories": [
+                "empty-alt-tag"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/apply\/",
+            "content": "<img src=\"https:\/\/admissions.duke.edu\/wp-content\/themes\/duke\/images\/search.svg\" alt=\"\">",
+            "tags": [
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:26.962565+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "4e9a788f-945c-46fb-a0fa-083073abe236",
+            "short_id": "WSC760",
+            "url_id": "8dec4f3b-4afd-4bdd-9d9f-35ed8e1bed2b",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/apply\/",
+            "content": "<p>The outstanding individuals who apply for admission to Duke each year continually astound us. We are always excited to welcome a new class into our collaborative community of intellectual explorers.<\/p>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:26.951529+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "dcf3fc4e-2722-4daf-890b-52bc8003c95a",
+            "short_id": "SIK339",
+            "url_id": "8dec4f3b-4afd-4bdd-9d9f-35ed8e1bed2b",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/apply\/",
+            "content": "<h3 class=\"h1\">Join Our Community of Doers<\/h3>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:26.939732+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "1245eb74-83d6-4907-87a1-994db604d931",
+            "short_id": "HOR229",
+            "url_id": "8dec4f3b-4afd-4bdd-9d9f-35ed8e1bed2b",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/apply\/",
+            "content": "<h2 class=\"eyebrow\">Apply<\/h2>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:26.929366+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "3d2ac39e-b7e3-42a6-b4d1-116cb94bfada",
+            "short_id": "UCU253",
+            "url_id": "8dec4f3b-4afd-4bdd-9d9f-35ed8e1bed2b",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/apply\/",
+            "content": "<button aria-expanded=\"false\" aria-controls=\"desktop-drop-nav\" class=\"toggle-menu-desktop d-none d-xl-block\" aria-label=\"utility menu\">\n              Menu\n            <\/button>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:24.392413+00:00",
+            "messages": [
+                "[region] Ensure all page content is contained by landmarks. All page content should be contained by landmarks"
+            ],
+            "id": "613fc5c1-027e-4d1d-a641-d7563ac865bb",
+            "short_id": "ELM212",
+            "url_id": "f237ac11-ac14-4b56-b8b3-1334f594a5f5",
+            "categories": [
+                "region"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit",
+            "content": "<a class=\"policy-link\" href=\"https:\/\/oarc.duke.edu\/privacy\/duke-university-privacy-statement\">Duke Privacy Statement.<\/a>",
+            "tags": [
+                {
+                    "id": "56a24d9c-dcc9-c42e-6b2c-912bc2e740c4",
+                    "content": "cat.keyboard"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:24.387268+00:00",
+            "messages": [
+                "[region] Ensure all page content is contained by landmarks. All page content should be contained by landmarks"
+            ],
+            "id": "9938a691-fdaa-4973-8c21-65d436bd2142",
+            "short_id": "LJW744",
+            "url_id": "f237ac11-ac14-4b56-b8b3-1334f594a5f5",
+            "categories": [
+                "region"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit",
+            "content": "<span class=\"text\">This website uses cookies as well as similar tools and technologies to understand visitors' experiences. By continuing to use this website, you consent to Duke University's usage of cookies and similar technologies, in accordance with the <\/span>",
+            "tags": [
+                {
+                    "id": "56a24d9c-dcc9-c42e-6b2c-912bc2e740c4",
+                    "content": "cat.keyboard"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:24.38085+00:00",
+            "messages": [
+                "[landmark-unique] Ensure landmarks are unique. Landmarks should have a unique role or role\/label\/title (i.e. accessible name) combination"
+            ],
+            "id": "d8602e11-592d-40f1-9333-7430a141e2b7",
+            "short_id": "FOI300",
+            "url_id": "f237ac11-ac14-4b56-b8b3-1334f594a5f5",
+            "categories": [
+                "landmark-unique"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit",
+            "content": "<footer class=\"site-footer-top container-fluid\">",
+            "tags": [
+                {
+                    "id": "e991142c-cf65-e45a-a371-e838dea4ca6c",
+                    "content": "cat.semantics"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:24.375911+00:00",
+            "messages": [
+                "[landmark-no-duplicate-contentinfo] Ensure the document has at most one contentinfo landmark. Document should not have more than one contentinfo landmark"
+            ],
+            "id": "3adbc4c3-d1d6-4d38-9779-332e76af0575",
+            "short_id": "JEE666",
+            "url_id": "f237ac11-ac14-4b56-b8b3-1334f594a5f5",
+            "categories": [
+                "landmark-no-duplicate-contentinfo"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit",
+            "content": "<footer class=\"site-footer-top container-fluid\">",
+            "tags": [
+                {
+                    "id": "e991142c-cf65-e45a-a371-e838dea4ca6c",
+                    "content": "cat.semantics"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:24.370919+00:00",
+            "messages": [
+                "[empty-heading] Ensure headings have discernible text. Headings should not be empty"
+            ],
+            "id": "ea6aff4b-67a3-4560-b2d3-2cc6a0ef5643",
+            "short_id": "QAZ655",
+            "url_id": "f237ac11-ac14-4b56-b8b3-1334f594a5f5",
+            "categories": [
+                "empty-heading"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit",
+            "content": "<h4 class=\"eyebrow-metric\">  <\/h4>",
+            "tags": [
+                {
+                    "id": "c6410dfe-af53-9cfc-041a-cfbc01c93240",
+                    "content": "cat.name-role-value"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:24.36621+00:00",
+            "messages": [
+                "[empty-alt-tag] Check if an image has a non-empty alt tag. Non-decorative images should have a non-empty alt tag"
+            ],
+            "id": "25741789-6efe-4085-902f-ab93853e5dcf",
+            "short_id": "NNS970",
+            "url_id": "f237ac11-ac14-4b56-b8b3-1334f594a5f5",
+            "categories": [
+                "empty-alt-tag"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit",
+            "content": "<img src=\"https:\/\/admissions.duke.edu\/wp-content\/uploads\/2022\/03\/037718_allentour008.gif\" alt=\"\">",
+            "tags": [
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:24.361932+00:00",
+            "messages": [
+                "[empty-alt-tag] Check if an image has a non-empty alt tag. Non-decorative images should have a non-empty alt tag"
+            ],
+            "id": "5a96c601-5326-4c88-9a75-bed294b0b75c",
+            "short_id": "FUU881",
+            "url_id": "f237ac11-ac14-4b56-b8b3-1334f594a5f5",
+            "categories": [
+                "empty-alt-tag"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit",
+            "content": "<img src=\"https:\/\/admissions.duke.edu\/wp-content\/themes\/duke\/images\/search.svg\" alt=\"\">",
+            "tags": [
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:24.350723+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "7f112293-bf9c-4cbd-9f70-af14604f3c82",
+            "short_id": "MPV071",
+            "url_id": "f237ac11-ac14-4b56-b8b3-1334f594a5f5",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit",
+            "content": "<p>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:24.339308+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "2136e388-4215-42d2-a122-a803f4e3b16c",
+            "short_id": "QHY853",
+            "url_id": "f237ac11-ac14-4b56-b8b3-1334f594a5f5",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit",
+            "content": "<h3 class=\"h1\">EXPERIENCE DUKE<\/h3>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:24.328342+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "9c16e3c5-1615-432a-8bbb-d98d6814b53b",
+            "short_id": "ROP649",
+            "url_id": "f237ac11-ac14-4b56-b8b3-1334f594a5f5",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit",
+            "content": "<h2 class=\"eyebrow\">Visit<\/h2>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:24.316472+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "5e13d4f6-66ea-4af5-ada7-38dd0e02d6d7",
+            "short_id": "HMT289",
+            "url_id": "f237ac11-ac14-4b56-b8b3-1334f594a5f5",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/visit",
+            "content": "<button aria-expanded=\"false\" aria-controls=\"desktop-drop-nav\" class=\"toggle-menu-desktop d-none d-xl-block\" aria-label=\"utility menu\">\n              Menu\n            <\/button>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.49617+00:00",
+            "messages": [
+                "[landmark-unique] Ensure landmarks are unique. Landmarks should have a unique role or role\/label\/title (i.e. accessible name) combination"
+            ],
+            "id": "fe14c684-23ef-4405-b98e-6b0fce002b2d",
+            "short_id": "OAI705",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "landmark-unique"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<footer class=\"site-footer-top container-fluid\">",
+            "tags": [
+                {
+                    "id": "e991142c-cf65-e45a-a371-e838dea4ca6c",
+                    "content": "cat.semantics"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.491235+00:00",
+            "messages": [
+                "[landmark-no-duplicate-contentinfo] Ensure the document has at most one contentinfo landmark. Document should not have more than one contentinfo landmark"
+            ],
+            "id": "7a04fa51-2847-453a-9511-48fd746f71bf",
+            "short_id": "AVJ026",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "landmark-no-duplicate-contentinfo"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<footer class=\"site-footer-top container-fluid\">",
+            "tags": [
+                {
+                    "id": "e991142c-cf65-e45a-a371-e838dea4ca6c",
+                    "content": "cat.semantics"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.478133+00:00",
+            "messages": [
+                "[empty-heading] Ensure headings have discernible text. Headings should not be empty"
+            ],
+            "id": "29a0072d-4697-47d0-aad9-057204e5fa88",
+            "short_id": "ZLZ321",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "empty-heading"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<h2 class=\"eyebrow\"><\/h2>",
+            "tags": [
+                {
+                    "id": "c6410dfe-af53-9cfc-041a-cfbc01c93240",
+                    "content": "cat.name-role-value"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.463206+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "80988fd4-b9ef-4a14-a591-daa6a169366f",
+            "short_id": "EMA083",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<a target=\"\" class=\"btn-1 btn-b\" href=\"https:\/\/admiss.ugrad.duke.edu\/register\/inquiry\">",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.450306+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "ec2e8f82-43b7-4820-b381-523fda0f0739",
+            "short_id": "VCX917",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<a target=\"\" class=\"btn-1 btn-b\" href=\"https:\/\/admissions.duke.edu\/visit\/\">",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.437711+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "dab52d77-1687-4c4e-bf96-0595a576388d",
+            "short_id": "JEB764",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<a target=\"_blank\" class=\"btn-1\" href=\"https:\/\/admiss.ugrad.duke.edu\/register\/inquiry\">",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.426786+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "9ecaf4bb-3663-49ba-9bbf-e53ab38c25be",
+            "short_id": "NGA093",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<span style=\"color: #000;\">(919) 668-1661<\/span>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.414776+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "0416f384-78d0-43d2-a07a-9ad367ef2b24",
+            "short_id": "WQU311",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<div style=\"font-weight: bold;\">Fax:<\/div>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.401817+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "f97c7901-add5-4931-af04-8ddc299ee354",
+            "short_id": "HFC844",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<span style=\"color: #000;\">(919) 684-3214<\/span>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.391168+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "ed90c898-4fe4-4653-97c3-743093eebd08",
+            "short_id": "CDP338",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<div style=\"font-weight: bold;\">Phone:<\/div>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.380666+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "79360d04-6e2a-4912-86c1-376449508562",
+            "short_id": "ZYT958",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<a href=\"mailto:undergrad-admissions@duke.edu\">undergrad-admissions@duke.edu<\/a>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.369949+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "a5ede9b7-6c83-40bf-9bb2-a17894b94dff",
+            "short_id": "JKR036",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<div style=\"font-weight: bold;\">Email:<\/div>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.35763+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "cb90fd48-2ce8-4365-a069-b48b13dd7c5d",
+            "short_id": "LSZ800",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<div style=\"color: #000;\">Durham, NC 27708-0586<\/div>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.345377+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "2fa75ae5-6515-4335-bb62-3c78831978b9",
+            "short_id": "AGO102",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<div style=\"color: #000;\">Box 90586<\/div>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.334957+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "36a32dff-e5c9-4ec5-8a49-03ab2a1dba8d",
+            "short_id": "GZH944",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<div style=\"color: #000;\">Duke University<\/div>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.324526+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "94ab9674-1d9a-497b-a4c8-375b5aa9a846",
+            "short_id": "NOK750",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<div style=\"color: #000;\">Office of Undergraduate Admissions<\/div>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.310978+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "1de9848c-7588-4ae8-8bed-76bffe0982f7",
+            "short_id": "TBS293",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<div style=\"color: #0028bb; font-weight: bold;\">Mailing Address<\/div>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.301185+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "c76010d7-6ab1-413a-ba2a-6c5514e1a2cd",
+            "short_id": "QTZ208",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<div style=\"color: #000;\">8:30 a.m. \u2013 4:30 p.m. (Eastern Time)<\/div>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.288902+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "626c296e-bd12-4642-96ae-0b96fc688aeb",
+            "short_id": "HHW314",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<div style=\"color: #000;\">Monday \u2013 Friday<\/div>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.275692+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "e5b2737d-5c9e-4337-9963-dacebe3ad8b3",
+            "short_id": "TTB111",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<div style=\"color: #0028bb; font-weight: bold;\">Office Hours:<\/div>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.263923+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "6b99afb2-b167-45df-9741-a7f71c619591",
+            "short_id": "KUK158",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<div style=\"color: #000;\">Durham, NC 27708<\/div>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.251254+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "3d44b936-58fc-4860-8b58-4cfaef2d17bd",
+            "short_id": "WWW859",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<div style=\"color: #000;\">2138 Campus Drive<\/div>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.238985+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "50396758-e1cf-49da-b2ac-efddc1bd976d",
+            "short_id": "SGP459",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<div style=\"color: #000;\">Duke University<\/div>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.221692+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "f51d62dc-7c9a-4c6a-aa01-6e7f797af81a",
+            "short_id": "NQU017",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<div style=\"color: #000;\">Office of Undergraduate Admissions<\/div>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.192929+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "d9c83cfd-eb09-46ce-8d63-efe47b286cd8",
+            "short_id": "LGB770",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<div style=\"color: #0028bb; font-weight: bold;\">Street Address<\/div>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.18106+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "2027f536-882f-4569-8517-ee59c156261e",
+            "short_id": "KYL889",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<h3 class=\"h1\">GET IN TOUCH<\/h3>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.177685+00:00",
+            "messages": [
+                "[pdf-link] This link is to a PDF document, which should be reviewed for WCAG compliance!. WCAG (Web Content Accessibility Guidelines) also applies to PDF documents, and all PDF links should be checked for conformance."
+            ],
+            "id": "2d674cdb-952f-428a-898b-0a515daebfd5",
+            "short_id": "MSM158",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "pdf-link"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<a href=\"https:\/\/rmacac.memberclicks.net\/assets\/docs\/GEPCA.pdf\">Guide to Ethical Practice in College Admissions<\/a>",
+            "tags": []
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.173227+00:00",
+            "messages": [
+                "[empty-alt-tag] Check if an image has a non-empty alt tag. Non-decorative images should have a non-empty alt tag"
+            ],
+            "id": "0c8636e0-5fe6-4633-b6d8-9229835f3121",
+            "short_id": "JYA983",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "empty-alt-tag"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<img src=\"https:\/\/admissions.duke.edu\/wp-content\/themes\/duke\/images\/search.svg\" alt=\"\">",
+            "tags": [
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.163016+00:00",
+            "messages": [
+                "[link-in-text-block] Ensure links are distinguished from surrounding text in a way that does not rely on color. Links must be distinguishable without relying on color"
+            ],
+            "id": "b38ebedc-93b5-422d-ad62-8c9b0ac80370",
+            "short_id": "DKG305",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "link-in-text-block"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<a href=\"https:\/\/www.nacacnet.org\/\" target=\"_blank\" rel=\"noopener\">NACAC website<\/a>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "ae5b35b5-6744-15b1-8a93-e8753bdf9813",
+                    "content": "wcag2a"
+                },
+                {
+                    "id": "5f94ab05-6aa3-7aa0-6746-98d6806dbb17",
+                    "content": "wcag141"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "833d9451-861b-341d-77fc-3c7ab0868400",
+                    "content": "TT13.a"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "51fd839f-2f41-2056-25d8-0aec53f8bf4d",
+                    "content": "EN-9.1.4.1"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.153209+00:00",
+            "messages": [
+                "[link-in-text-block] Ensure links are distinguished from surrounding text in a way that does not rely on color. Links must be distinguishable without relying on color"
+            ],
+            "id": "872e9092-7902-4970-9943-ba3f39b7d94c",
+            "short_id": "HKP838",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "link-in-text-block"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<a href=\"https:\/\/rmacac.memberclicks.net\/assets\/docs\/GEPCA.pdf\">Guide to Ethical Practice in College Admissions<\/a>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "ae5b35b5-6744-15b1-8a93-e8753bdf9813",
+                    "content": "wcag2a"
+                },
+                {
+                    "id": "5f94ab05-6aa3-7aa0-6746-98d6806dbb17",
+                    "content": "wcag141"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "833d9451-861b-341d-77fc-3c7ab0868400",
+                    "content": "TT13.a"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "51fd839f-2f41-2056-25d8-0aec53f8bf4d",
+                    "content": "EN-9.1.4.1"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.142543+00:00",
+            "messages": [
+                "[link-in-text-block] Ensure links are distinguished from surrounding text in a way that does not rely on color. Links must be distinguishable without relying on color"
+            ],
+            "id": "a6cd607c-80fb-460e-b2f5-4ad933970c53",
+            "short_id": "BNU579",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "link-in-text-block"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<a href=\"mailto:undergrad-admissions@duke.edu\"><span class=\"s1\">undergrad-admissions@duke.edu<\/span><\/a>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "ae5b35b5-6744-15b1-8a93-e8753bdf9813",
+                    "content": "wcag2a"
+                },
+                {
+                    "id": "5f94ab05-6aa3-7aa0-6746-98d6806dbb17",
+                    "content": "wcag141"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "833d9451-861b-341d-77fc-3c7ab0868400",
+                    "content": "TT13.a"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "51fd839f-2f41-2056-25d8-0aec53f8bf4d",
+                    "content": "EN-9.1.4.1"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.132361+00:00",
+            "messages": [
+                "[link-in-text-block] Ensure links are distinguished from surrounding text in a way that does not rely on color. Links must be distinguishable without relying on color"
+            ],
+            "id": "9e59cf78-c1bf-45d7-9a70-331214a63111",
+            "short_id": "VBO775",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "link-in-text-block"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<a href=\"https:\/\/admissions.duke.edu\/visit\/\">learn more <span class=\"s2\">here<\/span><\/a>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "ae5b35b5-6744-15b1-8a93-e8753bdf9813",
+                    "content": "wcag2a"
+                },
+                {
+                    "id": "5f94ab05-6aa3-7aa0-6746-98d6806dbb17",
+                    "content": "wcag141"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "833d9451-861b-341d-77fc-3c7ab0868400",
+                    "content": "TT13.a"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "51fd839f-2f41-2056-25d8-0aec53f8bf4d",
+                    "content": "EN-9.1.4.1"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.088699+00:00",
+            "messages": [
+                "[link-in-text-block] Ensure links are distinguished from surrounding text in a way that does not rely on color. Links must be distinguishable without relying on color"
+            ],
+            "id": "5e69784e-257b-4a25-aef2-dd0dd7479716",
+            "short_id": "FOF158",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "link-in-text-block"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<a href=\"mailto:undergrad-admissions@duke.edu\"><span class=\"s1\">undergrad-admissions@duke.edu<\/span><\/a>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "ae5b35b5-6744-15b1-8a93-e8753bdf9813",
+                    "content": "wcag2a"
+                },
+                {
+                    "id": "5f94ab05-6aa3-7aa0-6746-98d6806dbb17",
+                    "content": "wcag141"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "833d9451-861b-341d-77fc-3c7ab0868400",
+                    "content": "TT13.a"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "51fd839f-2f41-2056-25d8-0aec53f8bf4d",
+                    "content": "EN-9.1.4.1"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.077329+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "cb0743fe-7ee1-4bf0-99fb-8a85454fa2f3",
+            "short_id": "SHJ711",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<a href=\"https:\/\/www.nacacnet.org\/\" target=\"_blank\" rel=\"noopener\">NACAC website<\/a>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.066378+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "28264aba-149d-4fc9-a0a1-2b446dc51b0b",
+            "short_id": "PDZ105",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<a href=\"https:\/\/rmacac.memberclicks.net\/assets\/docs\/GEPCA.pdf\">Guide to Ethical Practice in College Admissions<\/a>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.054877+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "3fbe717c-d81b-46b0-a69f-7d428f5769c2",
+            "short_id": "HJH126",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<p>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.043791+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "23fa2ff8-c783-41e3-9bd4-e35f25b31b50",
+            "short_id": "XUI538",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<span class=\"s1\">undergrad-admissions@duke.edu<\/span>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.028835+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "2ccfdbd0-ad6b-4eca-ba55-a674c5ec8427",
+            "short_id": "XLK928",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<p class=\"p1\">If you would like to update your application for admission, please do so through your applicant portal or by emailing <a href=\"mailto:undergrad-admissions@duke.edu\"><span class=\"s1\">undergrad-admissions@duke.edu<\/span><\/a>. Please do not send updates to regional officers.<\/p>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:14.01582+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "46804f7c-f911-4aca-9f44-81ec511fe7ad",
+            "short_id": "XEY251",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<span class=\"s2\">here<\/span>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:13.998933+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "8dcf7cc3-be15-4c4c-b14f-42aba899987e",
+            "short_id": "KYB443",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<a href=\"https:\/\/admissions.duke.edu\/visit\/\">learn more <span class=\"s2\">here<\/span><\/a>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:13.988104+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "9ef53ba1-5aaa-476c-acc9-db4da315ac3a",
+            "short_id": "OFX656",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<p class=\"p1\">If you are planning a visit to Duke, <a href=\"https:\/\/admissions.duke.edu\/visit\/\">learn more <span class=\"s2\">here<\/span><\/a>. Please note that Duke Admissions Officers are unable to schedule individual meetings with students.<\/p>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:13.977325+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "26812717-2479-4d17-afb0-e4e2e2a4dac0",
+            "short_id": "LBY140",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<span class=\"s1\">undergrad-admissions@duke.edu<\/span>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:13.966301+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "f7c5e849-9ff6-4ddd-b97b-cf22cb7bf2be",
+            "short_id": "KTL466",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<p class=\"p1\">",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:13.9548+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "828a9a4f-b1e3-47de-81e2-ce75ea253488",
+            "short_id": "RQY549",
+            "url_id": "bdbb39ff-b43f-476a-9a33-96ab578b5bac",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/contact\/",
+            "content": "<button aria-expanded=\"false\" aria-controls=\"desktop-drop-nav\" class=\"toggle-menu-desktop d-none d-xl-block\" aria-label=\"utility menu\">\n              Menu\n            <\/button>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:11.577145+00:00",
+            "messages": [
+                "[role-img-alt] Ensure [role=\"img\"] elements have alternative text. [role=\"img\"] elements must have an alternative text"
+            ],
+            "id": "a39478ac-3292-4af0-bb36-23f95b2f7e52",
+            "short_id": "ZWB338",
+            "url_id": "63eb9e55-f982-4ed9-97ec-c0f6a3de4cd6",
+            "categories": [
+                "role-img-alt"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/community\/",
+            "content": "<div class=\"slide-image\" role=\"img\" aria-label=\"\" style=\"background-image: url('https:\/\/admissions.duke.edu\/wp-content\/uploads\/2019\/07\/1.jpg');\"><\/div>",
+            "tags": [
+                {
+                    "id": "799d63ff-def6-4172-d2fb-13082d772e3a",
+                    "content": "cat.text-alternatives"
+                },
+                {
+                    "id": "ae5b35b5-6744-15b1-8a93-e8753bdf9813",
+                    "content": "wcag2a"
+                },
+                {
+                    "id": "bdbf199c-cb5e-05f4-6f45-0ac6f442a003",
+                    "content": "wcag111"
+                },
+                {
+                    "id": "4871d787-5670-efdd-b2c7-540b3609c1ec",
+                    "content": "section508"
+                },
+                {
+                    "id": "1f4a2659-22be-a23f-c45b-8e5d51dff814",
+                    "content": "section508.22.a"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "39fab313-0192-e69c-0aaa-9eaafdbc2936",
+                    "content": "TT7.a"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "459df6a1-8bea-4789-b3ca-801dfd5a4ffb",
+                    "content": "EN-9.1.1.1"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:11.571914+00:00",
+            "messages": [
+                "[region] Ensure all page content is contained by landmarks. All page content should be contained by landmarks"
+            ],
+            "id": "94198565-f36d-44f3-a66e-562022e446ad",
+            "short_id": "GAZ956",
+            "url_id": "63eb9e55-f982-4ed9-97ec-c0f6a3de4cd6",
+            "categories": [
+                "region"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/community\/",
+            "content": "<a class=\"policy-link\" href=\"https:\/\/oarc.duke.edu\/privacy\/duke-university-privacy-statement\">Duke Privacy Statement.<\/a>",
+            "tags": [
+                {
+                    "id": "56a24d9c-dcc9-c42e-6b2c-912bc2e740c4",
+                    "content": "cat.keyboard"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:11.566566+00:00",
+            "messages": [
+                "[region] Ensure all page content is contained by landmarks. All page content should be contained by landmarks"
+            ],
+            "id": "44f3144d-c3de-4ad7-9daa-e419660d9855",
+            "short_id": "PXG329",
+            "url_id": "63eb9e55-f982-4ed9-97ec-c0f6a3de4cd6",
+            "categories": [
+                "region"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/community\/",
+            "content": "<span class=\"text\">This website uses cookies as well as similar tools and technologies to understand visitors' experiences. By continuing to use this website, you consent to Duke University's usage of cookies and similar technologies, in accordance with the <\/span>",
+            "tags": [
+                {
+                    "id": "56a24d9c-dcc9-c42e-6b2c-912bc2e740c4",
+                    "content": "cat.keyboard"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:11.560783+00:00",
+            "messages": [
+                "[landmark-unique] Ensure landmarks are unique. Landmarks should have a unique role or role\/label\/title (i.e. accessible name) combination"
+            ],
+            "id": "117920de-8b6d-4b80-80b5-1126beaa1d10",
+            "short_id": "AUB363",
+            "url_id": "63eb9e55-f982-4ed9-97ec-c0f6a3de4cd6",
+            "categories": [
+                "landmark-unique"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/community\/",
+            "content": "<footer class=\"site-footer-top container-fluid\">",
+            "tags": [
+                {
+                    "id": "e991142c-cf65-e45a-a371-e838dea4ca6c",
+                    "content": "cat.semantics"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:11.555496+00:00",
+            "messages": [
+                "[landmark-no-duplicate-contentinfo] Ensure the document has at most one contentinfo landmark. Document should not have more than one contentinfo landmark"
+            ],
+            "id": "47bf09a2-2a3d-4c75-b1d4-9a09a94f4f7b",
+            "short_id": "NYX643",
+            "url_id": "63eb9e55-f982-4ed9-97ec-c0f6a3de4cd6",
+            "categories": [
+                "landmark-no-duplicate-contentinfo"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/community\/",
+            "content": "<footer class=\"site-footer-top container-fluid\">",
+            "tags": [
+                {
+                    "id": "e991142c-cf65-e45a-a371-e838dea4ca6c",
+                    "content": "cat.semantics"
+                },
+                {
+                    "id": "debeba89-ad8c-5252-d8c5-41132cd7e249",
+                    "content": "best-practice"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:11.529857+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "165b85c3-f3dd-46c9-8a00-575d5b07f8f4",
+            "short_id": "OBR426",
+            "url_id": "63eb9e55-f982-4ed9-97ec-c0f6a3de4cd6",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/community\/",
+            "content": "<a target=\"\" class=\"cta-btn btn-1 btn-b\" href=\"https:\/\/admiss.ugrad.duke.edu\/portal\/visits\">",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:11.51741+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "e14f5303-0172-439c-b70c-387a1b5dfd3d",
+            "short_id": "EYR260",
+            "url_id": "63eb9e55-f982-4ed9-97ec-c0f6a3de4cd6",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/community\/",
+            "content": "<p>Daily Campus Visits<\/p>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:11.506188+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "5dac7735-f4d1-4f97-949e-df9f358630bc",
+            "short_id": "EVN359",
+            "url_id": "63eb9e55-f982-4ed9-97ec-c0f6a3de4cd6",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/community\/",
+            "content": "<h4 class=\"eyebrow-metric\">MONDAY-FRIDAY <\/h4>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:11.495271+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "db1dd2fd-3672-4829-9fbd-5391edcdf9ca",
+            "short_id": "JBD034",
+            "url_id": "63eb9e55-f982-4ed9-97ec-c0f6a3de4cd6",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/community\/",
+            "content": "<h3 class=\"h2\">Experience Duke in Person<\/h3>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:11.483527+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "dbdc94d4-d93a-4c6a-959b-706a45a4c178",
+            "short_id": "UCV337",
+            "url_id": "63eb9e55-f982-4ed9-97ec-c0f6a3de4cd6",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/community\/",
+            "content": "<a href=\"https:\/\/admissions.duke.edu\/living-dining-and-wellness\/\">Learn more about LIVING, DINING, AND WELLNESS<br>\n<\/a>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:11.473082+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "51ffa286-1295-4ea9-a333-fbd9cd4e97f5",
+            "short_id": "PAI425",
+            "url_id": "63eb9e55-f982-4ed9-97ec-c0f6a3de4cd6",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/community\/",
+            "content": "<p>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
+                }
+            ]
+        },
+        {
+            "created_at": "2025-12-30T19:37:11.461101+00:00",
+            "messages": [
+                "[color-contrast] Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds. Elements must meet minimum color contrast ratio thresholds"
+            ],
+            "id": "6df7524e-5e55-402e-bc7e-0ba4001f0c12",
+            "short_id": "GLB845",
+            "url_id": "63eb9e55-f982-4ed9-97ec-c0f6a3de4cd6",
+            "categories": [
+                "color-contrast"
+            ],
+            "type": "html",
+            "url": "https:\/\/admissions.duke.edu\/community\/",
+            "content": "<h3 class=\"h1\">Make Duke Yours<\/h3>",
+            "tags": [
+                {
+                    "id": "f790948d-8257-bb87-244f-966fa83d2792",
+                    "content": "cat.color"
+                },
+                {
+                    "id": "f1c03bee-3153-e11e-2a82-cdbf88e5dab0",
+                    "content": "wcag2aa"
+                },
+                {
+                    "id": "40011d84-b8a1-add4-c673-aa7dc82bdecd",
+                    "content": "wcag143"
+                },
+                {
+                    "id": "f1f7316a-79c0-fac9-359d-97e43c3d770c",
+                    "content": "TTv5"
+                },
+                {
+                    "id": "217db28b-a05f-c5f4-9949-4a601a15e449",
+                    "content": "TT13.c"
+                },
+                {
+                    "id": "67955410-92e7-6716-302a-4f1e153b8417",
+                    "content": "EN-301-549"
+                },
+                {
+                    "id": "a881e325-eecf-63ad-da67-32bbecf3a2db",
+                    "content": "EN-9.1.4.3"
+                },
+                {
+                    "id": "6d432c46-7b80-37fd-a3da-a19c908dde0b",
+                    "content": "ACT"
                 }
             ]
         }
