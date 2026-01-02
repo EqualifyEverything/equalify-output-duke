@@ -1,0 +1,1086 @@
+{
+  "audit_name": "trinity_duke_edu-2024-10-24",
+  "audit_id": "imported-id",
+  "pagination": {
+    "totalPages": 1,
+    "pageSize": 64,
+    "page": 1,
+    "totalCount": 64
+  },
+  "availableCategories": [],
+  "statusCounts": {
+    "all": 64,
+    "ignored": 0,
+    "active": 14
+  },
+  "availableTags": [
+    {
+      "id": "role-img-alt",
+      "content": "role-img-alt"
+    },
+    {
+      "id": "aria-required-children",
+      "content": "aria-required-children"
+    },
+    {
+      "id": "frame-title",
+      "content": "frame-title"
+    },
+    {
+      "id": "link-in-text-block",
+      "content": "link-in-text-block"
+    },
+    {
+      "id": "link-name",
+      "content": "link-name"
+    },
+    {
+      "id": "nested-interactive",
+      "content": "nested-interactive"
+    }
+  ],
+  "blockers": [
+    {
+      "created_at": "2024-10-04T17:00:51.017+00:00",
+      "messages": [
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "\"Role Img Alt Rule: Ensure [role=\"\"img\"\"] elements have alternative text. [role=\"\"img\"\"] elements must have an alternative text. More information: https://dequeuniversity.com/rules/axe/4.10/role-img-alt?application=axe-puppeteer\"",
+        "Element has no title attribute",
+        "aria-label attribute does not exist or is empty",
+        "\"Role Img Alt Rule: Ensure [role=\"\"img\"\"] elements have alternate text. [role=\"\"img\"\"] elements must have an alternative text. More information: https://dequeuniversity.com/rules/axe/4.10/role-img-alt?application=axe-puppeteer\""
+      ],
+      "id": "704efc6e-eaa7-4087-949a-fce70da9ffc9",
+      "short_id": "704efc6e",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/our-students",
+      "content": "<div role=\"img\" aria-label=\"\">\n    \n<div class=\"paragraph-photo-bg container\">\n    \n            <div class=\"field field--name-field-background-image field--type-image field--label-hidden field__item\"></div>\n      \n  </div>\n  </div>",
+      "tags": [
+        {
+          "id": "role-img-alt",
+          "content": "role-img-alt"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-04T17:00:50.839+00:00",
+      "messages": [
+        "Aria Required Children Rule: Ensure elements with an ARIA role that require child roles contain them. Certain ARIA roles must contain particular children. More information: https://dequeuniversity.com/rules/axe/4.10/aria-required-children?application=axe-puppeteer",
+        "Element has children which are not allowed: span[aria-label]"
+      ],
+      "id": "0104166b-7b98-4576-8b40-540c7459a560",
+      "short_id": "0104166b",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/",
+      "content": "<ul role=\"list\" class=\"TypeList__TypeListElement-sc-1jhixr6-0 iWWJwo Tags_tagList__6JpKG Tags_condensedTags__w_NCJ\" aria-label=\"Tags\" data-encore-id=\"typeList\">",
+      "tags": [
+        {
+          "id": "aria-required-children",
+          "content": "aria-required-children"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-01-24T15:45:50.594+00:00",
+      "messages": [
+        "\"Element's default semantics were not overridden with role=\"\"none\"\" or role=\"\"presentation\"\"\"",
+        "Element has no title attribute",
+        "Frame Title Rule: Ensure <iframe> and <frame> elements have an accessible name. Frames must have an accessible name. More information: https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axe-puppeteer",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "aria-label attribute does not exist or is empty"
+      ],
+      "id": "6da1e1fe-2b23-43f3-b944-026a64048262",
+      "short_id": "6da1e1fe",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/",
+      "content": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/episode/1ajwHbpjNHWAOwELhppzUY?utm_source=generator\" width=\"100%\" height=\"352\" frameborder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "tags": [
+        {
+          "id": "frame-title",
+          "content": "frame-title"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-04T17:00:51.33+00:00",
+      "messages": [
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "aria-label attribute does not exist or is empty",
+        "Element has no title attribute",
+        "Element does not have text that is visible to screen readers"
+      ],
+      "id": "fb97a363-cd17-4c9c-9437-f9402415f833",
+      "short_id": "fb97a363",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/natural-sciences",
+      "content": "<h1 class=\"title\"></h1>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-04T17:00:51.265+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 4.23 (foreground color: #ffffff, background color: #6c7b9e, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "bc7247ad-aa06-41c9-8a32-f0e92bb718f4",
+      "short_id": "bc7247ad",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/trinity-parents",
+      "content": "<span id=\"cookieconsent:desc\" class=\"cc-message\">",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-04T17:00:51.19+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 1.39 (foreground color: #808080, background color: #527300, font size: 43.2pt (57.6px), font weight: normal). Expected contrast ratio of 3:1\""
+      ],
+      "id": "b56aa58c-f3c0-40b1-a87e-9b1548a5abcc",
+      "short_id": "b56aa58c",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/natural-sciences",
+      "content": "<button type=\"button\" data-role=\"none\" class=\"slick-next slick-arrow\" aria-label=\"Next\" style=\"\" aria-disabled=\"false\">Next</button>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-01-24T15:45:53.272+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.37 (foreground color: #ffd960, background color: #c84e00, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "634079dd-cd86-4b34-a5d2-2104997a25c4",
+      "short_id": "634079dd",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/social-sciences",
+      "content": "<a href=\"/books/primate-cognition-volume-1-2nd-edition\" hreflang=\"en\" tabindex=\"0\">Primate Cognition: Volume 1 2nd Edition</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-01-24T15:45:50.642+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 4.02 (foreground color: #ffd960, background color: #527300, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "fc3f71b4-7489-4250-84d3-05f2f8b788bc",
+      "short_id": "fc3f71b4",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/natural-sciences",
+      "content": "<a href=\"/books/new-growth-art-and-texture-black-hair\" hreflang=\"en\" tabindex=\"0\">New Growth: The Art and Texture of Black Hair</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-11-15T18:01:44.67+00:00",
+      "messages": [
+        "Link In Text Block Rule: Ensure links are distinguished from surrounding text in a way that does not rely on color. Links must be distinguishable without relying on color. More information: https://dequeuniversity.com/rules/axe/4.10/link-in-text-block?application=axe-puppeteer"
+      ],
+      "id": "1926e044-13b1-4369-88da-72253e6a1b7f",
+      "short_id": "1926e044",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/",
+      "content": "<a href=\"https://open.spotify.com/show/0VM8Eqpmg3xffEvtvxIRoe?go=1&amp;sp_cid=fcc8c2832a95dfada2c60edbbb8b67aa&amp;utm_source=embed_player_p&amp;utm_medium=desktop\" dir=\"auto\" data-encore-id=\"textLink\" class=\"Link-sc-k8gsk-0 jTuESf\">Duets</a>",
+      "tags": [
+        {
+          "id": "link-in-text-block",
+          "content": "link-in-text-block"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-04T17:00:51.043+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 4.02 (foreground color: #ffd960, background color: #527300, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "89a5ebb7-621f-45c5-8ef9-a461a13ed6e8",
+      "short_id": "89a5ebb7",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/natural-sciences",
+      "content": "<a href=\"/books/data-mining-concepts-and-techniques\" hreflang=\"en\" tabindex=\"0\">Data Mining: Concepts and Techniques</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-11-15T14:16:46.662+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.37 (foreground color: #ffd960, background color: #c84e00, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "901a3fde-b560-4912-8cc5-8db462b82124",
+      "short_id": "901a3fde",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/social-sciences",
+      "content": "<a href=\"/books/how-we-write-now-living-black-feminist-theory\" hreflang=\"en\" tabindex=\"0\">How We Write Now: Living with Black Feminist Theory</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-11-15T14:16:46.639+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.37 (foreground color: #ffd960, background color: #c84e00, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "a7071008-db10-43d8-92c3-d694820b2809",
+      "short_id": "a7071008",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/social-sciences",
+      "content": "<a href=\"/books/republicanism-and-future-democracy\" hreflang=\"en\" tabindex=\"0\">Republicanism and the Future of Democracy</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-04T17:00:50.894+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 4.02 (foreground color: #ffd960, background color: #527300, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "5a964bf6-9cb0-4ede-bc32-22e524835245",
+      "short_id": "5a964bf6",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/natural-sciences",
+      "content": "<a href=\"/books/science-age-unreason\" hreflang=\"en\" tabindex=\"0\">Science in an Age of Unreason</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-04T17:00:50.863+00:00",
+      "messages": [
+        "aria-label attribute does not exist or is empty",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Element has no title attribute",
+        "Element does not have text that is visible to screen readers"
+      ],
+      "id": "c411bf7f-5ee2-4712-a83c-a536bcbba166",
+      "short_id": "c411bf7f",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/arts-humanities",
+      "content": "<h1 class=\"title\"></h1>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-04T17:00:50.697+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 1.61 (foreground color: #808080, background color: #993399, font size: 43.2pt (57.6px), font weight: normal). Expected contrast ratio of 3:1\""
+      ],
+      "id": "db22c8fd-5e5d-4162-8d4e-d078cd9cde07",
+      "short_id": "db22c8fd",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/arts-humanities",
+      "content": "<button type=\"button\" data-role=\"none\" class=\"slick-next slick-arrow\" aria-label=\"Next\" style=\"\" aria-disabled=\"false\">Next</button>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-04T17:00:55.012+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.37 (foreground color: #ffd960, background color: #c84e00, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "f832297c-bcdf-4685-b444-9670e553ce31",
+      "short_id": "f832297c",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/social-sciences",
+      "content": "<a href=\"/books/agency-and-cognitive-development\" hreflang=\"en\" tabindex=\"0\">Agency and Cognitive Development </a>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-04T17:00:51.139+00:00",
+      "messages": [
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Frame Title Rule: Ensure <iframe> and <frame> elements have an accessible name. Frames must have an accessible name. More information: https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axe-puppeteer",
+        "\"Element's default semantics were not overridden with role=\"\"none\"\" or role=\"\"presentation\"\"\"",
+        "Element has no title attribute",
+        "aria-label attribute does not exist or is empty"
+      ],
+      "id": "1a47e736-d2a7-4571-8882-a204d6e80e02",
+      "short_id": "1a47e736",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/",
+      "content": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/episode/7jrtWwjzjfTi5ChdxcOsXo?utm_source=generator\" width=\"100%\" height=\"352\" frameborder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "tags": [
+        {
+          "id": "frame-title",
+          "content": "frame-title"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-04T17:00:51.069+00:00",
+      "messages": [
+        "Element has no title attribute",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "\"Role Img Alt Rule: Ensure [role=\"\"img\"\"] elements have alternative text. [role=\"\"img\"\"] elements must have an alternative text. More information: https://dequeuniversity.com/rules/axe/4.10/role-img-alt?application=axe-puppeteer\"",
+        "aria-label attribute does not exist or is empty",
+        "\"Role Img Alt Rule: Ensure [role=\"\"img\"\"] elements have alternate text. [role=\"\"img\"\"] elements must have an alternative text. More information: https://dequeuniversity.com/rules/axe/4.10/role-img-alt?application=axe-puppeteer\""
+      ],
+      "id": "f1dc316a-28c4-461d-b904-3ef8acd7e8b6",
+      "short_id": "f1dc316a",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/undergraduate",
+      "content": "<div role=\"img\" aria-label=\"\">\n    \n<div class=\"paragraph-photo-bg container\">\n    \n            <div class=\"field field--name-field-background-image field--type-image field--label-hidden field__item\"></div>\n      \n  </div>\n  </div>",
+      "tags": [
+        {
+          "id": "role-img-alt",
+          "content": "role-img-alt"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-04T17:00:50.993+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.07 (foreground color: #dbd6c2, background color: #887635, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "c8834897-e9c4-47bf-a517-9a3a2da651a6",
+      "short_id": "c8834897",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/",
+      "content": "<span class=\"encore-text encore-text-body-medium SaveOnSpotifyButton_saveOnSpotifyButtonText__6Jv6P\" data-encore-id=\"text\" data-testid=\"save-button-label\">Save on Spotify</span>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-04T17:00:50.952+00:00",
+      "messages": [
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Element has no title attribute",
+        "\"Role Img Alt Rule: Ensure [role=\"\"img\"\"] elements have alternative text. [role=\"\"img\"\"] elements must have an alternative text. More information: https://dequeuniversity.com/rules/axe/4.10/role-img-alt?application=axe-puppeteer\"",
+        "aria-label attribute does not exist or is empty",
+        "\"Role Img Alt Rule: Ensure [role=\"\"img\"\"] elements have alternate text. [role=\"\"img\"\"] elements must have an alternative text. More information: https://dequeuniversity.com/rules/axe/4.10/role-img-alt?application=axe-puppeteer\""
+      ],
+      "id": "57df0ec4-8ce4-44a5-b475-7818f867f6e2",
+      "short_id": "57df0ec4",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/graduate-programs",
+      "content": "<div role=\"img\" aria-label=\"\">\n    \n<div class=\"paragraph-photo-bg container\">\n    \n            <div class=\"field field--name-field-background-image field--type-image field--label-hidden field__item\"></div>\n      \n  </div>\n  </div>",
+      "tags": [
+        {
+          "id": "role-img-alt",
+          "content": "role-img-alt"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-04T17:00:50.89+00:00",
+      "messages": [
+        "Element does not have text that is visible to screen readers",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Link Name Rule: Ensure links have discernible text. Links must have discernible text. More information: https://dequeuniversity.com/rules/axe/4.10/link-name?application=axe-puppeteer",
+        "Element has no title attribute",
+        "aria-label attribute does not exist or is empty"
+      ],
+      "id": "e949a620-ec22-4f62-9814-f353f7cb032c",
+      "short_id": "e949a620",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/centers",
+      "content": "<a href=\"https://dprc.duke.edu/\">&nbsp;</a>",
+      "tags": [
+        {
+          "id": "link-name",
+          "content": "link-name"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-04T17:00:50.774+00:00",
+      "messages": [
+        "\"Role Img Alt Rule: Ensure [role=\"\"img\"\"] elements have alternate text. [role=\"\"img\"\"] elements must have an alternative text. More information: https://dequeuniversity.com/rules/axe/4.10/role-img-alt?application=axe-puppeteer\"",
+        "\"Role Img Alt Rule: Ensure [role=\"\"img\"\"] elements have alternative text. [role=\"\"img\"\"] elements must have an alternative text. More information: https://dequeuniversity.com/rules/axe/4.10/role-img-alt?application=axe-puppeteer\"",
+        "aria-label attribute does not exist or is empty",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Element has no title attribute"
+      ],
+      "id": "20283277-727a-49c0-b935-6e951da6c33b",
+      "short_id": "20283277",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/alumni",
+      "content": "<div role=\"img\" aria-label=\"\">\n    \n<div class=\"paragraph-photo-bg container\">\n    \n            <div class=\"field field--name-field-background-image field--type-image field--label-hidden field__item\"></div>\n      \n  </div>\n  </div>",
+      "tags": [
+        {
+          "id": "role-img-alt",
+          "content": "role-img-alt"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-04-07T20:43:15.315576+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.87 (foreground color: #ffd960, background color: #b84800, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "3aadf604-1175-4dae-aa73-689886d1dfd2",
+      "short_id": "3aadf604",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/social-sciences",
+      "content": "<a href=\"/books/art-mentorship\" hreflang=\"en\" tabindex=\"0\">The Art of Mentorship</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-04-07T20:43:15.323649+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.87 (foreground color: #ffd960, background color: #b84800, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "60b080cb-fcad-4c9d-8165-e2fbfee8ec72",
+      "short_id": "60b080cb",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/social-sciences",
+      "content": "<a href=\"/books/tackling-everyday-race-and-nation-big-time-college-football\" hreflang=\"en\" tabindex=\"0\">Tackling the Everyday: Race and Nation in Big-Time College Football</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-04-07T20:43:15.331469+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.87 (foreground color: #ffd960, background color: #b84800, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "4ebb1944-182a-429b-bdc6-1edf9c304ffe",
+      "short_id": "4ebb1944",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/social-sciences",
+      "content": "<a href=\"/books/it-racist-it-sexist\" hreflang=\"en\" tabindex=\"0\">Is It Racist? Is It Sexist?</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-04-07T20:43:15.339456+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.87 (foreground color: #ffd960, background color: #b84800, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "e93503f7-0ab4-4aa5-b8e8-ad363df9915c",
+      "short_id": "e93503f7",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/social-sciences",
+      "content": "<a href=\"/books/runagate-songs-freedom-bound\" hreflang=\"en\" tabindex=\"0\">Runagate: Songs of the Freedom Bound</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-01-24T15:45:52.564+00:00",
+      "messages": [
+        "Link In Text Block Rule: Ensure links are distinguished from surrounding text in a way that does not rely on color. Links must be distinguishable without relying on color. More information: https://dequeuniversity.com/rules/axe/4.10/link-in-text-block?application=axe-puppeteer"
+      ],
+      "id": "d27fb94e-5795-4522-b38b-ed61dbe9074c",
+      "short_id": "d27fb94e",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/",
+      "content": "<a href=\"https://open.spotify.com/show/0VM8Eqpmg3xffEvtvxIRoe?go=1&amp;sp_cid=d22fe677cce62afb97ce1ea8d1669f0e&amp;utm_source=embed_player_p&amp;utm_medium=desktop\" class=\"Link-sc-k8gsk-0 gnFeen e-9541-text-link e-9541-text-link--standalone\" dir=\"auto\" data-encore-id=\"textLink\">Duets</a>",
+      "tags": [
+        {
+          "id": "link-in-text-block",
+          "content": "link-in-text-block"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-01-24T15:45:50.485+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 4.02 (foreground color: #ffd960, background color: #527300, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "82c12055-d178-40cc-b1bc-f306d206a117",
+      "short_id": "82c12055",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/natural-sciences",
+      "content": "<a href=\"/books/agency-and-cognitive-development\" hreflang=\"en\" tabindex=\"0\">Agency and Cognitive Development </a>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-04T17:00:55.084+00:00",
+      "messages": [
+        "aria-label attribute does not exist or is empty",
+        "Element has no title attribute",
+        "Element does not have text that is visible to screen readers",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\""
+      ],
+      "id": "3631b867-711c-4773-b5af-12d5ed55eb6b",
+      "short_id": "3631b867",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/social-sciences",
+      "content": "<h1 class=\"title\"></h1>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-04T17:00:53.879+00:00",
+      "messages": [
+        "Link In Text Block Rule: Ensure links are distinguished from surrounding text in a way that does not rely on color. Links must be distinguishable without relying on color. More information: https://dequeuniversity.com/rules/axe/4.10/link-in-text-block?application=axe-puppeteer"
+      ],
+      "id": "52ddf3b8-54e6-45f7-a4c4-e06cb0094002",
+      "short_id": "52ddf3b8",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/",
+      "content": "<a href=\"https://open.spotify.com/show/0VM8Eqpmg3xffEvtvxIRoe?go=1&amp;sp_cid=8191ec564328f169c64165278679d191&amp;utm_source=embed_player_p&amp;utm_medium=desktop\" dir=\"auto\" data-encore-id=\"textLink\" class=\"Link-sc-k8gsk-0 ejeyBB\">Duets</a>",
+      "tags": [
+        {
+          "id": "link-in-text-block",
+          "content": "link-in-text-block"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-01-24T15:45:50.338+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 4.02 (foreground color: #ffd960, background color: #527300, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "a70815a5-b389-447e-9d91-e29cc54aaa43",
+      "short_id": "a70815a5",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/natural-sciences",
+      "content": "<a href=\"/books/primate-cognition-volume-1-2nd-edition\" hreflang=\"en\" tabindex=\"0\">Primate Cognition: Volume 1 2nd Edition</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-11-15T14:16:46.688+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.37 (foreground color: #ffd960, background color: #c84e00, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "b1372105-8558-486a-bc03-0ff3b118f1da",
+      "short_id": "b1372105",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/social-sciences",
+      "content": "<a href=\"/books/fundamental-voter-american-electoral-democracy-1952-2020\" hreflang=\"en\" tabindex=\"0\">The Fundamental Voter: American Electoral Democracy, 1952-2020</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-11-15T14:16:46.616+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.37 (foreground color: #ffd960, background color: #c84e00, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "73f8c1be-5ac8-405f-bcc4-0a23fc31f6cd",
+      "short_id": "73f8c1be",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/social-sciences",
+      "content": "<a href=\"/books/golden-years-how-americans-invented-and-reinvented-old-age\" hreflang=\"en\" tabindex=\"0\">Golden Years: How Americans Invented and Reinvented Old Age</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-11-15T14:16:42.98+00:00",
+      "messages": [
+        "Element has no title attribute",
+        "Frame Title Rule: Ensure <iframe> and <frame> elements have an accessible name. Frames must have an accessible name. More information: https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axe-puppeteer",
+        "aria-label attribute does not exist or is empty",
+        "\"Element's default semantics were not overridden with role=\"\"none\"\" or role=\"\"presentation\"\"\"",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\""
+      ],
+      "id": "721fc3e0-0d6c-46c7-a5fd-20a6f395b4b2",
+      "short_id": "721fc3e0",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/",
+      "content": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/episode/7pTQrAvpkhhYBCxOqtXfCO?utm_source=generator\" width=\"100%\" height=\"352\" frameborder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "tags": [
+        {
+          "id": "frame-title",
+          "content": "frame-title"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-09-18T17:17:11.399229+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.91 (foreground color: #747474, background color: #ffeaa8, font size: 10.8pt (14.4px), font weight: bold). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "b17cfd4f-30e5-41ad-9392-59c02c281cde",
+      "short_id": "b17cfd4f",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/our-students",
+      "content": "<a aria-label=\"dismiss cookie message\" role=\"button\" tabindex=\"0\" class=\"cc-btn cc-dismiss\">I ACCEPT</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-09-18T17:17:19.486151+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 4.35 (foreground color: #6c6c6c, background color: #ffe9a3, font size: 10.8pt (14.4px), font weight: bold). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "ee54d699-734f-485b-903d-1a18b329e15a",
+      "short_id": "ee54d699",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/trinity-parents",
+      "content": "<a aria-label=\"dismiss cookie message\" role=\"button\" tabindex=\"0\" class=\"cc-btn cc-dismiss\">I ACCEPT</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-09-18T17:17:32.018493+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 4.23 (foreground color: #ffffff, background color: #6c7b9e, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "1ce25bc8-0f6a-40e0-88c1-9530d5a217b8",
+      "short_id": "1ce25bc8",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/graduate-programs",
+      "content": "<a aria-label=\"learn more about cookies\" role=\"button\" tabindex=\"0\" class=\"cc-link\" href=\"https://oarc.duke.edu/privacy/duke-university-privacy-statement\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Duke Privacy Statement.</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-09-18T17:17:32.027868+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 4.35 (foreground color: #6c6c6c, background color: #ffe9a3, font size: 10.8pt (14.4px), font weight: bold). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "320c51dc-7e35-4cf1-932e-c4d0f0e7fa25",
+      "short_id": "320c51dc",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/graduate-programs",
+      "content": "<a aria-label=\"dismiss cookie message\" role=\"button\" tabindex=\"0\" class=\"cc-btn cc-dismiss\">I ACCEPT</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-09-18T17:17:34.550602+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 4.35 (foreground color: #6c6c6c, background color: #ffe9a3, font size: 10.8pt (14.4px), font weight: bold). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "b3b0acd6-45d7-4060-8bc3-81a569308862",
+      "short_id": "b3b0acd6",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/institutes",
+      "content": "<a aria-label=\"dismiss cookie message\" role=\"button\" tabindex=\"0\" class=\"cc-btn cc-dismiss\">I ACCEPT</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-09-18T17:17:38.001441+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.49 (foreground color: #ffffff, background color: #7c89a9, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "027eaf60-ed09-4109-a2f2-70742af8a778",
+      "short_id": "027eaf60",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/undergraduate/how-advising-works",
+      "content": "<span id=\"cookieconsent:desc\" class=\"cc-message\">",
+      "tags": []
+    },
+    {
+      "created_at": "2025-09-18T17:17:38.013667+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.49 (foreground color: #ffffff, background color: #7c89a9, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "851ecd74-5022-40a5-9529-4ac4d7bdc07f",
+      "short_id": "851ecd74",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/undergraduate/how-advising-works",
+      "content": "<a aria-label=\"learn more about cookies\" role=\"button\" tabindex=\"0\" class=\"cc-link\" href=\"https://oarc.duke.edu/privacy/duke-university-privacy-statement\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Duke Privacy Statement.</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-09-18T17:17:38.024178+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.52 (foreground color: #7c7c7c, background color: #ffebad, font size: 10.8pt (14.4px), font weight: bold). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "a466dfd4-90de-46ef-a155-e15a38dcc673",
+      "short_id": "a466dfd4",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/undergraduate/how-advising-works",
+      "content": "<a aria-label=\"dismiss cookie message\" role=\"button\" tabindex=\"0\" class=\"cc-btn cc-dismiss\">I ACCEPT</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-04T17:00:50.581+00:00",
+      "messages": [
+        "Element has no title attribute",
+        "Element does not have text that is visible to screen readers",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "aria-label attribute does not exist or is empty"
+      ],
+      "id": "edea767c-81bf-443a-9157-88d0f906b292",
+      "short_id": "edea767c",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/staff",
+      "content": "<h4>&nbsp;</h4>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-09-18T17:18:30.120826+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 4.35 (foreground color: #6c6c6c, background color: #ffe9a3, font size: 10.8pt (14.4px), font weight: bold). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "aeb9d9ef-e151-445d-85c9-a8e80d81e436",
+      "short_id": "aeb9d9ef",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/academics-advising/undergraduate/applicants",
+      "content": "<a aria-label=\"dismiss cookie message\" role=\"button\" tabindex=\"0\" class=\"cc-btn cc-dismiss\">I ACCEPT</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-09-18T17:18:39.721963+00:00",
+      "messages": [
+        "Aria Required Children Rule: Ensure elements with an ARIA role that require child roles contain them. Certain ARIA roles must contain particular children. More information: https://dequeuniversity.com/rules/axe/4.10/aria-required-children?application=axe-puppeteer",
+        "Element has children which are not allowed: span[aria-label]"
+      ],
+      "id": "62345558-7bec-4003-8413-40daeb7ed044",
+      "short_id": "62345558",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/",
+      "content": "<ul class=\"e-91132-type-list e-91132-baseline e-91132-type-list--condensed-all Tags_tagList__6JpKG Tags_condensedTags__w_NCJ\" role=\"list\" aria-label=\"Tags\" data-encore-id=\"typeList\">",
+      "tags": [
+        {
+          "id": "aria-required-children",
+          "content": "aria-required-children"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-09-18T17:18:47.924583+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.84 (foreground color: #ffffff, background color: #7482a3, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "2a206715-4d71-433e-90b8-500a1386aee7",
+      "short_id": "2a206715",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/alumni/giving-opportunities",
+      "content": "<span id=\"cookieconsent:desc\" class=\"cc-message\">",
+      "tags": []
+    },
+    {
+      "created_at": "2025-09-18T17:18:47.935189+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.84 (foreground color: #ffffff, background color: #7482a3, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "4f329b27-76de-4a85-b894-27b559dea830",
+      "short_id": "4f329b27",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/alumni/giving-opportunities",
+      "content": "<a aria-label=\"learn more about cookies\" role=\"button\" tabindex=\"0\" class=\"cc-link\" href=\"https://oarc.duke.edu/privacy/duke-university-privacy-statement\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Duke Privacy Statement.</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-09-18T17:18:47.944122+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.91 (foreground color: #747474, background color: #ffeaa8, font size: 10.8pt (14.4px), font weight: bold). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "e189adec-1252-48eb-8f55-0378884d8a2d",
+      "short_id": "e189adec",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/alumni/giving-opportunities",
+      "content": "<a aria-label=\"dismiss cookie message\" role=\"button\" tabindex=\"0\" class=\"cc-btn cc-dismiss\">I ACCEPT</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-09-18T17:19:12.119975+00:00",
+      "messages": [
+        "Nested Interactive Rule: Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies. Interactive controls must not be nested. More information: https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=axe-puppeteer",
+        "Element has focusable descendants"
+      ],
+      "id": "f0c8f338-0ed3-486b-8ef6-27714cf66819",
+      "short_id": "f0c8f338",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/undergraduate/academic-policies",
+      "content": "<div class=\"card-header panel-heading\" role=\"tab\" id=\"heading-accordion-2895-1\">",
+      "tags": [
+        {
+          "id": "nested-interactive",
+          "content": "nested-interactive"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-09-18T17:19:16.487381+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.87 (foreground color: #ffd960, background color: #b84800, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "8a3a9fbd-71a8-4a5b-8a36-507ce922742f",
+      "short_id": "8a3a9fbd",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/social-sciences",
+      "content": "<div class=\"h6\" role=\"heading\" aria-level=\"2\">Runagate</div>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-09-18T17:19:16.496884+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.87 (foreground color: #ffd960, background color: #b84800, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "00638656-f70d-433b-8f13-743bf0754e48",
+      "short_id": "00638656",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/social-sciences",
+      "content": "<div class=\"h6\" role=\"heading\" aria-level=\"2\">Writing with Research: A Practical Guide</div>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-09-18T17:19:16.505324+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.87 (foreground color: #ffd960, background color: #b84800, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "749181b7-8601-493e-8cad-0db94c89b36a",
+      "short_id": "749181b7",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/social-sciences",
+      "content": "<div class=\"h6\" role=\"heading\" aria-level=\"2\">Riddles of the Sphinx</div>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-09-18T17:19:16.515108+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.87 (foreground color: #ffd960, background color: #b84800, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "04402c48-0c20-416f-bfe5-5514e0b0b68b",
+      "short_id": "04402c48",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/social-sciences",
+      "content": "<div class=\"h6\" role=\"heading\" aria-level=\"2\">The Art of Mentorship</div>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-04T17:00:55.054+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 1.16 (foreground color: #808080, background color: #c84e00, font size: 43.2pt (57.6px), font weight: normal). Expected contrast ratio of 3:1\""
+      ],
+      "id": "bae1b193-44f2-4eeb-aae2-34a770739dea",
+      "short_id": "bae1b193",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/social-sciences",
+      "content": "<button type=\"button\" data-role=\"none\" class=\"slick-next slick-arrow\" aria-label=\"Next\" style=\"\" aria-disabled=\"false\">Next</button>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-04-07T20:42:53.385043+00:00",
+      "messages": [
+        "Link In Text Block Rule: Ensure links are distinguished from surrounding text in a way that does not rely on color. Links must be distinguishable without relying on color. More information: https://dequeuniversity.com/rules/axe/4.10/link-in-text-block?application=axe-puppeteer"
+      ],
+      "id": "1e79fe36-4b23-4e7f-9d92-b240c38370b4",
+      "short_id": "1e79fe36",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/",
+      "content": "<a href=\"https://open.spotify.com/show/0VM8Eqpmg3xffEvtvxIRoe?go=1&amp;sp_cid=e94b314613308c6f2137ac60894d49af&amp;utm_source=embed_player_p&amp;utm_medium=desktop\" class=\"Link-sc-k8gsk-0 gnFeen e-9570-text-link e-9570-text-link--standalone\" dir=\"auto\" data-encore-id=\"textLink\">Duets</a>",
+      "tags": [
+        {
+          "id": "link-in-text-block",
+          "content": "link-in-text-block"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-04T17:00:51.158+00:00",
+      "messages": [
+        "Element has no title attribute",
+        "\"Role Img Alt Rule: Ensure [role=\"\"img\"\"] elements have alternate text. [role=\"\"img\"\"] elements must have an alternative text. More information: https://dequeuniversity.com/rules/axe/4.10/role-img-alt?application=axe-puppeteer\"",
+        "aria-label attribute does not exist or is empty",
+        "\"Role Img Alt Rule: Ensure [role=\"\"img\"\"] elements have alternative text. [role=\"\"img\"\"] elements must have an alternative text. More information: https://dequeuniversity.com/rules/axe/4.10/role-img-alt?application=axe-puppeteer\"",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\""
+      ],
+      "id": "d47f8852-9321-4c80-b819-b26fee375c04",
+      "short_id": "d47f8852",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/undergraduate/current-students",
+      "content": "<div role=\"img\" aria-label=\"\">\n    \n<div class=\"paragraph-photo-bg container\">\n    \n            <div class=\"field field--name-field-background-image field--type-image field--label-hidden field__item\"></div>\n      \n  </div>\n  </div>",
+      "tags": [
+        {
+          "id": "role-img-alt",
+          "content": "role-img-alt"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-09-18T17:17:19.475523+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 4.23 (foreground color: #ffffff, background color: #6c7b9e, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "6c32a5fe-4fda-4d08-9266-29a3ad9f2a3f",
+      "short_id": "6c32a5fe",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/trinity-parents",
+      "content": "<a aria-label=\"learn more about cookies\" role=\"button\" tabindex=\"0\" class=\"cc-link\" href=\"https://oarc.duke.edu/privacy/duke-university-privacy-statement\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Duke Privacy Statement.</a>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-12-16T19:19:45.199912+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.53 (foreground color: #ffd960, background color: #697902, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "f9c619c3-3e59-4ece-876a-34a8db2acec6",
+      "short_id": "f9c619c3",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/natural-sciences",
+      "content": "<div class=\"h6\" role=\"heading\" aria-level=\"2\">Primate Cognition: Volume 1 2nd Edition</div>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-12-16T19:19:45.239132+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.53 (foreground color: #ffd960, background color: #697902, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "836c8a7e-4892-480c-9893-4ca09b6f44b6",
+      "short_id": "836c8a7e",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/natural-sciences",
+      "content": "<div class=\"h6\" role=\"heading\" aria-level=\"2\">Agency and Cognitive Development </div>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-12-16T19:19:45.248583+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.53 (foreground color: #ffd960, background color: #697902, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "bab0fd13-b710-42a4-8915-4c1086c60c75",
+      "short_id": "bab0fd13",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/natural-sciences",
+      "content": "<div class=\"h6\" role=\"heading\" aria-level=\"2\">New Growth: The Art and Texture of Black Hair</div>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-12-16T19:19:45.256416+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.53 (foreground color: #ffd960, background color: #697902, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "d6cbae8f-97d5-485d-a426-c7285bbe95b6",
+      "short_id": "d6cbae8f",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/natural-sciences",
+      "content": "<div class=\"h6\" role=\"heading\" aria-level=\"2\">Science in an Age of Unreason</div>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-12-16T19:20:21.685599+00:00",
+      "messages": [
+        "Aria Required Children Rule: Ensure elements with an ARIA role that require child roles contain them. Certain ARIA roles must contain particular children. More information: https://dequeuniversity.com/rules/axe/4.10/aria-required-children?application=axe-puppeteer",
+        "Element has children which are not allowed: span[aria-label]"
+      ],
+      "id": "a10e45a1-0a66-4f08-b36e-754173b731c6",
+      "short_id": "a10e45a1",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/",
+      "content": "<ul class=\"e-91184-type-list e-91184-baseline e-91184-type-list--condensed-all Tags_tagList__6JpKG Tags_condensedTags__w_NCJ\" role=\"list\" aria-label=\"Tags\" data-encore-id=\"typeList\">",
+      "tags": [
+        {
+          "id": "aria-required-children",
+          "content": "aria-required-children"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-09-18T17:18:39.731772+00:00",
+      "messages": [
+        "Frame Title Rule: Ensure <iframe> and <frame> elements have an accessible name. Frames must have an accessible name. More information: https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axe-puppeteer",
+        "Element has no title attribute",
+        "aria-label attribute does not exist or is empty",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "\"Element's default semantics were not overridden with role=\"\"none\"\" or role=\"\"presentation\"\"\""
+      ],
+      "id": "a5c8ab78-0883-4f1b-a50f-f81e23505e74",
+      "short_id": "a5c8ab78",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/",
+      "content": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/episode/6jAVHipOXVoCPZVRoe3K32?utm_source=generator\" width=\"100%\" height=\"352\" frameborder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "tags": [
+        {
+          "id": "frame-title",
+          "content": "frame-title"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-09-18T17:17:11.380994+00:00",
+      "messages": [
+        "\"Element has insufficient color contrast of 3.84 (foreground color: #ffffff, background color: #7482a3, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1\""
+      ],
+      "id": "13ca89e4-2c44-4f98-b469-f7b6f5d4aba0",
+      "short_id": "13ca89e4",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://trinity.duke.edu/our-students",
+      "content": "<a aria-label=\"learn more about cookies\" role=\"button\" tabindex=\"0\" class=\"cc-link\" href=\"https://oarc.duke.edu/privacy/duke-university-privacy-statement\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Duke Privacy Statement.</a>",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "audit_name": "admissions_duke_edu-2024-10-24",
+  "audit_id": "imported-id",
+  "pagination": {
+    "totalPages": 1,
+    "pageSize": 29,
+    "page": 1,
+    "totalCount": 29
+  },
+  "availableCategories": [],
+  "statusCounts": {
+    "all": 29,
+    "ignored": 0,
+    "active": 25
+  },
+  "availableTags": [
+    {
+      "id": "select-name",
+      "content": "select-name"
+    },
+    {
+      "id": "frame-title",
+      "content": "frame-title"
+    },
+    {
+      "id": "aria-allowed-attr",
+      "content": "aria-allowed-attr"
+    },
+    {
+      "id": "role-img-alt",
+      "content": "role-img-alt"
+    }
+  ],
+  "blockers": [
+    {
+      "created_at": "2024-10-07T16:46:43.228+00:00",
+      "messages": [
+        "aria-label attribute does not exist or is empty",
+        "Form element does not have an implicit (wrapped) <label>",
+        "\"Element's default semantics were not overridden with role=\"\"none\"\" or role=\"\"presentation\"\"\"",
+        "Select Name Rule: Ensure select element has an accessible name. Select element must have an accessible name. More information: https://dequeuniversity.com/rules/axe/4.10/select-name?application=axe-puppeteer",
+        "Element has no title attribute",
+        "Element does not have an explicit <label>",
+        "Form element does not have an explicit <label>",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Element does not have an implicit (wrapped) <label>"
+      ],
+      "id": "faac1bb6-9695-400d-8d82-0cf5b64219c9",
+      "short_id": "faac1bb6",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/visit/",
+      "content": "<select>",
+      "tags": [
+        {
+          "id": "select-name",
+          "content": "select-name"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.808+00:00",
+      "messages": [
+        "aria-label attribute does not exist or is empty",
+        "Element has no title attribute",
+        "Element does not have text that is visible to screen readers",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\""
+      ],
+      "id": "3dc3c2a2-a86f-4722-a5b3-8e4f493330e8",
+      "short_id": "3dc3c2a2",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/visit/",
+      "content": "<h4 class=\"eyebrow-metric\"> </h4>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.803+00:00",
+      "messages": [
+        "\"Element's default semantics were not overridden with role=\"\"none\"\" or role=\"\"presentation\"\"\"",
+        "Frame Title Rule: Ensure <iframe> and <frame> elements have an accessible name. Frames must have an accessible name. More information: https://dequeuniversity.com/rules/axe/4.10/frame-title?application=axe-puppeteer",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Element has no title attribute",
+        "aria-label attribute does not exist or is empty"
+      ],
+      "id": "5386284e-b28b-4fc3-a236-270949febef9",
+      "short_id": "5386284e",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/your-first-year/",
+      "content": "<iframe src=\"https://www.youtube.com/embed/qK3zFrVBKMc\" width=\"600\" height=\"335\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>",
+      "tags": [
+        {
+          "id": "frame-title",
+          "content": "frame-title"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.777+00:00",
+      "messages": [
+        "Aria Allowed Attr Rule: Ensure an element's role supports its ARIA attributes. Elements must only use supported ARIA attributes. More information: https://dequeuniversity.com/rules/axe/4.10/aria-allowed-attr?application=axe-puppeteer"
+      ],
+      "id": "c67d83df-bb69-48fd-9cc6-c4dc128281a3",
+      "short_id": "c67d83df",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/community/",
+      "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
+      "tags": [
+        {
+          "id": "aria-allowed-attr",
+          "content": "aria-allowed-attr"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.763+00:00",
+      "messages": [
+        "Element does not have an explicit <label>",
+        "Element has no title attribute",
+        "\"Element's default semantics were not overridden with role=\"\"none\"\" or role=\"\"presentation\"\"\"",
+        "Select Name Rule: Ensure select element has an accessible name. Select element must have an accessible name. More information: https://dequeuniversity.com/rules/axe/4.10/select-name?application=axe-puppeteer",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Form element does not have an implicit (wrapped) <label>",
+        "aria-label attribute does not exist or is empty",
+        "Element does not have an implicit (wrapped) <label>",
+        "Form element does not have an explicit <label>"
+      ],
+      "id": "9868fad5-a7ea-445e-9733-eb37264781c2",
+      "short_id": "9868fad5",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/apply/",
+      "content": "<select>",
+      "tags": [
+        {
+          "id": "select-name",
+          "content": "select-name"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.736+00:00",
+      "messages": [
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Element does not have text that is visible to screen readers",
+        "Element has no title attribute",
+        "aria-label attribute does not exist or is empty"
+      ],
+      "id": "f1c2b290-5b8c-4073-9e4b-cc2a31f420da",
+      "short_id": "f1c2b290",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/resources-tools/",
+      "content": "<h2 class=\"eyebrow\"></h2>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.595+00:00",
+      "messages": [
+        "Element does not have text that is visible to screen readers",
+        "Element has no title attribute",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "aria-label attribute does not exist or is empty"
+      ],
+      "id": "93baf624-9051-4691-a0ad-0843ff27eaff",
+      "short_id": "93baf624",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/apply/",
+      "content": "<h2 class=\"eyebrow\"></h2>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.557+00:00",
+      "messages": [
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Element does not have an explicit <label>",
+        "\"Element's default semantics were not overridden with role=\"\"none\"\" or role=\"\"presentation\"\"\"",
+        "Select Name Rule: Ensure select element has an accessible name. Select element must have an accessible name. More information: https://dequeuniversity.com/rules/axe/4.10/select-name?application=axe-puppeteer",
+        "aria-label attribute does not exist or is empty",
+        "Element has no title attribute",
+        "Element does not have an implicit (wrapped) <label>",
+        "Form element does not have an implicit (wrapped) <label>",
+        "Form element does not have an explicit <label>"
+      ],
+      "id": "9876c0f1-5ddb-4909-8810-85ea9e3fbfaf",
+      "short_id": "9876c0f1",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/faqs/",
+      "content": "<select>",
+      "tags": [
+        {
+          "id": "select-name",
+          "content": "select-name"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.547+00:00",
+      "messages": [
+        "Aria Allowed Attr Rule: Ensure an element's role supports its ARIA attributes. Elements must only use supported ARIA attributes. More information: https://dequeuniversity.com/rules/axe/4.10/aria-allowed-attr?application=axe-puppeteer"
+      ],
+      "id": "64ec0ca8-01ce-4819-bd2b-eec354557f8d",
+      "short_id": "64ec0ca8",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/our-students/",
+      "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
+      "tags": [
+        {
+          "id": "aria-allowed-attr",
+          "content": "aria-allowed-attr"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.49+00:00",
+      "messages": [
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Element does not have text that is visible to screen readers",
+        "Element has no title attribute",
+        "aria-label attribute does not exist or is empty"
+      ],
+      "id": "0366d71b-bf16-41d6-9c26-c5428474f2b8",
+      "short_id": "0366d71b",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/contact/",
+      "content": "<h2 class=\"eyebrow\"></h2>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.456+00:00",
+      "messages": [
+        "Aria Allowed Attr Rule: Ensure an element's role supports its ARIA attributes. Elements must only use supported ARIA attributes. More information: https://dequeuniversity.com/rules/axe/4.10/aria-allowed-attr?application=axe-puppeteer"
+      ],
+      "id": "705de399-6e07-4dd9-aace-cc5a48c3660a",
+      "short_id": "705de399",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/your-first-year/",
+      "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
+      "tags": [
+        {
+          "id": "aria-allowed-attr",
+          "content": "aria-allowed-attr"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.382+00:00",
+      "messages": [
+        "Aria Allowed Attr Rule: Ensure an element's role supports its ARIA attributes. Elements must only use supported ARIA attributes. More information: https://dequeuniversity.com/rules/axe/4.10/aria-allowed-attr?application=axe-puppeteer"
+      ],
+      "id": "d6a8cbdd-f647-4998-92de-b574647c7448",
+      "short_id": "d6a8cbdd",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/contact/",
+      "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n    Open\n  </button>",
+      "tags": [
+        {
+          "id": "aria-allowed-attr",
+          "content": "aria-allowed-attr"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.376+00:00",
+      "messages": [
+        "Aria Allowed Attr Rule: Ensure an element's role supports its ARIA attributes. Elements must only use supported ARIA attributes. More information: https://dequeuniversity.com/rules/axe/4.10/aria-allowed-attr?application=axe-puppeteer"
+      ],
+      "id": "9ec381ec-20a3-4992-9a69-817a25750f48",
+      "short_id": "9ec381ec",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/families/",
+      "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
+      "tags": [
+        {
+          "id": "aria-allowed-attr",
+          "content": "aria-allowed-attr"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.356+00:00",
+      "messages": [
+        "Element has no title attribute",
+        "Element does not have text that is visible to screen readers",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "aria-label attribute does not exist or is empty"
+      ],
+      "id": "9460bb01-66ce-4140-92b8-fddd5cc6125d",
+      "short_id": "9460bb01",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/faqs/",
+      "content": "<h2 class=\"eyebrow\"></h2>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.338+00:00",
+      "messages": [
+        "Aria Allowed Attr Rule: Ensure an element's role supports its ARIA attributes. Elements must only use supported ARIA attributes. More information: https://dequeuniversity.com/rules/axe/4.10/aria-allowed-attr?application=axe-puppeteer"
+      ],
+      "id": "42f904d8-d770-479a-ab8a-9d5aeb7fc310",
+      "short_id": "42f904d8",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/school-spirit-and-community/",
+      "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n    Open\n  </button>",
+      "tags": [
+        {
+          "id": "aria-allowed-attr",
+          "content": "aria-allowed-attr"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.328+00:00",
+      "messages": [
+        "Aria Allowed Attr Rule: Ensure an element's role supports its ARIA attributes. Elements must only use supported ARIA attributes. More information: https://dequeuniversity.com/rules/axe/4.10/aria-allowed-attr?application=axe-puppeteer"
+      ],
+      "id": "66cb03d8-c42e-4e18-907f-3912b2fa6467",
+      "short_id": "66cb03d8",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/academic-possibilities/",
+      "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
+      "tags": [
+        {
+          "id": "aria-allowed-attr",
+          "content": "aria-allowed-attr"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.317+00:00",
+      "messages": [
+        "Aria Allowed Attr Rule: Ensure an element's role supports its ARIA attributes. Elements must only use supported ARIA attributes. More information: https://dequeuniversity.com/rules/axe/4.10/aria-allowed-attr?application=axe-puppeteer"
+      ],
+      "id": "e9e1a2ee-100f-4535-b43e-7c152dee5152",
+      "short_id": "e9e1a2ee",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/beyond-campus/",
+      "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
+      "tags": [
+        {
+          "id": "aria-allowed-attr",
+          "content": "aria-allowed-attr"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.282+00:00",
+      "messages": [
+        "Element has no title attribute",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "\"Role Img Alt Rule: Ensure [role=\"\"img\"\"] elements have alternative text. [role=\"\"img\"\"] elements must have an alternative text. More information: https://dequeuniversity.com/rules/axe/4.10/role-img-alt?application=axe-puppeteer\"",
+        "aria-label attribute does not exist or is empty",
+        "\"Role Img Alt Rule: Ensure [role=\"\"img\"\"] elements have alternate text. [role=\"\"img\"\"] elements must have an alternative text. More information: https://dequeuniversity.com/rules/axe/4.10/role-img-alt?application=axe-puppeteer\""
+      ],
+      "id": "cc6273d8-c510-43d0-a10e-04f45ed04741",
+      "short_id": "cc6273d8",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/",
+      "content": "<div class=\"side-image\" role=\"img\" aria-label=\"\" style=\"background-image: url(https://admissions.duke.edu/wp-content/uploads/2019/11/018418_dukeunc199.jpg)\"></div>",
+      "tags": [
+        {
+          "id": "role-img-alt",
+          "content": "role-img-alt"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.142+00:00",
+      "messages": [
+        "Element does not have text that is visible to screen readers",
+        "aria-label attribute does not exist or is empty",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Element has no title attribute"
+      ],
+      "id": "8fae156a-7db7-46d7-b816-1b6b9ff1811a",
+      "short_id": "8fae156a",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/counselors/",
+      "content": "<h2 class=\"eyebrow\"></h2>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.12+00:00",
+      "messages": [
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Element does not have text that is visible to screen readers",
+        "Element has no title attribute",
+        "aria-label attribute does not exist or is empty"
+      ],
+      "id": "e3381eff-b416-434e-8ee8-98de7184d68f",
+      "short_id": "e3381eff",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/",
+      "content": "<h2 class=\"eyebrow\"></h2>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.114+00:00",
+      "messages": [
+        "Aria Allowed Attr Rule: Ensure an element's role supports its ARIA attributes. Elements must only use supported ARIA attributes. More information: https://dequeuniversity.com/rules/axe/4.10/aria-allowed-attr?application=axe-puppeteer"
+      ],
+      "id": "6eea1ae4-4687-4bd6-bc09-ebd7773fa384",
+      "short_id": "6eea1ae4",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/counselors/",
+      "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
+      "tags": [
+        {
+          "id": "aria-allowed-attr",
+          "content": "aria-allowed-attr"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.643+00:00",
+      "messages": [
+        "Aria Allowed Attr Rule: Ensure an element's role supports its ARIA attributes. Elements must only use supported ARIA attributes. More information: https://dequeuniversity.com/rules/axe/4.10/aria-allowed-attr?application=axe-puppeteer"
+      ],
+      "id": "286d49e1-913d-4077-add2-45768e3c8e64",
+      "short_id": "286d49e1",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/visit/",
+      "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
+      "tags": [
+        {
+          "id": "aria-allowed-attr",
+          "content": "aria-allowed-attr"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.653+00:00",
+      "messages": [
+        "Element does not have text that is visible to screen readers",
+        "Element has no title attribute",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "aria-label attribute does not exist or is empty"
+      ],
+      "id": "8993870c-681e-4e4c-8fde-c1928c343ed5",
+      "short_id": "8993870c",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/resources-tools/",
+      "content": "<h3></h3>",
+      "tags": []
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.527+00:00",
+      "messages": [
+        "Aria Allowed Attr Rule: Ensure an element's role supports its ARIA attributes. Elements must only use supported ARIA attributes. More information: https://dequeuniversity.com/rules/axe/4.10/aria-allowed-attr?application=axe-puppeteer"
+      ],
+      "id": "924ac02f-3ad1-4100-a31e-dee72b9f15ea",
+      "short_id": "924ac02f",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/financial-support/",
+      "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
+      "tags": [
+        {
+          "id": "aria-allowed-attr",
+          "content": "aria-allowed-attr"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:42.29+00:00",
+      "messages": [
+        "Aria Allowed Attr Rule: Ensure an element's role supports its ARIA attributes. Elements must only use supported ARIA attributes. More information: https://dequeuniversity.com/rules/axe/4.10/aria-allowed-attr?application=axe-puppeteer"
+      ],
+      "id": "3f46b9f7-96a4-44ce-98c7-457a44673ec0",
+      "short_id": "3f46b9f7",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/apply/",
+      "content": "<button class=\"mobile-trigger\" aria-selected=\"false\">\n  Open\n</button>",
+      "tags": [
+        {
+          "id": "aria-allowed-attr",
+          "content": "aria-allowed-attr"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-10-14T16:16:35.483083+00:00",
+      "messages": [
+        "Element does not have text that is visible to screen readers",
+        "aria-label attribute does not exist or is empty",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Element has no title attribute"
+      ],
+      "id": "5d4d5ff2-dfb2-4405-bff1-3d4d7c282fb7",
+      "short_id": "5d4d5ff2",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/resources/",
+      "content": "<h2 class=\"eyebrow\"></h2>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-10-14T16:16:35.499798+00:00",
+      "messages": [
+        "Element does not have text that is visible to screen readers",
+        "aria-label attribute does not exist or is empty",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Element has no title attribute"
+      ],
+      "id": "c458dc97-4809-48e9-935a-8e7483255e44",
+      "short_id": "c458dc97",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/resources/",
+      "content": "<h3></h3>",
+      "tags": []
+    },
+    {
+      "created_at": "2025-10-14T16:16:35.524323+00:00",
+      "messages": [
+        "aria-label attribute does not exist or is empty",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Element has no title attribute",
+        "Select Name Rule: Ensure select element has an accessible name. Select element must have an accessible name. More information: https://dequeuniversity.com/rules/axe/4.10/select-name?application=axe-puppeteer",
+        "Element does not have an implicit (wrapped) <label>",
+        "Element does not have an explicit <label>",
+        "\"Element's default semantics were not overridden with role=\"\"none\"\" or role=\"\"presentation\"\"\""
+      ],
+      "id": "62f56d88-d72f-474b-abfe-cd2225c5daa9",
+      "short_id": "62f56d88",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/resources/",
+      "content": "<select>",
+      "tags": [
+        {
+          "id": "select-name",
+          "content": "select-name"
+        }
+      ]
+    },
+    {
+      "created_at": "2024-10-07T16:46:43.2+00:00",
+      "messages": [
+        "\"Role Img Alt Rule: Ensure [role=\"\"img\"\"] elements have alternative text. [role=\"\"img\"\"] elements must have an alternative text. More information: https://dequeuniversity.com/rules/axe/4.10/role-img-alt?application=axe-puppeteer\"",
+        "aria-label attribute does not exist or is empty",
+        "\"aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\"",
+        "Element has no title attribute",
+        "\"Role Img Alt Rule: Ensure [role=\"\"img\"\"] elements have alternate text. [role=\"\"img\"\"] elements must have an alternative text. More information: https://dequeuniversity.com/rules/axe/4.10/role-img-alt?application=axe-puppeteer\""
+      ],
+      "id": "2bcd38c0-e879-4574-899e-f2b043a4e8d8",
+      "short_id": "2bcd38c0",
+      "url_id": "",
+      "categories": [],
+      "type": "issue",
+      "url": "https://admissions.duke.edu/community/",
+      "content": "<div class=\"slide-image\" role=\"img\" aria-label=\"\" style=\"background-image: url('https://admissions.duke.edu/wp-content/uploads/2019/07/1.jpg');\"></div>",
+      "tags": [
+        {
+          "id": "role-img-alt",
+          "content": "role-img-alt"
+        }
+      ]
+    }
+  ]
+}
